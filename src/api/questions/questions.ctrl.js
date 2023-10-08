@@ -25,13 +25,13 @@ import Question from '../../models/questions';
 
 // 질문 생성
 export const createQuestion = async (ctx) => {
-  const { username, question, answer } = ctx.request.body;
+  const { username, questions, answers } = ctx.request.body;
 
   // 데이터베이스에 질문과 답변 저장
   const newQuestion = new Question({
     username,
-    question,
-    answer,
+    question: questions, // 수정된 부분
+    answer: answers, // 수정된 부분
   });
 
   try {
