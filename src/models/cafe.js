@@ -7,6 +7,7 @@ const cafeSchema = new Schema(
   {
     id: Number, // 일반 넘버 형식의 id 필드
     cafeid: Number,
+    cafecount: Number,
     name: String,
     cafe: String,
     content: String,

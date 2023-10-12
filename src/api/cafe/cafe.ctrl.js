@@ -43,11 +43,22 @@ const storeMenu = async (ctx, filePath, category) => {
     // 중복을 제거한 데이터를 저장할 배열
     const newCafes = [];
 
+    // cafeidCounter를 카페 카테고리에 따라 설정
+    let cafeidCounter = 0;
+    if (category === 'starbucks') {
+      cafeidCounter = 1;
+    } else if (category === 'ediya') {
+      cafeidCounter = 2;
+    } else if (category === 'hollys') {
+      cafeidCounter = 3;
+    }
+
     // JSON 데이터 처리
     for (const item of jsonData) {
       const cafe = {
         id: categories.idCounter + 1, // 전체 카테고리용 id 카운터를 사용
-        cafeid: getNextCafeId(category) + 1, // cafeid 카운터
+        cafeid: cafeidCounter,
+        cafecount: getNextCafeId(category) + 1, // cafeid 카운터
         name: item.prodName, // prodName을 name 필드에 저장
         cafe: item.prodCafe,
         content: item.prodContent || '',
@@ -166,12 +177,20 @@ const getMenu = async (ctx, category) => {
   try {
     // 정적인 서브 컬렉션 이름을 사용
     const subCollectionName = `cafe/${category}`;
+    const cafeId = parseInt(ctx.query.cafedetail); // ctx.query.cafedetail을 사용하여 쿼리 파라미터 읽기
 
     // 서브 컬렉션에서 커피 데이터를 조회합니다.
     const subCollection = Cafe.db.collection(subCollectionName);
     const cafes = await subCollection.find({}).toArray();
+    const coffee = await subCollection.findOne({ cafecount: cafeId });
 
     ctx.body = cafes;
+    if (!coffee) {
+      ctx.status = 404; // 데이터를 찾을 수 없음 상태 코드
+      ctx.body = { error: '커피를 찾을 수 없습니다.' };
+    } else {
+      ctx.body = coffee;
+    }
   } catch (err) {
     console.error('데이터를 조회하는 중에 오류가 발생했습니다.', err);
     ctx.status = 500; // 내부 서버 오류 상태 코드
