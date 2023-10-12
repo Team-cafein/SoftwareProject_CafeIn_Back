@@ -177,26 +177,23 @@ const getMenu = async (ctx, category) => {
   try {
     // 정적인 서브 컬렉션 이름을 사용
     const subCollectionName = `cafe/${category}`;
-    const cafeId = parseInt(ctx.query.cafedetail); // ctx.query.cafedetail을 사용하여 쿼리 파라미터 읽기
+    // const cafeId = parseInt(ctx.query.cafedetail); // ctx.query.cafedetail을 사용하여 쿼리 파라미터 읽기
 
     // 서브 컬렉션에서 커피 데이터를 조회합니다.
     const subCollection = Cafe.db.collection(subCollectionName);
     const cafes = await subCollection.find({}).toArray();
-    const coffee = await subCollection.findOne({ cafecount: cafeId });
+    // const coffee = await subCollection.findOne({ cafecount: cafeId });
 
     ctx.body = cafes;
-    if (!coffee) {
-      ctx.status = 404; // 데이터를 찾을 수 없음 상태 코드
-      ctx.body = { error: '커피를 찾을 수 없습니다.' };
-    } else {
-      ctx.body = coffee;
-    }
+    // if (!coffee) {
+    //   ctx.status = 404; // 데이터를 찾을 수 없음 상태 코드
+    //   ctx.body = { error: '커피를 찾을 수 없습니다.' };
+    // } else {
+    //   ctx.body = coffee;
+    // }
   } catch (err) {
     console.error('데이터를 조회하는 중에 오류가 발생했습니다.', err);
     ctx.status = 500; // 내부 서버 오류 상태 코드
-    ctx.body = {
-      error: '데이터를 조회하는 중에 오류가 발생했습니다.',
-    };
   }
 };
 
