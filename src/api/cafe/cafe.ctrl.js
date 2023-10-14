@@ -118,6 +118,7 @@ const storeMenu = async (ctx, filePath, category) => {
       //   // 카테고리별 cafeid 카운터도 항상 증가
       //   categories[category].cafeidCounter++;
       // }
+
       if (existingCafeIndex !== -1) {
         // name이 같은데 내용이 다른 경우, content, tag, 그리고 detail 업데이트
         const existingCafe = newCafes[existingCafeIndex];
