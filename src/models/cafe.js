@@ -15,11 +15,11 @@ const cafeSchema = new Schema(
     tag: [String], // tag 필드
     detail: {
       volume: { type: String, default: '' }, // 빈 문자열로 초기화
-      kcal: { type: Number, default: null }, // 기본값을 null로 설정
-      sat_FAT: { type: Number, default: null },
-      sodium: { type: Number, default: null },
-      sugars: { type: Number, default: null },
-      caffeine: { type: Number, default: null },
+      kcal: { type: String, default: '' }, // 기본값을 null로 설정
+      sat_FAT: { type: String, default: '' },
+      sodium: { type: String, default: '' },
+      sugars: { type: String, default: '' },
+      caffeine: { type: String, default: '' },
     },
   },
   {
@@ -30,3 +30,12 @@ const cafeSchema = new Schema(
 const Cafe = mongoose.model('Cafe', cafeSchema);
 
 export default Cafe;
+
+// detail: {
+//   volume: { type: String, default: '' }, // 빈 문자열로 초기화
+//   kcal: { type: Number, default: null }, // 기본값을 null로 설정
+//   sat_FAT: { type: Number, default: null },
+//   sodium: { type: Number, default: null },
+//   sugars: { type: Number, default: null },
+//   caffeine: { type: Number, default: null },
+// },

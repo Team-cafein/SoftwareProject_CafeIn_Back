@@ -78,24 +78,24 @@ const storeMenu = async (ctx, filePath, category) => {
               : '', // prodDetail의 volume 필드
           kcal:
             item.prodDetail && !isNaN(item.prodDetail.kcal)
-              ? Number(item.prodDetail.kcal)
-              : null, // prodDetail의 kcal 필드
+              ? item.prodDetail.kcal
+              : '', // prodDetail의 kcal 필드
           sat_FAT:
             item.prodDetail && !isNaN(item.prodDetail.sat_FAT)
-              ? Number(item.prodDetail.sat_FAT)
-              : null, // prodDetail의 sat_FAT 필드
+              ? item.prodDetail.sat_FAT
+              : '', // prodDetail의 sat_FAT 필드
           sodium:
             item.prodDetail && !isNaN(item.prodDetail.sodium)
-              ? Number(item.prodDetail.sodium)
-              : null, // prodDetail의 sodium 필드
+              ? item.prodDetail.sodium
+              : '', // prodDetail의 sodium 필드
           sugars:
             item.prodDetail && !isNaN(item.prodDetail.sugars)
-              ? Number(item.prodDetail.sugars)
-              : null, // prodDetail의 sugars 필드
+              ? item.prodDetail.sugars
+              : '', // prodDetail의 sugars 필드
           caffeine:
             item.prodDetail && !isNaN(item.prodDetail.caffeine)
-              ? Number(item.prodDetail.caffeine)
-              : null, // prodDetail의 caffeine 필드
+              ? item.prodDetail.caffeine
+              : '', // prodDetail의 caffeine 필드
         },
         tag: item.prodTag || [], // tag 필드를 선택적으로 저장 (없을 경우 빈 배열)
       };
@@ -115,11 +115,11 @@ const storeMenu = async (ctx, filePath, category) => {
           detail: {
             ...existingCafe.detail,
             volume: cafe.detail.volume || '',
-            kcal: Number(cafe.detail.kcal) || null,
-            sat_FAT: Number(cafe.detail.sat_FAT) || null,
-            sodium: Number(cafe.detail.sodium) || null,
-            sugars: Number(cafe.detail.sugars) || null,
-            caffeine: Number(cafe.detail.caffeine) || null,
+            kcal: cafe.detail.kcal || '',
+            sat_FAT: cafe.detail.sat_FAT || '',
+            sodium: cafe.detail.sodium || '',
+            sugars: cafe.detail.sugars || '',
+            caffeine: cafe.detail.caffeine || '',
           },
         };
         newCafes[existingCafeIndex] = updatedCafe;

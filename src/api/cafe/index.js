@@ -1,11 +1,11 @@
 // src/api/cafe/index.js
 import Router from 'koa-router';
 import * as cafeCtrl from './cafe.ctrl';
-// import Cafe from '../../models/cafe';
+// import * as reviewsCtrl from './../reviews/reviews.ctrl';
 
 const cafe = new Router();
 
-// 엔드포인트와 컨트롤러를 딕셔너리로 관리
+// 카페 기본 엔드포인트와 컨트롤러를 딕셔너리로 관리
 const endpoints = {
   '/db_store_ediya_menu': cafeCtrl.getStoredEdiyaMenu,
   '/db_get_ediya_menu': cafeCtrl.getEdiyaMenu,
@@ -23,6 +23,11 @@ const endpoints = {
 Object.entries(endpoints).forEach(([endpoint, controller]) => {
   cafe.get(endpoint, controller);
 });
+
+export default cafe;
+
+// import Cafe from '../../models/cafe';
+// import reviews from '../reviews/index';
 
 // 페이지네이션 추가할 시 코드
 // const createMenuEndpoint = (category) => `/db_get_${category}_menu/:page`; // 엔드포인트 경로 변수 생성 함수
@@ -68,5 +73,3 @@ Object.entries(endpoints).forEach(([endpoint, controller]) => {
 //     }
 //   });
 // });
-
-export default cafe;
