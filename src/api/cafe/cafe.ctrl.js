@@ -14,6 +14,12 @@ const categories = {
   starbucks: {
     cafeidCounter: 0, // 스타벅스 카테고리용 cafeid 카운터
   },
+  paik: {
+    cafeidCounter: 0, // 스타벅스 카테고리용 cafeid 카운터
+  },
+  mega: {
+    cafeidCounter: 0, // 스타벅스 카테고리용 cafeid 카운터
+  },
 };
 
 // 카테고리별 cafeidCounter 관리를 위한 함수
@@ -51,6 +57,8 @@ const storeMenu = async (ctx, filePath, category) => {
       cafeidCounter = 2;
     } else if (category === 'hollys') {
       cafeidCounter = 3;
+    } else if (category === 'paik') {
+      cafeidCounter = 4;
     }
 
     // JSON 데이터 처리
@@ -96,28 +104,6 @@ const storeMenu = async (ctx, filePath, category) => {
       const existingCafeIndex = newCafes.findIndex(
         (existing) => existing.name === item.prodName,
       );
-
-      // if (existingCafeIndex !== -1) {
-      //   // name이 같은데 내용이 다른 경우, content와 tag 업데이트
-      //   if (
-      //     newCafes[existingCafeIndex].content !== cafe.content ||
-      //     JSON.stringify(newCafes[existingCafeIndex].tag) !==
-      //       JSON.stringify(cafe.tag)
-      //   ) {
-      //     newCafes[existingCafeIndex] = {
-      //       ...newCafes[existingCafeIndex],
-      //       content: cafe.content,
-      //       tag: cafe.tag,
-      //     };
-      //   }
-      // } else {
-      //   // 이미 있는 데이터가 없는 경우, 새로 추가합니다.
-      //   newCafes.push(cafe);
-      //   // 전체 카테고리용 id 카운터는 항상 증가
-      //   categories.idCounter++;
-      //   // 카테고리별 cafeid 카운터도 항상 증가
-      //   categories[category].cafeidCounter++;
-      // }
 
       if (existingCafeIndex !== -1) {
         // name이 같은데 내용이 다른 경우, content, tag, 그리고 detail 업데이트
@@ -171,32 +157,6 @@ const storeMenu = async (ctx, filePath, category) => {
     };
   }
 };
-
-// // db에 저장된 cafe/카페종류 의 데이터를 가져옴
-// // GET /api/cafe/db_get_starbucks_menu
-// const getMenu = async (ctx, category) => {
-//   try {
-//     // 정적인 서브 컬렉션 이름을 사용
-//     const subCollectionName = `cafe/${category}`;
-//     // const cafeId = parseInt(ctx.query.cafedetail); // ctx.query.cafedetail을 사용하여 쿼리 파라미터 읽기
-
-//     // 서브 컬렉션에서 커피 데이터를 조회합니다.
-//     const subCollection = Cafe.db.collection(subCollectionName);
-//     const cafes = await subCollection.find({}).toArray();
-//     // const coffee = await subCollection.findOne({ cafecount: cafeId });
-
-//     ctx.body = cafes;
-//     // if (!coffee) {
-//     //   ctx.status = 404; // 데이터를 찾을 수 없음 상태 코드
-//     //   ctx.body = { error: '커피를 찾을 수 없습니다.' };
-//     // } else {
-//     //   ctx.body = coffee;
-//     // }
-//   } catch (err) {
-//     console.error('데이터를 조회하는 중에 오류가 발생했습니다.', err);
-//     ctx.status = 500; // 내부 서버 오류 상태 코드
-//   }
-// };
 
 // db에 저장된 cafe/카페종류 의 데이터를 가져옴
 // GET /api/cafe/db_get_starbucks_menu
@@ -266,4 +226,26 @@ export const getStoredStarbucksMenu = async (ctx) => {
 // DB에 저장된 스타벅스 커피 데이터를 조회하는 API
 export const getStarbucksMenu = async (ctx) => {
   await getMenu(ctx, 'starbucks');
+};
+
+// 백다방 커피 메뉴 데이터를 저장하는 API
+export const getStoredPaikMenu = async (ctx) => {
+  const filePath = path.join(__dirname, 'cafeinfo', 'paik_menu.json');
+  await storeMenu(ctx, filePath, 'paik');
+};
+
+// DB에 저장된 백다방 커피 데이터를 조회하는 API
+export const getPaikMenu = async (ctx) => {
+  await getMenu(ctx, 'paik');
+};
+
+// 메가 커피 메뉴 데이터를 저장하는 API
+export const getStoredMegaMenu = async (ctx) => {
+  const filePath = path.join(__dirname, 'cafeinfo', 'mega_menu.json');
+  await storeMenu(ctx, filePath, 'mega');
+};
+
+// DB에 저장된 메가 커피 데이터를 조회하는 API
+export const getMegaMenu = async (ctx) => {
+  await getMenu(ctx, 'mega');
 };

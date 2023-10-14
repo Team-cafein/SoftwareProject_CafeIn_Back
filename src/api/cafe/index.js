@@ -1,7 +1,7 @@
 // src/api/cafe/index.js
 import Router from 'koa-router';
 import * as cafeCtrl from './cafe.ctrl';
-import Cafe from '../../models/cafe';
+// import Cafe from '../../models/cafe';
 
 const cafe = new Router();
 
@@ -13,6 +13,10 @@ const endpoints = {
   '/db_get_hollys_menu': cafeCtrl.getHollysMenu,
   '/db_store_starbucks_menu': cafeCtrl.getStoredStarbucksMenu,
   '/db_get_starbucks_menu': cafeCtrl.getStarbucksMenu,
+  '/db_store_paik_menu': cafeCtrl.getStoredPaikMenu,
+  '/db_get_paik_menu': cafeCtrl.getPaikMenu,
+  '/db_store_mega_menu': cafeCtrl.getStoredMegaMenu,
+  '/db_get_mega_menu': cafeCtrl.getMegaMenu,
 };
 
 // 딕셔너리를 사용하여 엔드포인트를 동적으로 설정
@@ -20,7 +24,7 @@ Object.entries(endpoints).forEach(([endpoint, controller]) => {
   cafe.get(endpoint, controller);
 });
 
-// // 커피 메뉴 데이터를 조회하는 API (페이지네이션 추가)
+// 페이지네이션 추가할 시 코드
 // const createMenuEndpoint = (category) => `/db_get_${category}_menu/:page`; // 엔드포인트 경로 변수 생성 함수
 
 // // ediya와 hollys에 대해 페이지네이션을 적용
