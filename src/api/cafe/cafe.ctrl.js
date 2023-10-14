@@ -58,7 +58,7 @@ const storeMenu = async (ctx, filePath, category) => {
       const cafe = {
         id: categories.idCounter + 1, // 전체 카테고리용 id 카운터를 사용
         cafeid: cafeidCounter,
-        cafecount: getNextCafeId(category) + 1, // cafeid 카운터
+        beverage: getNextCafeId(category) + 1, // cafeid 카운터
         name: item.prodName, // prodName을 name 필드에 저장
         cafe: item.prodCafe,
         content: item.prodContent || '',
@@ -171,29 +171,66 @@ const storeMenu = async (ctx, filePath, category) => {
   }
 };
 
+// // db에 저장된 cafe/카페종류 의 데이터를 가져옴
+// // GET /api/cafe/db_get_starbucks_menu
+// const getMenu = async (ctx, category) => {
+//   try {
+//     // 정적인 서브 컬렉션 이름을 사용
+//     const subCollectionName = `cafe/${category}`;
+//     // const cafeId = parseInt(ctx.query.cafedetail); // ctx.query.cafedetail을 사용하여 쿼리 파라미터 읽기
+
+//     // 서브 컬렉션에서 커피 데이터를 조회합니다.
+//     const subCollection = Cafe.db.collection(subCollectionName);
+//     const cafes = await subCollection.find({}).toArray();
+//     // const coffee = await subCollection.findOne({ cafecount: cafeId });
+
+//     ctx.body = cafes;
+//     // if (!coffee) {
+//     //   ctx.status = 404; // 데이터를 찾을 수 없음 상태 코드
+//     //   ctx.body = { error: '커피를 찾을 수 없습니다.' };
+//     // } else {
+//     //   ctx.body = coffee;
+//     // }
+//   } catch (err) {
+//     console.error('데이터를 조회하는 중에 오류가 발생했습니다.', err);
+//     ctx.status = 500; // 내부 서버 오류 상태 코드
+//   }
+// };
+
 // db에 저장된 cafe/카페종류 의 데이터를 가져옴
 // GET /api/cafe/db_get_starbucks_menu
 const getMenu = async (ctx, category) => {
   try {
+    // cafecount 값을 URL에서 추출
+    const beverage = parseInt(ctx.query.beverage);
+
     // 정적인 서브 컬렉션 이름을 사용
     const subCollectionName = `cafe/${category}`;
-    // const cafeId = parseInt(ctx.query.cafedetail); // ctx.query.cafedetail을 사용하여 쿼리 파라미터 읽기
 
     // 서브 컬렉션에서 커피 데이터를 조회합니다.
     const subCollection = Cafe.db.collection(subCollectionName);
-    const cafes = await subCollection.find({}).toArray();
-    // const coffee = await subCollection.findOne({ cafecount: cafeId });
 
-    ctx.body = cafes;
-    // if (!coffee) {
-    //   ctx.status = 404; // 데이터를 찾을 수 없음 상태 코드
-    //   ctx.body = { error: '커피를 찾을 수 없습니다.' };
-    // } else {
-    //   ctx.body = coffee;
-    // }
+    if (isNaN(beverage)) {
+      // cafecount가 지정되지 않은 경우, 전체 커피 목록을 반환
+      const cafes = await subCollection.find({}).toArray();
+      ctx.body = cafes;
+    } else {
+      // cafecount를 사용하여 해당 커피 데이터를 가져옵니다.
+      const coffee = await subCollection.findOne({ beverage: beverage });
+
+      if (!coffee) {
+        ctx.status = 404; // 데이터를 찾을 수 없음 상태 코드
+        ctx.body = { error: '커피를 찾을 수 없습니다.' };
+      } else {
+        ctx.body = coffee;
+      }
+    }
   } catch (err) {
     console.error('데이터를 조회하는 중에 오류가 발생했습니다.', err);
     ctx.status = 500; // 내부 서버 오류 상태 코드
+    ctx.body = {
+      error: '데이터를 조회하는 중에 오류가 발생했습니다.',
+    };
   }
 };
 
