@@ -1,0 +1,162 @@
+[
+  {
+    "prodName": "핫/아이스초코",
+    "text": "진한 초콜렛과 우유가 어우러져 달콤한 초콜릿 음료",
+    "kcal": "243kcal",
+    "sugar": "33g/33%",
+    "protein": "6g/11%",
+    "sat_FAT": "5.0g/33%",
+    "sodium": "126mg/6%",
+    "caffeine": "8mg"
+  },
+  {
+    "prodName": "화이트초코",
+    "text": "화이트 초콜릿에 따뜻한 우유가 더해진 달콤한 음료",
+    "kcal": "249kcal",
+    "sugar": "34g/34%",
+    "protein": "6g/11%",
+    "sat_FAT": "5.7g/38%",
+    "sodium": "89mg/4%",
+    "caffeine": "23mg"
+  },
+  {
+    "prodName": "민트초코",
+    "text": "진한 민트 맛이 특징인 상쾌하면서 부드러운 맛의 민트 초코 라떼",
+    "kcal": "309kcal",
+    "sugar": "46g/46%",
+    "protein": "5g/8%",
+    "sat_FAT": "7.0g/47%",
+    "sodium": "145mg/7%",
+    "caffeine": "1mg"
+  },
+  {
+    "prodName": "제주 한라봉감귤차",
+    "text": "향긋한 한라봉과 감귤이 어우러져 상큼하면서도 달콤한 과일차",
+    "kcal": "199kcal",
+    "sugar": "48g/48%",
+    "protein": "1g/1%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "6mg/0%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "고흥 유자차",
+    "text": "고흥 유자의 풍미를 살린 할리스 유자차",
+    "kcal": "252kcal",
+    "sugar": "50g/50%",
+    "protein": "0g/0%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "23mg/1%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "해남 녹차",
+    "text": "고소한 감칠맛과 부드러운 목넘김이 좋은 땅끝 마음 해남에서 재배한 녹차(유기농 녹차잎 사용)",
+    "kcal": "4kcal",
+    "sugar": "0g/0%",
+    "protein": "0g/1%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "5mg/0%",
+    "caffeine": "25mg"
+  },
+  {
+    "prodName": "캐모마일",
+    "text": "캐모마일 꽃잎을 그대로 말려 노란색의 향긋한 꽃향이 그대로 살아 있는 허브차",
+    "kcal": "5kcal",
+    "sugar": "0g/0%",
+    "protein": "0g/1%",
+    "sat_FAT": "0.1g/1%",
+    "sodium": "4mg/0%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "페퍼민트",
+    "text": "입안 가득 깔끔한 청량감으로 기분까지 상쾌한 허브차",
+    "kcal": "5kcal",
+    "sugar": "0g/0%",
+    "protein": "0g/0%",
+    "sat_FAT": "0.1g/0%",
+    "sodium": "6mg/0%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "얼그레이",
+    "text": "스리랑카 캔디 지방에서 재배된 홍차에 시칠리아의 감귤,베르가못향이 조화된 감미로운 홍차",
+    "kcal": "5kcal",
+    "sugar": "0g/0%",
+    "protein": "0g/1%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "4mg/0%",
+    "caffeine": "17mg"
+  },
+  {
+    "prodName": "홍자몽차",
+    "text": "자몽과일 특유의 달콤 쌉싸름한 맛을 즐길 수 있는 과일차",
+    "kcal": "136kcal",
+    "sugar": "32g/32%",
+    "protein": "1g/2%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "8mg/0%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "복숭아 얼그레이",
+    "text": "달콤한 복숭아와 얼그레이의 베르가못 향의 조화, 깔끔하면서도 달콤한 티베리에이션 음료",
+    "kcal": "109kcal",
+    "sugar": "26g/26%",
+    "protein": "0g/0%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "4mg/0%",
+    "caffeine": "33mg"
+  },
+  {
+    "prodName": "유자 캐모마일",
+    "text": "은은한 향의 캐모마일과 유자차를 같이 느낄 수 있는 티베리에이션 음료",
+    "kcal": "157kcal",
+    "sugar": "34g/34%",
+    "protein": "0g/0%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "16mg/1%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "제주 말차 라떼",
+    "text": "제주산 말차 파우더로 만들어 깊고 진한 말차 본연의 풍미를 살린 라떼   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
+    "kcal": "251kcal",
+    "sugar": "36g/36%",
+    "protein": "6g/12%",
+    "sat_FAT": "3.6g/24%",
+    "sodium": "79mg/4%",
+    "caffeine": "129mg"
+  },
+  {
+    "prodName": "핑크 파인캐모마일티",
+    "text": "달콤한 파인애플 과육과 상큼한 시트러스청이 향긋한 캐모마일과 어우러진 핑크빛 티 베리에이션 음료",
+    "kcal": "183kcal",
+    "sugar": "40g/40%",
+    "protein": "0g/0%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "15mg/1%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "로얄 밀크 버블티",
+    "text": "향긋한 홍차의 풍미와 부드러운 우유가 쫀득한 타피오카펄과 만나 고소하게 즐기는 버블티",
+    "kcal": "352kcal",
+    "sugar": "30g/30%",
+    "protein": "6g/12%",
+    "sat_FAT": "4.2g/28%",
+    "sodium": "109mg/5%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "흑당 버블티",
+    "text": "흑당의 진한 풍미에 쫀득한 타피오카펄을 더해 달달하게 즐기는 버블티",
+    "kcal": "316kcal",
+    "sugar": "34g/34%",
+    "protein": "5g/9%",
+    "sat_FAT": "3.7g/25%",
+    "sodium": "108mg/5%",
+    "caffeine": "-"
+  }
+]

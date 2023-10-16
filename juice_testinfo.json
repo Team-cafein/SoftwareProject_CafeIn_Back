@@ -1,0 +1,82 @@
+[
+  {
+    "prodName": "청포도케일착즙주스",
+    "text": "청포도, 케일, 밀싹이 어우러진 산뜻한 과채 주스",
+    "kcal": "129kcal",
+    "sugar": "27g/27%",
+    "protein": "1g/2%",
+    "sat_FAT": "0%/0%",
+    "sodium": "29mg/1%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "딸기 스무디",
+    "text": "딸기 본연의 맛을 살려 갈아 만든 과일 스무디",
+    "kcal": "247kcal",
+    "sugar": "44g/44%",
+    "protein": "2g/4%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "44mg/2%",
+    "caffeine": "0"
+  },
+  {
+    "prodName": "오렌지 당근 착즙 주스",
+    "text": "오렌지, 당근, 사과가 어우러진 달콤한 과채 주스",
+    "kcal": "120kcal",
+    "sugar": "23g/23%",
+    "protein": "1g/2%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "55mg/3%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "사과 비트 착즙 주스",
+    "text": "사과, 비트, 파인애플이 어우러진 건강한 과채 주스",
+    "kcal": "125kcal",
+    "sugar": "25g/25%",
+    "protein": "1g/2%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "45mg/2%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "애플망고 스무디",
+    "text": "상큼 달콤한 애플망고 과육을 갈아 만든 과일 스무디",
+    "kcal": "260kcal",
+    "sugar": "49g/49%",
+    "protein": "1g/2%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "14mg/1%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "피치 딸기 크러쉬",
+    "text": "과즙 가득한 복숭아 슬러쉬 안에 톡톡 씹히는 딸기 과육이 더해진 음료",
+    "kcal": "193kcal",
+    "sugar": "47g/47%",
+    "protein": "0g/0%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "9mg/0%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "문경 오미자사과 스무디",
+    "text": "당도 높은 국내산 사과 스무디에 문경 오미자를 더해 달콤하고 상큼하게 즐길 수 있는 스무디",
+    "kcal": "287kcal",
+    "sugar": "58g/58%",
+    "protein": "1g/2%",
+    "sat_FAT": "0.3g/2%",
+    "sodium": "41mg/2%",
+    "caffeine": "-"
+  },
+  {
+    "prodName": "오렌지 자몽싱싱 주스",
+    "text": "달콤한 오렌지와 상큼한 자몽을 그대로 갈아만든 신선한 주스에 오렌지를 듬뿍 토핑한 생과일 주스",
+    "kcal": "190kcal",
+    "sugar": "39g/39%",
+    "protein": "2g/4%",
+    "sat_FAT": "0.1g/0%",
+    "sodium": "23mg/1%",
+    "caffeine": "-"
+  }
+]

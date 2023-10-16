@@ -1,0 +1,32 @@
+[
+  {
+    "prodName": "청포도 스파클링",
+    "text": "청량감 가득한 탄산수와 탱글탱글한 청포도가 상큼달콤하게 어우러진 스파클링 음료",
+    "kcal": "204kcal",
+    "sugar": "46g/46%",
+    "protein": "1g/2%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "22mg/1%",
+    "caffeine": "0"
+  },
+  {
+    "prodName": "복숭아 자두스파클링",
+    "text": "청량감 가득한 탄산수와 복숭아, 자두가 상큼달콤하게 어우러진 스파클링 음료",
+    "kcal": "179kcal",
+    "sugar": "43g/43%",
+    "protein": "1g/1%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "6mg/0%",
+    "caffeine": "0"
+  },
+  {
+    "prodName": "유자몽 스파클링",
+    "text": "달콤한 고흥유자와 쌉싸름한 자몽이 들어간 시원한 스파클링 음료",
+    "kcal": "233kcal",
+    "sugar": "47g/47%",
+    "protein": "0g/1%",
+    "sat_FAT": "0.0g/0%",
+    "sodium": "33mg/2%",
+    "caffeine": "-"
+  }
+]

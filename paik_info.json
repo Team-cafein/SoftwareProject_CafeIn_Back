@@ -1,0 +1,1492 @@
+[
+  {
+    "prodName": "더블에스프레소",
+    "prodInfo": "브라질 원두 블렌딩으로 다크초콜릿, 카라멜, 견과류의 고소함을 느낄 수 있는 에스프레소\n\n",
+    "volume": "※ 1회 제공량 기준 : 60ml",
+    "kcal": "22",
+    "caffeine": "237",
+    "sodium": "0",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "아메리카노(HOT)",
+    "prodInfo": "빽다방만의 맛과 향을 더한 100% 아라비카 로스팅 원두로 뽑아내 깊고 진한 맛의 앗!메리카노",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "14",
+    "caffeine": "237",
+    "sodium": "4",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "아메리카노(ICED)",
+    "prodInfo": "빽다방만의 맛과 향을 더한 100% 아라비카 로스팅 원두로 뽑아내 깊고 진한 맛의 앗!메리카노",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "13",
+    "caffeine": "237",
+    "sodium": "4",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "원조커피(HOT)",
+    "prodInfo": "달콤한 빽다방 대표메뉴, 믹스커피 종결자!",
+    "volume": "※ 1회 제공량 기준 : 375ml",
+    "kcal": "471",
+    "caffeine": "406",
+    "sodium": "24",
+    "sugars": "57",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "원조커피(ICED)",
+    "prodInfo": "달콤한 빽다방 대표메뉴, 믹스커피 종결자!",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "425",
+    "caffeine": "371",
+    "sodium": "22",
+    "sugars": "48",
+    "sat_FAT": "12"
+  },
+  {
+    "prodName": "달달연유라떼(HOT)",
+    "prodInfo": "달달하고 향긋한 베트남식 연유라떼",
+    "volume": "※ 1회 제공량 기준 : 425ml",
+    "kcal": "491",
+    "caffeine": "237",
+    "sodium": "199",
+    "sugars": "62",
+    "sat_FAT": "11"
+  },
+  {
+    "prodName": "달달연유라떼(ICED)",
+    "prodInfo": "달달하고 향긋한 베트남식 연유라떼",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "394",
+    "caffeine": "237",
+    "sodium": "135",
+    "sugars": "54",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "빽’s 카페라떼(HOT)",
+    "prodInfo": "진한 에스프레소와 우유가 어우려져 탄생한 부드러운 빽다방 라떼\n",
+    "volume": "※ 1회 제공량 기준 : 300ml",
+    "kcal": "253",
+    "caffeine": "237",
+    "sodium": "69",
+    "sugars": "9",
+    "sat_FAT": "14"
+  },
+  {
+    "prodName": "빽’s 카페라떼(ICED)",
+    "prodInfo": "진한 에스프레소와 우유가 어우려져 탄생한 부드러운 빽다방 라떼\n",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "198",
+    "caffeine": "237",
+    "sodium": "81",
+    "sugars": "10",
+    "sat_FAT": "8"
+  },
+  {
+    "prodName": "블랙펄카페라떼(ICED)",
+    "prodInfo": "흑당 베이스의 달콤함과 쫄깃한 펄, 에스프레소가 어우러진 블랙펄카페라떼\n",
+    "volume": "※ 1회 제공량 기준 : 634g",
+    "kcal": "429",
+    "caffeine": "118.5",
+    "sodium": "115",
+    "sugars": "59",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "바닐라라떼(HOT)",
+    "prodInfo": "부드러운 우유와 달콤하고 은은한 바닐라가 조화를 이루는 음료",
+    "volume": "※ 1회 제공량 기준 : 325ml",
+    "kcal": "351",
+    "caffeine": "237",
+    "sodium": "136",
+    "sugars": "35",
+    "sat_FAT": "12"
+  },
+  {
+    "prodName": "바닐라라떼(ICED)",
+    "prodInfo": "부드러운 우유와 달콤하고 은은한 바닐라가 조화를 이루는 음료",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "433",
+    "caffeine": "237",
+    "sodium": "144",
+    "sugars": "38",
+    "sat_FAT": "13"
+  },
+  {
+    "prodName": "카페모카(HOT)",
+    "prodInfo": "초콜릿과 진한 에스프레소,부드러운 우유가 더해진 달콤한 맛의 커피",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "319 ",
+    "caffeine": "237",
+    "sodium": "144 ",
+    "sugars": "32 ",
+    "sat_FAT": "8 "
+  },
+  {
+    "prodName": "카페모카(ICED)",
+    "prodInfo": "초콜릿과 진한 에스프레소,부드러운 우유가 더해진 달콤한 맛의 커피",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "365",
+    "caffeine": "237",
+    "sodium": "146",
+    "sugars": "36",
+    "sat_FAT": "8"
+  },
+  {
+    "prodName": "카라멜마키아또(HOT)",
+    "prodInfo": "카라멜소스와 신선한 우유, 에스프레소로 맛을 낸 달콤한 빽다방 인기메뉴",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "354",
+    "caffeine": "237",
+    "sodium": "137",
+    "sugars": "40",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "카라멜마키아또(ICED)",
+    "prodInfo": "카라멜소스와 신선한 우유, 에스프레소로 맛을 낸 달콤한 빽다방 인기메뉴",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "382",
+    "caffeine": "237",
+    "sodium": "148",
+    "sugars": "43",
+    "sat_FAT": "8"
+  },
+  {
+    "prodName": "바나나 카페라떼(HOT)",
+    "prodInfo": "진한 바나나맛이 올라오는\n바나나라떼에 샷이 추가된 카페라떼",
+    "volume": "※ 1회 제공량 기준 : 352g",
+    "kcal": "297",
+    "caffeine": "119",
+    "sodium": "156",
+    "sugars": "40",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "바나나 카페라떼(ICED)",
+    "prodInfo": "진한 바나나맛이 올라오는\n바나나라떼에 샷이 추가된 카페라떼",
+    "volume": "※ 1회 제공량 기준 : 626g",
+    "kcal": "303",
+    "caffeine": "119",
+    "sodium": "150",
+    "sugars": "39",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "바나나 커피쉐이크",
+    "prodInfo": "진한 바나나맛이 느껴지는\n바나나밀크쉐이크에 샷이 추가된\n커피쉐이크",
+    "volume": "※ 1회 제공량 기준 : 550g",
+    "kcal": "380",
+    "caffeine": "119",
+    "sodium": "209",
+    "sugars": "63",
+    "sat_FAT": "4"
+  },
+  {
+    "prodName": "아이스크림카페라떼(ICED)",
+    "prodInfo": "부드러운 아이스크림을 올려\n더 달콤하고 맛있는 카페라떼\n",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "357",
+    "caffeine": "237",
+    "sodium": "126",
+    "sugars": "32",
+    "sat_FAT": "13"
+  },
+  {
+    "prodName": "아이스크림바닐라라떼(ICED)",
+    "prodInfo": "부드러운 아이스크림을 올려\n더 달콤하고 맛있는 바닐라라떼",
+    "volume": "※ 1회 제공량 기준 : 570ml",
+    "kcal": "520",
+    "caffeine": "237",
+    "sodium": "214",
+    "sugars": "49",
+    "sat_FAT": "15"
+  },
+  {
+    "prodName": "아이스크림카페모카(ICED)",
+    "prodInfo": "부드러운 아이스크림을 올려\n더 달콤하고 맛있는 카페모카",
+    "volume": "※ 1회 제공량 기준 : 570ml",
+    "kcal": "512",
+    "caffeine": "237",
+    "sodium": "222",
+    "sugars": "50",
+    "sat_FAT": "14"
+  },
+  {
+    "prodName": "콜드브루(ICED)",
+    "prodInfo": "장시간 추출해 맛과 향이 풍부한 콜드브루\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "15",
+    "caffeine": "209",
+    "sodium": "2",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "콜드브루(HOT)",
+    "prodInfo": "장시간 추출해 맛과 향이 풍부한 콜드브루",
+    "volume": "※ 1회 제공량 기준 : 375g",
+    "kcal": "15",
+    "caffeine": "209",
+    "sodium": "3",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "디카페인 콜드브루(ICED)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 디카페인 콜드브루\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "11",
+    "caffeine": "15",
+    "sodium": "5",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "디카페인 콜드브루(HOT)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 디카페인 콜드브루\n",
+    "volume": "",
+    "kcal": "",
+    "caffeine": "",
+    "sodium": "",
+    "sugars": "",
+    "sat_FAT": ""
+  },
+  {
+    "prodName": "콜드브루라떼(ICED)",
+    "prodInfo": "콜드브루에 신선한 우유를 더한 \n콜드브루라떼\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "168",
+    "caffeine": "209",
+    "sodium": "65",
+    "sugars": "9",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "콜드브루라떼(HOT)",
+    "prodInfo": "콜드브루에 신선한 우유를 더한 \n콜드브루라떼\n",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "206",
+    "caffeine": "209",
+    "sodium": "82",
+    "sugars": "13",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "디카페인 콜드브루라떼(ICED)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 디카페인 콜드브루라떼\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "162",
+    "caffeine": "15",
+    "sodium": "90",
+    "sugars": "9",
+    "sat_FAT": "5"
+  },
+  {
+    "prodName": "디카페인 콜드브루라떼(HOT)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 디카페인 콜드브루라떼\n",
+    "volume": "",
+    "kcal": "",
+    "caffeine": "",
+    "sodium": "",
+    "sugars": "",
+    "sat_FAT": ""
+  },
+  {
+    "prodName": "콜드브루라떼(연유)(ICED)",
+    "prodInfo": "콜드브루라떼에 달콤한 연유를 추가한\n콜드브루연유라떼\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "379",
+    "caffeine": "209",
+    "sodium": "115",
+    "sugars": "36",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "콜드브루라떼(연유)(HOT)",
+    "prodInfo": "콜드브루라떼에 달콤한 연유를 추가한\n콜드브루연유라떼\n",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "371",
+    "caffeine": "209",
+    "sodium": "128",
+    "sugars": "39",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "디카페인 콜드브루라떼(연유)(ICED)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 콜드브루연유라떼",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "357",
+    "caffeine": "15",
+    "sodium": "133",
+    "sugars": "40",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "디카페인 콜드브루라떼(연유)(HOT)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 콜드브루연유라떼",
+    "volume": "",
+    "kcal": "",
+    "caffeine": "",
+    "sodium": "",
+    "sugars": "",
+    "sat_FAT": ""
+  },
+  {
+    "prodName": "콜드브루라떼(흑당)(ICED)",
+    "prodInfo": "콜드브루라떼에 달달한 흑당을 추가한\n콜드브루흑당라떼\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "312",
+    "caffeine": "209",
+    "sodium": "77",
+    "sugars": "44",
+    "sat_FAT": "5"
+  },
+  {
+    "prodName": "콜드브루라떼(흑당)(HOT)",
+    "prodInfo": "콜드브루라떼에 달달한 흑당을 추가한\n콜드브루흑당라떼\n",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "334",
+    "caffeine": "209",
+    "sodium": "72",
+    "sugars": "42",
+    "sat_FAT": "4"
+  },
+  {
+    "prodName": "디카페인 콜드브루라떼(흑당)(ICED)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 콜드브루흑당라떼\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "280",
+    "caffeine": "15",
+    "sodium": "87",
+    "sugars": "45",
+    "sat_FAT": "4"
+  },
+  {
+    "prodName": "디카페인 콜드브루라떼(흑당)(HOT)",
+    "prodInfo": "카페인 함량이 낮아\n부담이 적은 콜드브루흑당라떼\n",
+    "volume": "",
+    "kcal": "",
+    "caffeine": "",
+    "sodium": "",
+    "sugars": "",
+    "sat_FAT": ""
+  },
+  {
+    "prodName": "콜드브루 오리지널 커피원액",
+    "prodInfo": "진한 원액으로 즐기는\n콜드브루 오리지널 원액",
+    "volume": "",
+    "kcal": "",
+    "caffeine": "",
+    "sodium": "",
+    "sugars": "",
+    "sat_FAT": ""
+  },
+  {
+    "prodName": "콜드브루 디카페인 커피원액",
+    "prodInfo": "카페인 함량을 낮춰\n부담을 줄인 콜드브루 디카페인 원액\n",
+    "volume": "",
+    "kcal": "",
+    "caffeine": "",
+    "sodium": "",
+    "sugars": "",
+    "sat_FAT": ""
+  },
+  {
+    "prodName": "아이스티샷추가(아샷추)",
+    "prodInfo": "별미 중에 별미! 달콤한 복숭아 맛 아이스티에 에스프레소 샷 추가~\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "265",
+    "caffeine": "93",
+    "sodium": "17",
+    "sugars": "64",
+    "sat_FAT": "-"
+  },
+  {
+    "prodName": "빽사이즈 앗!메리카노(ICED)",
+    "prodInfo": "특대용량으로 즐기는 깊고 진한 맛과 향의 앗!메리카노\n",
+    "volume": "※ 1회 제공량 기준 : 950ml",
+    "kcal": "19",
+    "caffeine": "474",
+    "sodium": "8",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "빽사이즈 원조커피(ICED)",
+    "prodInfo": "빽다방의 대표메뉴 달콤한 원조커피를 특대용량으로 즐기자!",
+    "volume": "※ 1회 제공량 기준 : 950ml",
+    "kcal": "646",
+    "caffeine": "564",
+    "sodium": "34",
+    "sugars": "73",
+    "sat_FAT": "18"
+  },
+  {
+    "prodName": "빽사이즈 빽’s카페라떼(ICED)",
+    "prodInfo": "특대용량으로 즐기는 부드럽고 진한 빽다방 라떼\n",
+    "volume": "※ 1회 제공량 기준 : 950ml",
+    "kcal": "278",
+    "caffeine": "474",
+    "sodium": "142",
+    "sugars": "17",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "빽사이즈 아이스티샷추가(ICED)",
+    "prodInfo": "특대용량으로 즐기는 달콤쌉싸름한 아샷추!\n",
+    "volume": "※ 1회 제공량 기준 : 900ml",
+    "kcal": "297",
+    "caffeine": "167",
+    "sodium": "22",
+    "sugars": "68",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "크림소다",
+    "prodInfo": "소다맛 에이드에 아이스크림과 토핑이 더해진 부드러운 크림소다\n(엑소 정규7집 발매 기념 한정판 음료)",
+    "volume": "※ 1회 제공량 기준 : 700ml",
+    "kcal": "597",
+    "caffeine": "0",
+    "sodium": "50",
+    "sugars": "77",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "키르시 블렌딩 파인",
+    "prodInfo": "체리베이스가 블렌딩되어\n상큼하게 즐기는 파인애플맛 슬러시",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "395",
+    "caffeine": "0",
+    "sodium": "69",
+    "sugars": "90",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "키르시 블렌딩 콜라",
+    "prodInfo": "에스프레소 샷과 체리베이스가\n블렌딩된 색다른 맛의 콜라맛 슬러시",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "397",
+    "caffeine": "119",
+    "sodium": "73",
+    "sugars": "87",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "고구마라떼(HOT)",
+    "prodInfo": "달콤한 고구마가 신선한 우유를 만나\n더 부드럽고 든든하게",
+    "volume": "※ 1회 제공량 기준 : 450ml",
+    "kcal": "463",
+    "caffeine": "0",
+    "sodium": "110",
+    "sugars": "71",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "고구마라떼(ICED)",
+    "prodInfo": "달콤한 고구마가 신선한 우유를 만나\n더 부드럽고 든든하게",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "413",
+    "caffeine": "0",
+    "sodium": "101",
+    "sugars": "56",
+    "sat_FAT": "5"
+  },
+  {
+    "prodName": "고구마스무디",
+    "prodInfo": "고구마의 맛과 향이 살아있는\n든든하고 시원한 스무디\n",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "481",
+    "caffeine": "0",
+    "sodium": "92",
+    "sugars": "70",
+    "sat_FAT": "4"
+  },
+  {
+    "prodName": "꿀밤라떼(HOT)",
+    "prodInfo": "고소한 밤의 맛과 향을\n진하고 달콤하게 느낄 수 있는 라떼",
+    "volume": "※ 1회 제공량 기준 : 450ml",
+    "kcal": "513",
+    "caffeine": "0",
+    "sodium": "290",
+    "sugars": "54",
+    "sat_FAT": "8"
+  },
+  {
+    "prodName": "꿀밤라떼(ICED)",
+    "prodInfo": "고소한 밤의 맛과 향을 \n진하고 달콤하게 느낄 수 있는 라떼",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "436",
+    "caffeine": "0",
+    "sodium": "210",
+    "sugars": "50",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "디아블로 에너지드링크",
+    "prodInfo": "카페인이 함유된 강력한\n레드컬러의 레몬맛 스포츠 음료",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "321",
+    "caffeine": "60",
+    "sodium": "100",
+    "sugars": "71",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "완전대봉주스",
+    "prodInfo": "국내산 대봉의 맛을\n오롯이 느낄 수 있는 주스",
+    "volume": "※ 1회 제공량 기준 : 581g",
+    "kcal": "227",
+    "caffeine": "0",
+    "sodium": "66",
+    "sugars": "45",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "패션후르츠스무디",
+    "prodInfo": "패션후르츠가 듬뿍 들어가\n상콤달콤한 스무디",
+    "volume": "※ 1회 제공량 기준 : 594g",
+    "kcal": "327",
+    "caffeine": "0",
+    "sodium": "66",
+    "sugars": "75",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "망고패션스무디",
+    "prodInfo": "패션후르츠에 망고를 더해\n더욱 달콤하고 시원하게 즐기는 스무디",
+    "volume": "※ 1회 제공량 기준 : 617g",
+    "kcal": "415",
+    "caffeine": "0",
+    "sodium": "73",
+    "sugars": "86",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "바나나 라떼(HOT)",
+    "prodInfo": "진한 바나나맛이 올라오는 라떼",
+    "volume": "※ 1회 제공량 기준 : 346g",
+    "kcal": "156",
+    "caffeine": "302",
+    "sodium": "37",
+    "sugars": "7",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "바나나 라떼(ICED)",
+    "prodInfo": "진한 바나나맛이 올라오는 라떼",
+    "volume": "※ 1회 제공량 기준 : 611g",
+    "kcal": "154",
+    "caffeine": "295",
+    "sodium": "42",
+    "sugars": "7",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "바나나 밀크쉐이크",
+    "prodInfo": "진하고 달콤한 바나나맛이\n부드럽게 느껴지는 밀크쉐이크",
+    "volume": "※ 1회 제공량 기준 : 543g",
+    "kcal": "216",
+    "caffeine": "380",
+    "sodium": "66",
+    "sugars": "5",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "아이스크러시 파인애플",
+    "prodInfo": "잘게 부서진 얼음으로\n더욱 시원하게 즐기는 파인애플맛 음료",
+    "volume": "※ 1회 제공량 기준 : 675ml",
+    "kcal": "384",
+    "caffeine": "0",
+    "sodium": "102",
+    "sugars": "94",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "아이스크러시 오렌지",
+    "prodInfo": "잘게 부서진 얼음으로\n더욱 시원하게 즐기는 오렌지맛 음료",
+    "volume": "※ 1회 제공량 기준 : 675ml",
+    "kcal": "441",
+    "caffeine": "0",
+    "sodium": "116",
+    "sugars": "102",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "아이스크러시 멜론",
+    "prodInfo": "잘게 부서진 얼음으로\n더욱 시원하게 즐기는 멜론맛 음료",
+    "volume": "※ 1회 제공량 기준 : 675ml",
+    "kcal": "349",
+    "caffeine": "0",
+    "sodium": "51",
+    "sugars": "80",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "아이스크러시 콜라",
+    "prodInfo": "잘게 부서진 얼음으로\n더욱 시원하게 즐기는 콜라맛 음료",
+    "volume": "※ 1회 제공량 기준 : 675ml",
+    "kcal": "448",
+    "caffeine": "0",
+    "sodium": "104",
+    "sugars": "104",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "콤부차 파인애플",
+    "prodInfo": "당 함량과 칼로리가 낮은\n파인애플 맛 콤부차",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "103",
+    "caffeine": "0",
+    "sodium": "6",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "콤부차 패션후르츠",
+    "prodInfo": "당 함량과 칼로리가 낮은\n패션후르츠 맛 콤부차",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "99",
+    "caffeine": "0",
+    "sodium": "7",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "우리포도주스",
+    "prodInfo": "지역 농가에서 갓 수확한\n국산 포도로 만든 주스",
+    "volume": "※ 1회 제공량 기준 : 583g",
+    "kcal": "188",
+    "caffeine": "-",
+    "sodium": "5",
+    "sugars": "44",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "완전수박주스(ICED)",
+    "prodInfo": "여름 대표과일 수박을 가득 넣은\n수박주스의 정석",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "262",
+    "caffeine": "-",
+    "sodium": "5",
+    "sugars": "53",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "블루캔디소다(ICED)",
+    "prodInfo": "캔디처럼 달콤하고\n하늘처럼 청량한 블루캔디소다\n",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "225",
+    "caffeine": "-",
+    "sodium": "8",
+    "sugars": "52",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "사과당근주스",
+    "prodInfo": "예천 사과와 제주 당근의 맛이\n다채롭게 느껴지는 주스",
+    "volume": "※ 1회 제공량 기준 : 587g",
+    "kcal": "200",
+    "caffeine": "-",
+    "sodium": "19",
+    "sugars": "40",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "예천사과주스",
+    "prodInfo": "새콤달콤한 풍미가 일품인\n예천사과를 가득 담아낸 과일주스",
+    "volume": "※ 1회 제공량 기준 : 571g",
+    "kcal": "190",
+    "caffeine": "-",
+    "sodium": "5",
+    "sugars": "39",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "초코라떼(HOT)",
+    "prodInfo": "초코에 퐁당 빠지고 싶을때~!?\n진짜~! 완~전 진한 초코라떼",
+    "volume": "※ 1회 제공량 기준 : 325ml",
+    "kcal": "342",
+    "caffeine": "",
+    "sodium": "108",
+    "sugars": "45",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "초코라떼(ICED)",
+    "prodInfo": "초코에 퐁당 빠지고 싶을때~!?\n진짜~! 완~전 진한 초코라떼",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "387",
+    "caffeine": "",
+    "sodium": "126",
+    "sugars": "56",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "녹차라떼(HOT)",
+    "prodInfo": "100% 국내산 녹차를 사용하여 진하고 부드러운 녹차라떼",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "481",
+    "caffeine": "208",
+    "sodium": "156",
+    "sugars": "63",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "녹차라떼(ICED)",
+    "prodInfo": "100% 국내산 녹차를 사용하여 진하고 부드러운 녹차라떼",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "361",
+    "caffeine": "152",
+    "sodium": "116",
+    "sugars": "49",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "민트초코라떼(HOT)",
+    "prodInfo": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코라떼",
+    "volume": "※ 1회 제공량 기준 : 325ml",
+    "kcal": "413",
+    "caffeine": "",
+    "sodium": "187",
+    "sugars": "58",
+    "sat_FAT": "11"
+  },
+  {
+    "prodName": "민트초코라떼(ICED)",
+    "prodInfo": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코라떼",
+    "volume": "※ 1회 제공량 기준 : 700ml",
+    "kcal": "498",
+    "caffeine": "",
+    "sodium": "210",
+    "sugars": "43",
+    "sat_FAT": "11"
+  },
+  {
+    "prodName": "토피넛라떼(HOT)",
+    "prodInfo": "견과류와 카라멜의 고소하고 달콤함이 느껴지는 부드럽고 진한 맛의 토피넛라떼(샷추가 +500원)\n",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "411",
+    "caffeine": "51",
+    "sodium": "174",
+    "sugars": "19",
+    "sat_FAT": "13"
+  },
+  {
+    "prodName": "토피넛라떼(ICED)",
+    "prodInfo": "견과류와 카라멜의 고소하고 달콤함이 느껴지는 부드럽고 진한 맛의 토피넛라떼(샷추가 +500원)\n",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "469",
+    "caffeine": "51",
+    "sodium": "197",
+    "sugars": "16",
+    "sat_FAT": "14"
+  },
+  {
+    "prodName": "블랙펄라떼(ICED)",
+    "prodInfo": "흑당 베이스의 풍미 있는 달콤함과 쫄깃한 타피오카 펄, 고소한 우유가 어우러진 블랙펄라떼\n",
+    "volume": "※ 1회 제공량 기준 : 627g",
+    "kcal": "397",
+    "caffeine": "",
+    "sodium": "109",
+    "sugars": "51",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "미숫가루",
+    "prodInfo": "고소하고 진한 맛의 미숫가루!  \n",
+    "volume": "※ 1회 제공량 기준 : 635g",
+    "kcal": "308",
+    "caffeine": "0",
+    "sodium": "101",
+    "sugars": "38",
+    "sat_FAT": "1"
+  },
+  {
+    "prodName": "식혜(ICED)",
+    "prodInfo": "100% 경기미로\n씹을수록 더 맛있는 달콤한 식혜",
+    "volume": "※ 1회 제공량 기준 : 614g",
+    "kcal": "4",
+    "caffeine": "287",
+    "sodium": "63",
+    "sugars": "0.1",
+    "sat_FAT": "1"
+  },
+  {
+    "prodName": "체리콕콕(ICED)",
+    "prodInfo": "체리와 콜라가 만나\n상큼함도 청량감도 UP!",
+    "volume": "※ 1회 제공량 기준 : 600g",
+    "kcal": "290",
+    "caffeine": "23",
+    "sodium": "7",
+    "sugars": "72",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "밀크티(HOT)",
+    "prodInfo": "얼그레이의 향긋함을 더한 부드러운 밀크티",
+    "volume": "※ 1회 제공량 기준 : 375ml",
+    "kcal": "313",
+    "caffeine": "133",
+    "sodium": "70",
+    "sugars": "35",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "밀크티(ICED)",
+    "prodInfo": "얼그레이의 향긋함을 더한 부드러운 밀크티",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "353",
+    "caffeine": "133",
+    "sodium": "77",
+    "sugars": "37",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "블랙펄밀크티(ICED)",
+    "prodInfo": "흑당 베이스의 풍미 있는 달콤함과 쫄깃한 타피오카 펄, 부드러운 생크림이 더해진 블랙펄밀크티\n",
+    "volume": "※ 1회 제공량 기준 : 643g",
+    "kcal": "513",
+    "caffeine": "77",
+    "sodium": "82",
+    "sugars": "60",
+    "sat_FAT": "14"
+  },
+  {
+    "prodName": "페퍼민트티(HOT)",
+    "prodInfo": "입안 가득 퍼지는 페퍼민트 향으로\n기분까지 상쾌해지는 메뉴\n",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "1",
+    "caffeine": "-",
+    "sodium": "4",
+    "sugars": "-",
+    "sat_FAT": "-"
+  },
+  {
+    "prodName": "페퍼민트티(ICED)",
+    "prodInfo": "입안 가득 퍼지는 페퍼민트 향으로\n기분까지 상쾌해지는 메뉴\n",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "1",
+    "caffeine": "-",
+    "sodium": "4",
+    "sugars": "-",
+    "sat_FAT": "-"
+  },
+  {
+    "prodName": "황금캐모마일티(HOT)",
+    "prodInfo": "부드럽고 은은한 향으로 \n마음을 편안하게 해주는 황금캐모마일티\n",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "7",
+    "caffeine": "-",
+    "sodium": "4",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "황금캐모마일티(ICED)",
+    "prodInfo": "부드럽고 은은한 향으로\n마음을 진정시켜주는 허브티\n",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "8",
+    "caffeine": "-",
+    "sodium": "3",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "깔라만시티(HOT)",
+    "prodInfo": "입안 가득 전해지는 새콤함! 새콤 톡톡 깔라만시티",
+    "volume": "※ 1회 제공량 기준 : 404g",
+    "kcal": "268",
+    "caffeine": "",
+    "sodium": "130",
+    "sugars": "66",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "깔라만시티(ICED)",
+    "prodInfo": "입안가득 전해지는 새콤함!\n\n새콤 톡톡 깔라만시티",
+    "volume": "※ 1회 제공량 기준 : 600g",
+    "kcal": "243",
+    "caffeine": "0",
+    "sodium": "117",
+    "sugars": "59",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "달콤아이스티",
+    "prodInfo": "시원하게 즐기는 복숭아 맛 아이스티\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "267",
+    "caffeine": "51",
+    "sodium": "13",
+    "sugars": "63",
+    "sat_FAT": "1"
+  },
+  {
+    "prodName": "레몬티(HOT)",
+    "prodInfo": "레몬 과육이 듬뿍! 더욱 상큼하게 즐기는 레몬티 \n(에이드 +500원)",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "272",
+    "caffeine": "0",
+    "sodium": "60",
+    "sugars": "66",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "레몬티(ICED)",
+    "prodInfo": "레몬 과육이 듬뿍!\n더욱 상큼하게 즐기는 레몬티",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "277",
+    "caffeine": "0",
+    "sodium": "118",
+    "sugars": "67",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "피치우롱스위티(HOT)",
+    "prodInfo": "향긋하고 달콤한 복숭아와 풍부한 우롱의 맛이 어우러진 메뉴",
+    "volume": "※ 1회 제공량 기준 : 365ml",
+    "kcal": "150",
+    "caffeine": "65",
+    "sodium": "7",
+    "sugars": "35",
+    "sat_FAT": "-"
+  },
+  {
+    "prodName": "피치우롱스위티(ICED)",
+    "prodInfo": "향긋하고 달콤한 복숭아와 풍부한 우롱의 맛이 어우러진 메뉴",
+    "volume": "※ 1회 제공량 기준 : 593g",
+    "kcal": "150",
+    "caffeine": "71 ",
+    "sodium": "5",
+    "sugars": "32",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "우롱티(HOT)",
+    "prodInfo": "직접 우려 깊고 진한 풍미와 깔끔한 맛의 우롱티\n",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "7",
+    "caffeine": "92",
+    "sodium": "5",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "우롱티(ICED)",
+    "prodInfo": "직접 우려 깊고 진한 풍미와 깔끔한 맛의 우롱티",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "3",
+    "caffeine": "67",
+    "sodium": "1",
+    "sugars": "0",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "레몬얼그레이티(HOT)",
+    "prodInfo": "상큼한 레몬을 더한 얼그레이티",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "110",
+    "caffeine": "72",
+    "sodium": "1",
+    "sugars": "25",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "레몬얼그레이티(ICED)",
+    "prodInfo": "상큼한 레몬을 더한 얼그레이티",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "110",
+    "caffeine": "72",
+    "sodium": "1",
+    "sugars": "25",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "오렌지자몽블랙티(HOT)",
+    "prodInfo": "향긋한 오렌지와 자몽을 블렌딩한 블랙티\n",
+    "volume": "※ 1회 제공량 기준 : 350ml",
+    "kcal": "110",
+    "caffeine": "90",
+    "sodium": "1",
+    "sugars": "25",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "오렌지자몽블랙티(ICED)",
+    "prodInfo": "향긋한 오렌지와 자몽을 블렌딩한 블랙티\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "110",
+    "caffeine": "90",
+    "sodium": "1",
+    "sugars": "25",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "유자티(HOT)",
+    "prodInfo": "진하게 전해지는 향긋함! 달콤한 유자티\n",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "284",
+    "caffeine": "-",
+    "sodium": "61",
+    "sugars": "69",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "유자티(ICED)",
+    "prodInfo": "진하게 전해지는 향긋함! 달콤한 유자티\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "261",
+    "caffeine": "-",
+    "sodium": "58",
+    "sugars": "64",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "자몽티(HOT)",
+    "prodInfo": "자몽 과육이 입안에서 톡톡! 달콤한 자몽 한 잔",
+    "volume": "※ 1회 제공량 기준 : 400ml",
+    "kcal": "281",
+    "caffeine": "0",
+    "sodium": "15",
+    "sugars": "66",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "자몽티(ICED)",
+    "prodInfo": "자몽 과육이 입안에서 톡톡!\n달콤한 자몽 한 잔\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "242",
+    "caffeine": "0",
+    "sodium": "27",
+    "sugars": "52",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "청포도플라워(ICED)",
+    "prodInfo": "향긋한 꽃향기가 퍼지는 상큼달콤한 청포도 음료",
+    "volume": "※ 1회 제공량 기준 : 550ml",
+    "kcal": "220",
+    "caffeine": "0",
+    "sodium": "6",
+    "sugars": "52",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "아이스미초",
+    "prodInfo": "과일(석류)발효초인 미초를 넣은 시원한 음료\n",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "147",
+    "caffeine": "0",
+    "sodium": "9",
+    "sugars": "36",
+    "sat_FAT": "0.06"
+  },
+  {
+    "prodName": "딸기에이드(ICED)",
+    "prodInfo": "톡 쏘는 탄산수에\n딸기 과육을 듬뿍 넣어\n달콤한 청량감이 입안 가득!",
+    "volume": "※ 1회 제공량 기준 : 612ml",
+    "kcal": "184",
+    "caffeine": "-",
+    "sodium": "10",
+    "sugars": "39",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "레모네이드(ICED)",
+    "prodInfo": "레몬 과육이 듬뿍! 더욱 상큼하게 즐기는 레모네이드",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "246",
+    "caffeine": "0",
+    "sodium": "55",
+    "sugars": "60",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "청포도에이드",
+    "prodInfo": "청포도의 상큼함과 향긋한 꽃향기가 퍼지는 상큼 달콤한 에이드 음료",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "234",
+    "caffeine": "0",
+    "sodium": "8",
+    "sugars": "56",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "깔라만시에이드",
+    "prodInfo": "상큼 짜릿하게! 톡톡튀는 식감을 느낄 수 있는 에이드 음료",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "215",
+    "caffeine": "0",
+    "sodium": "81",
+    "sugars": "50",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "유자에이드",
+    "prodInfo": "향긋한 유자에 청량감이 더해진 유자에이드\n",
+    "volume": "",
+    "kcal": "251",
+    "caffeine": "-",
+    "sodium": "51",
+    "sugars": "62",
+    "sat_FAT": "-"
+  },
+  {
+    "prodName": "자몽에이드",
+    "prodInfo": "달콤 쌉쌀한 자몽에이드",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "258",
+    "caffeine": "0",
+    "sodium": "16",
+    "sugars": "61",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "복숭아에이드",
+    "prodInfo": "청량감 가득 달콤상큼 에이드!  \n",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "241",
+    "caffeine": "",
+    "sodium": "6",
+    "sugars": "54",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "미초(석류)에이드",
+    "prodInfo": "과일(석류)발효초인 미초를 넣은 청량한 에이드 음료",
+    "volume": "※ 1회 제공량 기준 : 650ml",
+    "kcal": "141",
+    "caffeine": "0",
+    "sodium": "5",
+    "sugars": "32",
+    "sat_FAT": "0.07"
+  },
+  {
+    "prodName": "완전토마토",
+    "prodInfo": "싱그러운 자연의 맛을 그대로 담은 완전토마토",
+    "volume": "※ 1회 제공량 기준 : 543g",
+    "kcal": "159",
+    "caffeine": "-",
+    "sodium": "10",
+    "sugars": "36",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "완전딸기주스",
+    "prodInfo": "신선함을 그대로 담은 완전딸기!",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "224",
+    "caffeine": "0",
+    "sodium": "7",
+    "sugars": "43",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "완전망고주스",
+    "prodInfo": "코코넛 젤리가 들어있는 달콤 시원한 완전망고",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "241",
+    "caffeine": "0",
+    "sodium": "7",
+    "sugars": "37",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "완전블루베리주스(ICED)",
+    "prodInfo": "자연의 건강함을 그대로 담은\n\n완전블루베리주스",
+    "volume": "※ 1회 제공량 기준 : 584g",
+    "kcal": "231",
+    "caffeine": "0",
+    "sodium": "6",
+    "sugars": "49",
+    "sat_FAT": "0.1"
+  },
+  {
+    "prodName": "블루베리요거트스무디(ICED)",
+    "prodInfo": "블루베리와 요거트가 만나\n\n새콤달콤 스무디로!",
+    "volume": "※ 1회 제공량 기준 : 575g",
+    "kcal": "484",
+    "caffeine": "0",
+    "sodium": "99",
+    "sugars": "74",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "밀크쉐이크",
+    "prodInfo": "시원하고 달콤한 밀크쉐이크  ",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "535",
+    "caffeine": "-",
+    "sodium": "390",
+    "sugars": "52",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "플레인요거트스무디",
+    "prodInfo": "달콤 부드러운 플레인 요거트스무디",
+    "volume": "※ 1회 제공량 기준 : 600ml",
+    "kcal": "494",
+    "caffeine": "0",
+    "sodium": "77",
+    "sugars": "94",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "딸기요거트스무디",
+    "prodInfo": "부드럽고 새콤달콤한 딸기요거트스무디",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "448",
+    "caffeine": "0",
+    "sodium": "109",
+    "sugars": "45",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "빽사이즈 초코라떼(ICED)",
+    "prodInfo": "특대용량으로 즐기는 완전 진한 초코라떼\n",
+    "volume": "※ 1회 제공량 기준 : 900ml",
+    "kcal": "555",
+    "caffeine": "",
+    "sodium": "333",
+    "sugars": "90",
+    "sat_FAT": "8"
+  },
+  {
+    "prodName": "빽사이즈 달콤아이스티(ICED)",
+    "prodInfo": "특대용량으로 즐기는 시원하고 달콤한 복숭아 맛 아이스티\n",
+    "volume": "※ 1회 제공량 기준 : 950ml",
+    "kcal": "406",
+    "caffeine": "32",
+    "sodium": "29",
+    "sugars": "95",
+    "sat_FAT": "0"
+  },
+  {
+    "prodName": "딸기라떼(ICED)",
+    "prodInfo": "달콤한 딸기 과육이 가득!\n부드럽고 달콤하게 즐기는 딸기라떼",
+    "volume": "※ 1회 제공량 기준 : 590ml",
+    "kcal": "331",
+    "caffeine": "-",
+    "sodium": "83",
+    "sugars": "54",
+    "sat_FAT": "5"
+  },
+  {
+    "prodName": "원조빽스치노(BASIC)",
+    "prodInfo": "원조커피의 시원한 변신~! 매력만점 커피 빽스치노",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "578",
+    "caffeine": "280",
+    "sodium": "122",
+    "sugars": "75",
+    "sat_FAT": "16"
+  },
+  {
+    "prodName": "원조빽스치노(SOFT)",
+    "prodInfo": "원조커피의 시원한 변신~! 매력만점 커피 빽스치노",
+    "volume": "※ 1회 제공량 기준 : 765ml",
+    "kcal": "785",
+    "caffeine": "280",
+    "sodium": "166",
+    "sugars": "87",
+    "sat_FAT": "26"
+  },
+  {
+    "prodName": "딸기바나나빽스치노(BASIC)",
+    "prodInfo": "상큼한 딸기와 달달한 바나나의 완전 시원한 만남!",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "502",
+    "caffeine": "0",
+    "sodium": "114",
+    "sugars": "53",
+    "sat_FAT": "4"
+  },
+  {
+    "prodName": "딸기바나나빽스치노(SOFT)",
+    "prodInfo": "상큼한 딸기와 달달한 바나나의 완전 시원한 만남!",
+    "volume": "※ 1회 제공량 기준 : 765ml",
+    "kcal": "687",
+    "caffeine": "0",
+    "sodium": "170",
+    "sugars": "98",
+    "sat_FAT": "14"
+  },
+  {
+    "prodName": "초코바나나빽스치노(BASIC)",
+    "prodInfo": "달콤한 초코와 달달한 바나나의 완전 시원한 만남",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "577",
+    "caffeine": "",
+    "sodium": "105",
+    "sugars": "34",
+    "sat_FAT": "10"
+  },
+  {
+    "prodName": "초코바나나빽스치노(SOFT)",
+    "prodInfo": "달콤한 초코와 달달한 바나나의 완전 시원한 만남",
+    "volume": "※ 1회 제공량 기준 : 765ml",
+    "kcal": "784",
+    "caffeine": "",
+    "sodium": "148",
+    "sugars": "47",
+    "sat_FAT": "21"
+  },
+  {
+    "prodName": "딸기 빽스치노(BASIC)",
+    "prodInfo": "상큼한 국산딸기와 우유가 블렌딩된 완전딸기 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "480 ",
+    "caffeine": "-",
+    "sodium": "127 ",
+    "sugars": "86 ",
+    "sat_FAT": "4 "
+  },
+  {
+    "prodName": "딸기 빽스치노(SOFT)",
+    "prodInfo": "상큼한 국산딸기와 우유가 블렌딩된 완전딸기 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 765ml",
+    "kcal": "687",
+    "caffeine": "0",
+    "sodium": "170",
+    "sugars": "98",
+    "sat_FAT": "14"
+  },
+  {
+    "prodName": "녹차빽스치노(BASIC)",
+    "prodInfo": "100% 국내산 녹차를 사용하여 부드럽고 진한 맛의 빽스치노!",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "548",
+    "caffeine": "260",
+    "sodium": "157",
+    "sugars": "90",
+    "sat_FAT": "7"
+  },
+  {
+    "prodName": "녹차빽스치노(SOFT)",
+    "prodInfo": "100% 국내산 녹차를 사용하여 부드럽고 진한 맛의 빽스치노!",
+    "volume": "※ 1회 제공량 기준 : 765ml",
+    "kcal": "755",
+    "caffeine": "260",
+    "sodium": "200",
+    "sugars": "103",
+    "sat_FAT": "17"
+  },
+  {
+    "prodName": "민트초코빽스치노(BASIC)",
+    "prodInfo": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 630ml",
+    "kcal": "602",
+    "caffeine": "",
+    "sodium": "244",
+    "sugars": "28",
+    "sat_FAT": "14"
+  },
+  {
+    "prodName": "민트초코빽스치노(SOFT)",
+    "prodInfo": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 770ml",
+    "kcal": "809",
+    "caffeine": "",
+    "sodium": "287",
+    "sugars": "40",
+    "sat_FAT": "24"
+  },
+  {
+    "prodName": "쿠키크런치빽스치노(BASIC)",
+    "prodInfo": "달콤한 쿠키 크런치가 듬뿍 들어간 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 628.5 g",
+    "kcal": "768",
+    "caffeine": "11",
+    "sodium": "247",
+    "sugars": "93",
+    "sat_FAT": "15"
+  },
+  {
+    "prodName": "쿠키크런치빽스치노(SOFT)",
+    "prodInfo": "달콤한 쿠키 크런치가 듬뿍 들어간 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 748.5 g",
+    "kcal": "942",
+    "caffeine": "11",
+    "sodium": "284",
+    "sugars": "103",
+    "sat_FAT": "23"
+  },
+  {
+    "prodName": "초코빽스치노(BASIC)",
+    "prodInfo": "초콜릿을 함께 블렌딩하여 더욱 진한 맛의 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 570.5g",
+    "kcal": "520",
+    "caffeine": "",
+    "sodium": "119",
+    "sugars": "92",
+    "sat_FAT": "6"
+  },
+  {
+    "prodName": "초코빽스치노(SOFT)",
+    "prodInfo": "초콜릿을 함께 블렌딩하여 더욱 진한 맛의 빽스치노\n",
+    "volume": "※ 1회 제공량 기준 : 690.5 g",
+    "kcal": "694",
+    "caffeine": "",
+    "sodium": "155",
+    "sugars": "103",
+    "sat_FAT": "15"
+  },
+  {
+    "prodName": "피스타치오빽스치노(BASIC)",
+    "prodInfo": "고소한 피스타치오와 진한 카카오닙스의 만남 ! \n",
+    "volume": "※ 1회 제공량 기준 : 625ml",
+    "kcal": "535",
+    "caffeine": "10",
+    "sodium": "329",
+    "sugars": "12",
+    "sat_FAT": "16"
+  },
+  {
+    "prodName": "피스타치오빽스치노(SOFT)",
+    "prodInfo": "고소한 피스타치오와 진한 카카오닙스의 만남 ! \n",
+    "volume": "※ 1회 제공량 기준 : 765ml",
+    "kcal": "742",
+    "caffeine": "10",
+    "sodium": "373",
+    "sugars": "24",
+    "sat_FAT": "26"
+  },
+  {
+    "prodName": "퐁당치노(바닐라)",
+    "prodInfo": "빽다방 대표 시그니처 메뉴에 아낌없이 퐁당!\n",
+    "volume": "※ 1회 제공량 기준 : 531g",
+    "kcal": "496",
+    "caffeine": "0",
+    "sodium": "211",
+    "sugars": "60",
+    "sat_FAT": "9"
+  },
+  {
+    "prodName": "퐁당치노(원조커피)",
+    "prodInfo": "빽다방 대표 시그니처 메뉴에 아낌없이 퐁당!",
+    "volume": "※ 1회 제공량 기준 : 538g",
+    "kcal": "483",
+    "caffeine": "206",
+    "sodium": "106",
+    "sugars": "54",
+    "sat_FAT": "10"
+  },
+  {
+    "prodName": "퐁당치노(미숫가루)",
+    "prodInfo": "빽다방 대표 시그니처 메뉴에 아낌없이 퐁당!\n",
+    "volume": "※ 1회 제공량 기준 : 592g",
+    "kcal": "613",
+    "caffeine": "0",
+    "sodium": "214",
+    "sugars": "74",
+    "sat_FAT": "9"
+  }
+]
