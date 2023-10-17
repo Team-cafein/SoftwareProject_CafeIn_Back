@@ -1,30 +1,30 @@
 // src/api/gpt/gpt.js
-import axios from 'axios';
-require('dotenv').config();
-const { OPENAI_SECRET_KEY } = process.env;
+// import axios from 'axios';
+// require('dotenv').config();
+// const { OPENAI_SECRET_KEY } = process.env;
 
-const gptAPI = axios.create({
-  baseURL: 'https://api.openai.com',
-  headers: {
-    Authorization: `Bearer ${OPENAI_SECRET_KEY}`,
-    'Content-Type': 'application/json',
-  },
-});
+// const gptAPI = axios.create({
+//   baseURL: 'https://api.openai.com',
+//   headers: {
+//     Authorization: `Bearer ${OPENAI_SECRET_KEY}`,
+//     'Content-Type': 'application/json',
+//   },
+// });
 
-export const askGpt = async (message) => {
-  try {
-    const response = await gptAPI.post('/v1/chat/completions', {
-      model: 'gpt-3.5-turbo',
-      messages: [{ role: 'user', content: message }],
-    });
+// export const askGpt = async (message) => {
+//   try {
+//     const response = await gptAPI.post('/v1/chat/completions', {
+//       model: 'gpt-3.5-turbo',
+//       messages: [{ role: 'user', content: message }],
+//     });
 
-    const repliedMessage = response.data.choices[0].message.content;
+//     const repliedMessage = response.data.choices[0].message.content;
 
-    return repliedMessage;
-  } catch (error) {
-    console.error(error);
-  }
-};
+//     return repliedMessage;
+//   } catch (error) {
+//     console.error(error);
+//   }
+// };
 
 // src/api/gpt/gpt.js
 // const { Configuration, OpenAIApi } = require('openai');
