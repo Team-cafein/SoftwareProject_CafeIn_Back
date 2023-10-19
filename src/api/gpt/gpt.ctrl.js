@@ -40,33 +40,22 @@ const askGpt = async (message) => {
   }
 };
 
-// import Gpt from '../../models/gpt';
+// src/api/gpt/gpt.ctrl.js
 
-// const gpt = new Gpt({
-//   question,
-//   answer,
-// });
-// await gpt.save();
-
-// // src/api/gpt/gpt.ctrl.js
-// import Gpt from '../../models/gpt';
-// import { askGpt } from './gpt';
+// import { spawn } from 'child_process';
 
 // export const ask = async (ctx) => {
 //   const { question } = ctx.request.body;
 
-//   try {
-//     const answer = await askGpt(question);
+//   const pythonProcess = spawn('python', ['gpt.py', question]);
 
-//     const gpt = new Gpt({
-//       question,
-//       answer,
-//     });
-//     await gpt.save();
-
+//   pythonProcess.stdout.on('data', (data) => {
+//     const answer = data.toString();
 //     ctx.body = { answer };
-//   } catch (error) {
+//   });
+
+//   pythonProcess.stderr.on('data', (data) => {
 //     ctx.status = 500;
-//     ctx.body = { error: 'GPT-3 API 요청 중 오류가 발생했습니다.' };
-//   }
+//     ctx.body = { error: 'Python 스크립트 실행 중 오류가 발생했습니다.' };
+//   });
 // };

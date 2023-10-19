@@ -59,6 +59,8 @@ const storeMenu = async (ctx, filePath, category) => {
       cafeidCounter = 3;
     } else if (category === 'paik') {
       cafeidCounter = 4;
+    } else if (category === 'mega') {
+      cafeidCounter = 5;
     }
 
     // JSON 데이터 처리
