@@ -1,0 +1,558 @@
+[
+  {
+    "prodName": "청송 애플파이 프라페",
+    "price": "4,400"
+  },
+  {
+    "prodName": "(ICE)청송 애플 선셋 티플레저",
+    "price": "3,900"
+  },
+  {
+    "prodName": "(HOT)청송 애플 선셋 티플레저",
+    "price": "3,900"
+  },
+  {
+    "prodName": "할메가커피",
+    "price": "1,900"
+  },
+  {
+    "prodName": "왕할메가커피",
+    "price": "2,900"
+  },
+  {
+    "prodName": "고흥 유자 하이볼에이드",
+    "price": "3,800"
+  },
+  {
+    "prodName": "코코넛 커피 스무디",
+    "price": "4,800"
+  },
+  {
+    "prodName": "레드오렌지자몽주스",
+    "price": "4,000"
+  },
+  {
+    "prodName": "샤인머스캣그린주스",
+    "price": "4,000"
+  },
+  {
+    "prodName": "딸기주스",
+    "price": "4,000"
+  },
+  {
+    "prodName": "딸기바나나주스",
+    "price": "4,000"
+  },
+  {
+    "prodName": "디카페인 에스프레소",
+    "price": "2,500"
+  },
+  {
+    "prodName": "디카페인 젤라또 아포카토",
+    "price": "3,700"
+  },
+  {
+    "prodName": "에스프레소 피에노",
+    "price": "2,400"
+  },
+  {
+    "prodName": "디카페인 아메리카노",
+    "price": "2,500"
+  },
+  {
+    "prodName": "디카페인 꿀아메리카노",
+    "price": "3,700"
+  },
+  {
+    "prodName": "디카페인 헤이즐넛 아메리카노",
+    "price": "3,700"
+  },
+  {
+    "prodName": "디카페인 바닐라 아메리카노",
+    "price": "3,700"
+  },
+  {
+    "prodName": "디카페인 카페라떼",
+    "price": "3,900"
+  },
+  {
+    "prodName": "디카페인 카푸치노",
+    "price": "3,900"
+  },
+  {
+    "prodName": "디카페인 바닐라라떼",
+    "price": "4,400"
+  },
+  {
+    "prodName": "디카페인 헤이즐넛 라떼",
+    "price": "4,400"
+  },
+  {
+    "prodName": "디카페인 카라멜마끼아또",
+    "price": "4,700"
+  },
+  {
+    "prodName": "디카페인 연유라떼",
+    "price": "4,900"
+  },
+  {
+    "prodName": "디카페인 카페모카",
+    "price": "4,900"
+  },
+  {
+    "prodName": "디카페인 티라미수라떼",
+    "price": "4,900"
+  },
+  {
+    "prodName": "디카페인 아메리카노",
+    "price": "3,000"
+  },
+  {
+    "prodName": "디카페인 메가리카노",
+    "price": "3,700"
+  },
+  {
+    "prodName": "디카페인 꿀아메리카노",
+    "price": "3,700"
+  },
+  {
+    "prodName": "디카페인 헤이즐넛 아메리카노",
+    "price": "3,700"
+  },
+  {
+    "prodName": "디카페인 바닐라 아메리카노",
+    "price": "3,700"
+  },
+  {
+    "prodName": "디카페인 카페라떼",
+    "price": "3,900"
+  },
+  {
+    "prodName": "디카페인 카푸치노",
+    "price": "3,900"
+  },
+  {
+    "prodName": "디카페인 바닐라라떼",
+    "price": "4,400"
+  },
+  {
+    "prodName": "디카페인 헤이즐넛 라떼",
+    "price": "4,400"
+  },
+  {
+    "prodName": "디카페인 카라멜마끼아또",
+    "price": "4,700"
+  },
+  {
+    "prodName": "디카페인 카페모카",
+    "price": "4,900"
+  },
+  {
+    "prodName": "디카페인 티라미수라떼",
+    "price": "4,900"
+  },
+  {
+    "prodName": "딸기라떼",
+    "price": "3,700"
+  },
+  {
+    "prodName": "딸기쿠키프라페",
+    "price": "3,900"
+  },
+  {
+    "prodName": "콜드브루디카페인",
+    "price": "3,500"
+  },
+  {
+    "prodName": "콜드브루디카페인",
+    "price": "3,500"
+  },
+  {
+    "prodName": "콜드브루디카페인라떼",
+    "price": "4,000"
+  },
+  {
+    "prodName": "콜드브루디카페인라떼",
+    "price": "4,000"
+  },
+  {
+    "prodName": "에스프레소",
+    "price": "1,500"
+  },
+  {
+    "prodName": "에스프레소 도피오",
+    "price": "2,000"
+  },
+  {
+    "prodName": "에스프레소 피에노",
+    "price": "2,400"
+  },
+  {
+    "prodName": "젤라또 아포가토",
+    "price": "3,200"
+  },
+  {
+    "prodName": "쿠키프라페",
+    "price": "3,900"
+  },
+  {
+    "prodName": "고구마라떼",
+    "price": "3,500"
+  },
+  {
+    "prodName": "곡물라떼",
+    "price": "3,000"
+  },
+  {
+    "prodName": "메가초코",
+    "price": "3,800"
+  },
+  {
+    "prodName": "토피넛라떼",
+    "price": "3,800"
+  },
+  {
+    "prodName": "고구마라떼",
+    "price": "3,500"
+  },
+  {
+    "prodName": "곡물라떼",
+    "price": "3,000"
+  },
+  {
+    "prodName": "오레오초코라떼",
+    "price": "3,900"
+  },
+  {
+    "prodName": "토피넛라떼",
+    "price": "3,800"
+  },
+  {
+    "prodName": "흑당버블밀크티라떼",
+    "price": "3,800"
+  },
+  {
+    "prodName": "핫초코",
+    "price": "3,500"
+  },
+  {
+    "prodName": "녹차라떼",
+    "price": "3,500"
+  },
+  {
+    "prodName": "로얄밀크티라떼",
+    "price": "3,700"
+  },
+  {
+    "prodName": "흑당라떼",
+    "price": "3,300"
+  },
+  {
+    "prodName": "흑당밀크티라떼",
+    "price": "3,500"
+  },
+  {
+    "prodName": "흑당버블라떼",
+    "price": "3,700"
+  },
+  {
+    "prodName": "아이스초코",
+    "price": "3,500"
+  },
+  {
+    "prodName": "녹차라떼",
+    "price": "3,500"
+  },
+  {
+    "prodName": "로얄밀크티라떼",
+    "price": "3,700"
+  },
+  {
+    "prodName": "아메리카노",
+    "price": "1,500"
+  },
+  {
+    "prodName": "티라미수라떼",
+    "price": "3,900"
+  },
+  {
+    "prodName": "메가리카노",
+    "price": "3,000"
+  },
+  {
+    "prodName": "티라미수라떼",
+    "price": "3,900"
+  },
+  {
+    "prodName": "꿀아메리카노",
+    "price": "2,700"
+  },
+  {
+    "prodName": "바닐라라떼",
+    "price": "3,400"
+  },
+  {
+    "prodName": "바닐라아메리카노",
+    "price": "2,700"
+  },
+  {
+    "prodName": "연유라떼",
+    "price": "3,900"
+  },
+  {
+    "prodName": "카라멜마끼아또",
+    "price": "3,700"
+  },
+  {
+    "prodName": "카페라떼",
+    "price": "2,900"
+  },
+  {
+    "prodName": "카페모카",
+    "price": "3,900"
+  },
+  {
+    "prodName": "카푸치노",
+    "price": "2,900"
+  },
+  {
+    "prodName": "콜드브루라떼",
+    "price": "4,000"
+  },
+  {
+    "prodName": "콜드브루오리지널",
+    "price": "3,500"
+  },
+  {
+    "prodName": "헤이즐넛라떼",
+    "price": "3,400"
+  },
+  {
+    "prodName": "헤이즐넛아메리카노",
+    "price": "2,700"
+  },
+  {
+    "prodName": "꿀아메리카노",
+    "price": "2,700"
+  },
+  {
+    "prodName": "바닐라라떼",
+    "price": "3,400"
+  },
+  {
+    "prodName": "바닐라아메리카노",
+    "price": "2,700"
+  },
+  {
+    "prodName": "카라멜마끼아또",
+    "price": "3,700"
+  },
+  {
+    "prodName": "카페라떼",
+    "price": "2,900"
+  },
+  {
+    "prodName": "카페모카",
+    "price": "3,900"
+  },
+  {
+    "prodName": "카푸치노",
+    "price": "2,900"
+  },
+  {
+    "prodName": "콜드브루라떼",
+    "price": "4,000"
+  },
+  {
+    "prodName": "콜드브루오리지널",
+    "price": "3,500"
+  },
+  {
+    "prodName": "헤이즐넛라떼",
+    "price": "3,400"
+  },
+  {
+    "prodName": "헤이즐넛아메리카노",
+    "price": "2,700"
+  },
+  {
+    "prodName": "큐브라떼",
+    "price": "4,200"
+  },
+  {
+    "prodName": "메가초코",
+    "price": "3,800"
+  },
+  {
+    "prodName": "아메리카노",
+    "price": "2,000"
+  },
+  {
+    "prodName": "녹차프라페",
+    "price": "3,900"
+  },
+  {
+    "prodName": "딸기요거트스무디",
+    "price": "3,900"
+  },
+  {
+    "prodName": "딸기퐁크러쉬",
+    "price": "3,900"
+  },
+  {
+    "prodName": "리얼초코프라페",
+    "price": "3,900"
+  },
+  {
+    "prodName": "망고요거트스무디",
+    "price": "3,900"
+  },
+  {
+    "prodName": "민트프라페",
+    "price": "3,900"
+  },
+  {
+    "prodName": "바나나퐁크러쉬",
+    "price": "3,900"
+  },
+  {
+    "prodName": "스트로베리치즈홀릭",
+    "price": "4,500"
+  },
+  {
+    "prodName": "초코허니퐁크러쉬",
+    "price": "3,900"
+  },
+  {
+    "prodName": "커피프라페",
+    "price": "3,900"
+  },
+  {
+    "prodName": "플레인요거트스무디",
+    "price": "3,900"
+  },
+  {
+    "prodName": "슈크림허니퐁크러쉬",
+    "price": "3,900"
+  },
+  {
+    "prodName": "플레인퐁크러쉬",
+    "price": "3,900"
+  },
+  {
+    "prodName": "라임모히또",
+    "price": "3,800"
+  },
+  {
+    "prodName": "레몬에이드",
+    "price": "3,500"
+  },
+  {
+    "prodName": "블루레몬에이드",
+    "price": "3,500"
+  },
+  {
+    "prodName": "자몽에이드",
+    "price": "3,500"
+  },
+  {
+    "prodName": "청포도에이드",
+    "price": "3,500"
+  },
+  {
+    "prodName": "유니콘매직에이드(핑크)",
+    "price": "3,800"
+  },
+  {
+    "prodName": "유니콘매직에이드(블루)",
+    "price": "3,800"
+  },
+  {
+    "prodName": "체리콕",
+    "price": "3,300"
+  },
+  {
+    "prodName": "메가에이드",
+    "price": "3,900"
+  },
+  {
+    "prodName": "녹차",
+    "price": "2,500"
+  },
+  {
+    "prodName": "사과유자차",
+    "price": "3,500"
+  },
+  {
+    "prodName": "얼그레이",
+    "price": "2,500"
+  },
+  {
+    "prodName": "캐모마일",
+    "price": "2,500"
+  },
+  {
+    "prodName": "페퍼민트",
+    "price": "2,500"
+  },
+  {
+    "prodName": "녹차",
+    "price": "2,500"
+  },
+  {
+    "prodName": "사과유자차",
+    "price": "3,500"
+  },
+  {
+    "prodName": "얼그레이",
+    "price": "2,500"
+  },
+  {
+    "prodName": "캐모마일",
+    "price": "2,500"
+  },
+  {
+    "prodName": "페퍼민트",
+    "price": "2,500"
+  },
+  {
+    "prodName": "복숭아아이스티",
+    "price": "3,000"
+  },
+  {
+    "prodName": "유자차",
+    "price": "3,300"
+  },
+  {
+    "prodName": "레몬차",
+    "price": "3,300"
+  },
+  {
+    "prodName": "자몽차",
+    "price": "3,300"
+  },
+  {
+    "prodName": "허니자몽블랙티",
+    "price": "3,700"
+  },
+  {
+    "prodName": "유자차",
+    "price": "3,300"
+  },
+  {
+    "prodName": "레몬차",
+    "price": "3,300"
+  },
+  {
+    "prodName": "자몽차",
+    "price": "3,300"
+  },
+  {
+    "prodName": "허니자몽블랙티",
+    "price": "3,700"
+  },
+  {
+    "prodName": "유니콘프라페",
+    "price": "4,800"
+  }
+]
