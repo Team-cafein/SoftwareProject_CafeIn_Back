@@ -228,6 +228,8 @@ from pymongo import MongoClient
 import certifi
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from flask_cors import CORS
+
 
 # .env 파일 로드
 load_dotenv()
@@ -248,6 +250,7 @@ db = client.test
 collection = db.get_collection("cafe/starbucks")
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for the entire app
 
 
 @app.route("/chat", methods=["POST"])
