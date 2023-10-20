@@ -12,6 +12,7 @@ const cafeSchema = new Schema(
     cafe: String,
     content: String,
     image: String,
+    price: String,
     tag: [String], // tag 필드
     detail: {
       volume: { type: String, default: '' }, // 빈 문자열로 초기화
