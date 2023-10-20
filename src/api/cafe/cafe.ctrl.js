@@ -72,33 +72,33 @@ const storeMenu = async (ctx, filePath, category) => {
         name: item.prodName, // prodName을 name 필드에 저장
         cafe: item.prodCafe,
         content: item.prodContent || '',
+        price: item.prodPrice,
         image: item.prodImage, // prodImage를 image 필드에 저장
         detail: {
           volume:
             item.prodDetail && item.prodDetail.volume
               ? item.prodDetail.volume
-              : '', // prodDetail의 volume 필드
+              : '',
           kcal:
-            item.prodDetail && !isNaN(item.prodDetail.kcal)
-              ? item.prodDetail.kcal
-              : '', // prodDetail의 kcal 필드
+            item.prodDetail && item.prodDetail.kcal ? item.prodDetail.kcal : '',
           sat_FAT:
-            item.prodDetail && !isNaN(item.prodDetail.sat_FAT)
+            item.prodDetail && item.prodDetail.sat_FAT
               ? item.prodDetail.sat_FAT
-              : '', // prodDetail의 sat_FAT 필드
+              : '',
           sodium:
-            item.prodDetail && !isNaN(item.prodDetail.sodium)
+            item.prodDetail && item.prodDetail.sodium
               ? item.prodDetail.sodium
-              : '', // prodDetail의 sodium 필드
+              : '',
           sugars:
-            item.prodDetail && !isNaN(item.prodDetail.sugars)
+            item.prodDetail && item.prodDetail.sugars
               ? item.prodDetail.sugars
-              : '', // prodDetail의 sugars 필드
+              : '',
           caffeine:
-            item.prodDetail && !isNaN(item.prodDetail.caffeine)
+            item.prodDetail && item.prodDetail.caffeine
               ? item.prodDetail.caffeine
-              : '', // prodDetail의 caffeine 필드
+              : '',
         },
+
         tag: item.prodTag || [], // tag 필드를 선택적으로 저장 (없을 경우 빈 배열)
       };
 
