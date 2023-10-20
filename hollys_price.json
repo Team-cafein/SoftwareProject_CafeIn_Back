@@ -1,0 +1,206 @@
+[
+    {
+      "prodName": "보늬밤 크림 라떼",
+      "price": "6,200"
+    },
+    {
+      "prodName": "블랙아리아 아메리카노",
+      "price": "5,000"
+    },
+    {
+      "prodName": "블랙아리아 딥라떼",
+      "price": "5,700"
+    },
+    {
+      "prodName": "디카페인 아메리카노",
+      "price": "4,900"
+    },
+    {
+      "prodName": "디카페인 카페 라떼",
+      "price": "5,600"
+    },
+    {
+      "prodName": "디카페인 바닐라 딜라이트",
+      "price": "6,500"
+    },
+    {
+      "prodName": "콜드브루 딜라이트",
+      "price": "6,400"
+    },
+    {
+      "prodName": "콜드브루 라떼",
+      "price": "5,600"
+    },
+    {
+      "prodName": "콜드브루",
+      "price": "5,100"
+    },
+    {
+      "prodName": "바닐라 딜라이트",
+      "price": "6,100"
+    },
+    {
+      "prodName": "리스트레또 딜라이트",
+      "price": "6,100"
+    },
+    {
+      "prodName": "카라멜 마키아또",
+      "price": "6,100"
+    },
+    {
+      "prodName": "카페모카",
+      "price": "5,700"
+    },
+    {
+      "prodName": "카푸치노",
+      "price": "5,700"
+    },
+    {
+      "prodName": "카페 라떼",
+      "price": "5,200"
+    },
+    {
+      "prodName": "아메리카노",
+      "price": "4,500"
+    },
+    {
+      "prodName": "아포가토",
+      "price": "6,200"
+    },
+    {
+      "prodName": "에스프레소",
+      "price": "4,000"
+    },
+    {
+      "prodName": "로얄 밀크 버블티",
+      "price": "6,000"
+    },
+    {
+      "prodName": "흑당 버블티",
+      "price": "5,700"
+    },
+    {
+      "prodName": "핑크 파인 캐모마일티",
+      "price": "5,500"
+    },
+    {
+      "prodName": "제주 말차 라떼",
+      "price": "6,000"
+    },
+    {
+      "prodName": "민트초코",
+      "price": "5,800"
+    },
+    {
+      "prodName": "핫/아이스초코",
+      "price": "5,600"
+    },
+    {
+      "prodName": "화이트초코",
+      "price": "5,600"
+    },
+    {
+      "prodName": "유자 캐모마일",
+      "price": "5,500"
+    },
+    {
+      "prodName": "복숭아 얼그레이",
+      "price": "5,500"
+    },
+    {
+      "prodName": "홍자몽차",
+      "price": "5,300"
+    },
+    {
+      "prodName": "제주 한라봉 감귤차",
+      "price": "4,900"
+    },
+    {
+      "prodName": "고흥 유자차",
+      "price": "4,900"
+    },
+    {
+      "prodName": "해남 녹차",
+      "price": "4,500"
+    },
+    {
+      "prodName": "페퍼민트",
+      "price": "4,500"
+    },
+    {
+      "prodName": "캐모마일",
+      "price": "4,500"
+    },
+    {
+      "prodName": "얼그레이",
+      "price": "4,500"
+    },
+    {
+      "prodName": "제주 말차 할리치노",
+      "price": "6,300"
+    },
+    {
+      "prodName": "민트 초코칩 할리치노",
+      "price": "6,300"
+    },
+    {
+      "prodName": "딸기 치즈케익 할리치노",
+      "price": "6,300"
+    },
+    {
+      "prodName": "플레인 요거트 할리치노",
+      "price": "6,100"
+    },
+    {
+      "prodName": "다크초코칩 할리치노",
+      "price": "6,300"
+    },
+    {
+      "prodName": "콜드브루 할리치노",
+      "price": "6,100"
+    },
+    {
+      "prodName": "문경 오미자 사과 스무디",
+      "price": "6,800"
+    },
+    {
+      "prodName": "오렌지 자몽 싱싱 주스",
+      "price": "6,500"
+    },
+    {
+      "prodName": "피치 딸기 크러쉬",
+      "price": "5,900"
+    },
+    {
+      "prodName": "애플망고 스무디",
+      "price": "6,300"
+    },
+    {
+      "prodName": "딸기 스무디",
+      "price": "6,300"
+    },
+    {
+      "prodName": "사과 비트 착즙 주스",
+      "price": "5,700"
+    },
+    {
+      "prodName": "오렌지 당근 착즙 주스",
+      "price": "5,700"
+    },
+    {
+      "prodName": "청포도케일 착즙주스",
+      "price": "5,700"
+    },
+    {
+      "prodName": "유자몽 스파클링",
+      "price": "5,800"
+    },
+    {
+      "prodName": "복숭아 자두 스파클링",
+      "price": "5,800"
+    },
+    {
+      "prodName": "청포도 스파클링",
+      "price": "5,800"
+    }
+]
