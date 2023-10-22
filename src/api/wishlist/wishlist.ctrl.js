@@ -41,3 +41,35 @@ export const getWishlistByUserId = async (ctx) => {
     ctx.body = '서버 오류';
   }
 };
+
+// // src/wishlist/wishlist.ctrl.js
+// import ProductWishlist from '../../models/wishlist';
+
+// export const toggleWishlist = async (ctx) => {
+//   try {
+//     const { productId } = ctx.request.body;
+//     const { username } = ctx.state.user; // 사용자 정보를 ctx.state.user에서 가져옵니다.
+
+//     // 사용자가 이미 찜한 상품인지 확인
+//     const existingWishlist = await ProductWishlist.findOne({
+//       username,
+//       productId,
+//     });
+
+//     if (existingWishlist) {
+//       // 이미 찜한 상품이면 삭제
+//       await ProductWishlist.findByIdAndDelete(existingWishlist._id);
+//       ctx.status = 200;
+//       ctx.body = '찜하기가 취소되었습니다.';
+//     } else {
+//       // 찜하지 않은 상품이면 추가
+//       const wishlist = new ProductWishlist({ username, productId });
+//       await wishlist.save();
+//       ctx.status = 201;
+//       ctx.body = wishlist; // Wishlist 내용을 반환
+//     }
+//   } catch (error) {
+//     ctx.status = 500;
+//     ctx.body = '서버 오류';
+//   }
+// };
