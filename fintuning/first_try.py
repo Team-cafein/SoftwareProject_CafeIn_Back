@@ -211,7 +211,8 @@ def chat():
     if best_match:
         content = best_match
     else:
-        content = "죄송합니다. 콕인(Cokin)이 DB에서 요청한 정보를 찾을 수 없어요!"
+        # content = "죄송합니다. 콕인(Cokin)이 DB에서 요청한 정보를 찾을 수 없어요!"
+        content = ""
 
     # 사용자와 챗봇의 대화 내용을 JSON 형식으로 반환
     chat_log = [
