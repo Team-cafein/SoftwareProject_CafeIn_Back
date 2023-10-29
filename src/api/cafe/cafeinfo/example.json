@@ -1,0 +1,37 @@
+{
+    "prodName": "청송 애플 선셋 티플레저",
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905184743_1693907263344_FW_TlojpFQ.jpg",
+    "prodCafe": "mega",
+    "prodContent": "청송사과의 향긋함이 담긴 바삭한 애플파이를\n달달한 음료로 재해석한 메가MGC커피만의 가을 한정음료",
+    "prodTag": [
+        "non-coffee", // 커피인지 논커피인지
+        "tea", // 종류, 티
+        "ice/hot", // 아이스 핫 둘 다 있음
+        "k_mid", // 칼로리 보통
+        "s_high", // 당도 높음
+        "p_mid" // 가격 보통
+    ],
+    "prodDetail": [
+        {
+            "type": 1,
+            "IorH": "hot",
+            "volume": "20oz",
+            "price": "3,900",
+            "kcal": "1회 제공량 203.6kcal",
+            "caffeine": "카페인 5.3mg",
+            "sodium": "나트륨 33.6mg",
+            "sugars": "당류 42.1g",
+            "sat_FAT": "포화지방 0.0g"
+        },
+        {
+            "type": 2,
+            "IorH": "ice",
+            "volume": "24oz",
+            "kcal": "1회 제공량 203.6kcal",
+            "caffeine": "카페인 5.3mg",
+            "sodium": "나트륨 33.6mg",
+            "sugars": "당류 42.1g",
+            "sat_FAT": "포화지방 0.0g"
+        }
+    ]
+}
