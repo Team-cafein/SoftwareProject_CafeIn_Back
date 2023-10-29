@@ -24,6 +24,13 @@
 // src/api/questions/questions.ctrl.js
 import Question from '../../models/questions';
 
+// POST register/question
+// {
+//     "username": "qwer",
+//     "question": ["나는 오늘 어떤 커피를 먹을까?", ...],
+//     "answer": ["고소한 커피!", ... ] // 자동치환됨
+// }
+
 export const createQuestion = async (ctx) => {
   const { username, questions, answers } = ctx.request.body;
 
@@ -61,11 +68,11 @@ export const createQuestion = async (ctx) => {
     }
 
     if (answer === '아니 별로...') {
-      return 'p_low';
+      return 's_low';
     } else if (answer === '적당한게 좋아') {
-      return 'p_mid';
+      return 's_mid';
     } else if (answer === '단게 땡긴다!!') {
-      return 'p_high';
+      return 's_high';
     }
 
     if (answer === '텅장이다 ㅠ') {
@@ -96,4 +103,18 @@ export const createQuestion = async (ctx) => {
   } catch (e) {
     ctx.throw(500, e);
   }
+};
+
+// GET register/answer
+// 취향 정보 가져오기
+export const getProfile = async (ctx) => {
+  const { username } = ctx.state.user; // 로그인한 사용자의 username을 가져옴
+  const question = await Question.findOne({ username }).exec();
+
+  if (!question) {
+    ctx.status = 404; // Not Found
+    return;
+  }
+
+  ctx.body = question.answer;
 };
