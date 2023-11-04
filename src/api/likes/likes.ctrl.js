@@ -62,3 +62,77 @@ export const toggleLike = async (ctx) => {
     });
   });
 };
+
+// // src/api/likes/likes.ctrl.js
+// import Like from '../../models/like';
+// import getBeverageIdToSplit from '../../lib/getBeverageIdToSplit';
+// import { getBeverageName } from '../../lib/getBeverageName';
+
+// export const toggleLike = async (ctx) => {
+//   const { like } = ctx.request.body;
+//   const username = ctx.state.user.username;
+
+//   await getBeverageIdToSplit(ctx, async () => {
+//     const { cafeid, beverage } = ctx.state;
+
+//     if (cafeid === undefined || beverage === undefined) {
+//       ctx.status = 400;
+//       ctx.body = { error: 'Invalid beverageId.' };
+//       return;
+//     }
+
+//     await getBeverageName(ctx, async () => {
+//       const beverageName = ctx.state.beverageName;
+
+//       try {
+//         let likeDocument = await Like.findOne({ username });
+
+//         if (!likeDocument) {
+//           likeDocument = new Like({
+//             username,
+//             likes: [],
+//             dislikes: [],
+//             likedByUsers: {},
+//             likesCount: 0,
+//             dislikesCount: 0,
+//           });
+//         }
+
+//         if (like) {
+//           if (!likeDocument.likes.includes(beverageName)) {
+//             likeDocument.likes.push(beverageName);
+//           }
+//           likeDocument.dislikes = likeDocument.dislikes.filter(
+//             (id) => id !== beverageName,
+//           );
+//           likeDocument.likedByUsers[username] = true;
+//         } else {
+//           if (!likeDocument.dislikes.includes(beverageName)) {
+//             likeDocument.dislikes.push(beverageName);
+//           }
+//           likeDocument.likes = likeDocument.likes.filter(
+//             (id) => id !== beverageName,
+//           );
+//           likeDocument.likedByUsers[username] = false;
+//         }
+
+//         // Calculate the counts based on the likedByUsers object
+//         likeDocument.likesCount = Object.values(
+//           likeDocument.likedByUsers,
+//         ).filter((value) => value === true).length;
+//         likeDocument.dislikesCount = Object.values(
+//           likeDocument.likedByUsers,
+//         ).filter((value) => value === false).length;
+
+//         await likeDocument.save();
+//         ctx.body = likeDocument;
+//       } catch (error) {
+//         ctx.status = 500;
+//         ctx.body = {
+//           error: '좋아요 또는 싫어요를 업데이트하는 중에 오류가 발생했습니다.',
+//           details: error.message,
+//         };
+//       }
+//     });
+//   });
+// };

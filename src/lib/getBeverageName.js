@@ -18,17 +18,17 @@ const selectCollection = (cafeid) => {
 
 export const getBeverageName = async (ctx, next) => {
   const { cafeid, beverage } = ctx.state;
-  console.log(cafeid);
-  console.log(beverage);
+  //   console.log(cafeid);
+  //   console.log(beverage);
 
   // selectCollection 함수를 사용하여 category 설정
   const category = selectCollection(parseInt(cafeid));
-  console.log('카테고리:', category);
+  //   console.log('카테고리:', category);
 
   try {
     // 정적인 서브 컬렉션 이름을 사용
     const subCollectionName = `cafe/${category}`;
-    console.log('서브컬렉션:', subCollectionName);
+    // console.log('서브컬렉션:', subCollectionName);
 
     // 서브 컬렉션에서 커피 데이터를 조회합니다.
     const subCollection = Cafe.db.collection(subCollectionName);
@@ -55,7 +55,7 @@ export const getBeverageName = async (ctx, next) => {
     // 찾은 음료의 name 필드를 리스트에 저장합니다.
 
     // console.log(ctx.body);
-    console.log(ctx.state.beverageName);
+    // console.log(ctx.state.beverageName);
 
     await next();
   } catch (err) {
