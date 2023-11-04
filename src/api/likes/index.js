@@ -6,6 +6,6 @@ import checkLoggedIn from '../../lib/checkLoggedIn';
 const like = new Router();
 
 // /api/likes 엔드포인트를 생성합니다.
-like.post('/:beverageId', checkLoggedIn, likesCtrl.toggleLike);
+like.post('/:id', checkLoggedIn, likesCtrl.toggleLike);
 
 export default like;
