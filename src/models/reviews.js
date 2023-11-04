@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 
 const reviewSchema = new mongoose.Schema({
   beverageId: {
-    type: String, // ObjectId 대신 String으로 변경
+    type: String, // ${cafeid}_${beverage} 형식의 String
     required: true,
   },
   user: {
@@ -11,7 +11,7 @@ const reviewSchema = new mongoose.Schema({
     required: true,
   },
   username: {
-    type: String, // 사용자 ID (ObjectId 형식)
+    type: String,
     required: true,
   },
   title: {
