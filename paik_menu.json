@@ -389,7 +389,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": ["non-coffee","ice","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "11",
@@ -405,7 +405,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": ["non-coffee","hot","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "1회 제공량 기준 : 600ml",
       "kcal": "11",
@@ -453,7 +453,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": ["non-coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "162",
@@ -469,7 +469,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_low","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -517,7 +517,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루연유라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "357",
@@ -533,7 +533,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루연유라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -581,7 +581,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루흑당라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "280",
@@ -597,7 +597,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루흑당라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -629,7 +629,7 @@
     "prodContent": "카페인 함량을 낮춰부담을 줄인 콜드브루 디카페인 원액",
     "prodCafe": "paik",
     "prodPrice": "14,500",
-    "prodTag": ["non-coffee","ice","k_low","s_low","p_high"],
+    "prodTag": ["coffee","ice","k_low","s_low","p_high"],
     "prodDetail": {
       "volume": "",
       "kcal": "",

@@ -181,7 +181,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인으로 만나는 메가MGC커피 에스프레소",
     "prodPrice": "2,500",
-    "prodTag": ["non-coffee","hot","k_low","s_low","p_low"],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 2oz",
       "kcal": "1회 제공량 6.2kcal",
@@ -213,7 +213,7 @@
     "prodCafe": "mega",
     "prodContent": "크림과 코코아 파우더를 올려 부드럽게 즐길 수 있는 디카페인 에스프레소",
     "prodPrice": "2,400",
-    "prodTag": ["non-coffee","hot","k_low","s_mid","p_low"],
+    "prodTag": ["coffee","hot","k_low","s_mid","p_low"],
     "prodDetail": {
       "volume": "One size",
       "kcal": "1회 제공량 99.48kcal",
@@ -229,7 +229,7 @@
     "prodCafe": "mega",
     "prodContent": "향과 풍미 그대로 카페인만을 낮춰 민감한 분들도 안심하고 \n매일매일 즐길 수 있는 디카페인 커피",
     "prodPrice": "2,500",
-    "prodTag": ["non-coffee","hot","k_low","s_low","p_low"],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 9.4kcal",
@@ -245,7 +245,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
     "prodPrice": "3,700",
-    "prodTag": ["non-coffee","hot","k_mid","s_high","p_mid"],
+    "prodTag": ["coffee","hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 149.3kcal",
@@ -261,7 +261,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 \n향긋하고 부드럽게 즐기는 커피.",
     "prodPrice": "3,700",
-    "prodTag": ["non-coffee","hot","k_low","s_mid","p_mid"],
+    "prodTag": ["coffee","hot","k_low","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 84.2kcal",
@@ -277,7 +277,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
     "prodPrice": "3,700",
-    "prodTag": ["non-coffee","hot","k_low","s_mid","p_mid"],
+    "prodTag": ["coffee","hot","k_low","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "회 제공량 83.0kcal",
@@ -293,7 +293,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
     "prodPrice": "3,900",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 178.5kcal",
@@ -309,7 +309,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 카푸치노.",
     "prodPrice": "3,900",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 152.9kcal",
@@ -325,7 +325,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인으로 즐기는 바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
     "prodPrice": "4,400",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 233.7kcal",
@@ -341,7 +341,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 \n디카페인 라떼.",
     "prodPrice": "4,400",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 240.0kcal",
@@ -357,7 +357,7 @@
     "prodCafe": "mega",
     "prodContent": "폼 밀크 속에 진한 디카페인 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피",
     "prodPrice": "4,700",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 238.5kcal",
@@ -373,7 +373,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소 샷, 부드러운 우유 그리고 달콤한 연유가 조화롭게 어우러진 라떼.",
     "prodPrice": "4,900",
-    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 301.5kcal",
@@ -389,7 +389,7 @@
     "prodCafe": "mega",
     "prodContent": "초코를 만나 풍부해진 디카페인 에스프레소와 고소한 우유, \n부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
     "prodPrice": "4,900",
-    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 430.3kcal",
@@ -405,7 +405,7 @@
     "prodCafe": "mega",
     "prodContent": "'디카페인 에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는\n달달한 크림까지 곁들여 완성한 티라미수 라떼.",
     "prodPrice": "4,900",
-    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 436.7kcal",
@@ -421,7 +421,7 @@
     "prodCafe": "mega",
     "prodContent": "향과 풍미 그대로 카페인만을 낮춰 민감한 분들도 안심하고 \n매일매일 즐길 수 있는 디카페인 커피",
     "prodPrice": "3,000",
-    "prodTag": ["non-coffee","ice","k_low","s_low","p_low"],
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 9.5kcal",
@@ -437,7 +437,7 @@
     "prodCafe": "mega",
     "prodContent": "메가MGC커피 디카페인 아메리카노를 '960ml' 더 크고 가볍게 즐길 수 있는 대용량 커피",
     "prodPrice": "3,700",
-    "prodTag": ["non-coffee","ice","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 32oz",
       "kcal": "1회 제공량 17.1kcal",
@@ -453,7 +453,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
     "prodPrice": "3,700",
-    "prodTag": ["non-coffee","ice","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 137.4kcal",
@@ -469,7 +469,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 \n향긋하고 부드럽게 즐기는 커피.",
     "prodPrice": "3,700",
-    "prodTag": ["non-coffee","ice","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 108.7kcal",
@@ -485,7 +485,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
     "prodPrice": "3,700",
-    "prodTag": ["non-coffee","ice","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 107.5kcal",
@@ -501,7 +501,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
     "prodPrice": "3,900",
-    "prodTag": ["non-coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 147.7kcal",
@@ -517,7 +517,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소 위에 올려진 우유 거품, 그리고 시나몬 파우더로 완성한 \n조화로운 맛의 커피.",
     "prodPrice": "3,900",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 127.0kcal",
@@ -533,7 +533,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인으로 즐기는 바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
     "prodPrice": "4,400",
-    "prodTag": ["non-coffee","latte","ice","k_mid","s_high","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 239.3kcal",
@@ -549,7 +549,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 \n디카페인 라떼.",
     "prodPrice": "4,400",
-    "prodTag": ["non-coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 237.0kcal",
@@ -565,7 +565,7 @@
     "prodCafe": "mega",
     "prodContent": "폼 밀크 속에 진한 디카페인 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피",
     "prodPrice": "4,700",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_high","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 232.9kcal",
@@ -581,7 +581,7 @@
     "prodCafe": "mega",
     "prodContent": "초코를 만나 풍부해진 디카페인 에스프레소와 고소한 우유, \n부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
     "prodPrice": "4,900",
-    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 319.7kcal",
@@ -597,7 +597,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는\n달달한 크림까지 곁들여 완성한 티라미수 라떼.",
     "prodPrice": "4,900",
-    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 404.3kcal",
@@ -645,7 +645,7 @@
     "prodCafe": "mega",
     "prodContent": "카페인을 줄였지만, 원두 본연의 향미를 풍부하게 살려 맛을 잡은 디카페인 콜드브루.",
     "prodPrice": "3,500",
-    "prodTag": ["non-coffee","ice","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 7.7kcal",
@@ -661,7 +661,7 @@
     "prodCafe": "mega",
     "prodContent": "카페인을 줄였지만, 원두 본연의 향미를 풍부하게 살려 맛을 잡은 디카페인 콜드브루.",
     "prodPrice": "3,500",
-    "prodTag": ["non-coffee","hot","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 9.4kcal",
@@ -677,7 +677,7 @@
     "prodCafe": "mega",
     "prodContent": "우유와 만나 부드럽고 고소한 풍미가 더해진 콜드브루 디카페인 라떼.",
     "prodPrice": "4,000",
-    "prodTag": ["non-coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 140.8kcal",
@@ -693,7 +693,7 @@
     "prodCafe": "mega",
     "prodContent": "우유와 만나 부드럽고 고소한 풍미가 더해진 콜드브루 디카페인 라떼.",
     "prodPrice": "4,000",
-    "prodTag": ["non-coffee","latte","hot","k_mid","s_low","p_mid"],
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 153.8kcal",
