@@ -1,558 +1,2226 @@
 [
   {
     "prodName": "청송 애플파이 프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905184743_1693907263344_FW_TlojpFQ.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905184743_1693907263344_FW_TlojpFQ.jpg",
+    "prodCafe": "mega",
+    "prodContent": "청송사과의 향긋함이 담긴 바삭한 애플파이를\n달달한 음료로 재해석한 메가MGC커피만의 가을 한정음료",
+    "prodPrice": "4,400",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "20oz",
+      "kcal": "1회 제공량 565.7kcal",
+      "caffeine": "카페인",
+      "sodium": "나트륨 278.0mg",
+      "sugars": "당류 60.8g",
+      "sat_FAT": "포화지방 14.3g"
+    }
   },
   {
     "prodName": "(ICE)청송 애플 선셋 티플레저",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185054_1693907454944_hkLjjkQbPM.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185054_1693907454944_hkLjjkQbPM.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤한 청송 사과청 위에 향긋한 애플티와 진한 블랙티를\n층층이 쌓아 가을 하늘의 노을을 담은 가을 한정 베리에이션 티 음료",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "24oz",
+      "kcal": "1회 제공량 203.6kcal",
+      "caffeine": "카페인 5.3mg",
+      "sodium": "나트륨 33.6mg",
+      "sugars": "당류 42.1g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "(HOT)청송 애플 선셋 티플레저",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185330_1693907610250__m7SqCGZVG.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185330_1693907610250__m7SqCGZVG.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤한 청송 사과청 위에 향긋한 애플티와 진한 블랙티를\n층층이 쌓아 가을 하늘의 노을을 담은 가을 한정 베리에이션 티 음료",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "20oz",
+      "kcal": "1회 제공량 206.6kcal",
+      "caffeine": "카페인 9.4mg",
+      "sodium": "나트륨 35.3mg",
+      "sugars": "당류 44.4g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "할메가커피",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185615_1693907775304_fenhtXqy4y.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185615_1693907775304_fenhtXqy4y.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우리 할머니께서 즐겨드시던 달달한 믹스 커피 스타일로 만든 \n메가MGC커피만의 시원한 커피 음료",
+    "prodPrice": "1,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "20oz",
+      "kcal": "회 제공량 281.9kcal",
+      "caffeine": "카페인 99.6mg",
+      "sodium": "나트륨 22.5mg",
+      "sugars": "당류 30.3g",
+      "sat_FAT": "포화지방 7.7g"
+    }
   },
   {
     "prodName": "왕할메가커피",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185855_1693907935536_aXkP_SjplJ.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230905185855_1693907935536_aXkP_SjplJ.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우리 할머니께서 즐겨드시던 달달한 믹스 커피 스타일로 만든 \n메가MGC커피만의 메가사이즈 커피 음료",
+    "prodPrice": "2,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "32oz",
+      "kcal": "1회 제공량 468.7kcal",
+      "caffeine": "카페인 196.4mg",
+      "sodium": "나트륨 36.8mg",
+      "sugars": "당류 48.5g",
+      "sat_FAT": "포화지방 12.3g"
+    }
   },
   {
     "prodName": "고흥 유자 하이볼에이드",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230703153518_1688366118933_nk6Ktkw65E.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230703153518_1688366118933_nk6Ktkw65E.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상큼한 고흥유자와 청량한 하이볼 맛 음료가 조화롭게 섞여 남도의 바다색을 느낄 수 있는 여름 한정 무알콜 에이드",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "24oz",
+      "kcal": "1회 제공량 346kcal",
+      "caffeine": "카페인",
+      "sodium": "나트륨 51.5mg",
+      "sugars": "당류 70.7g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "코코넛 커피 스무디",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230503150121_1683093681433_ehOASTxDPQ.png"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230503150121_1683093681433_ehOASTxDPQ.png",
+    "prodCafe": "mega",
+    "prodContent": "바삭하고 고소한 코코넛 칩을 올리고 \n쌉싸름한 커피와 달콤한 코코넛이 조화로운 스무디",
+    "prodPrice": "4,800",
+    "prodTag": ["coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "20oz",
+      "kcal": "1회 제공량 746.5kcal",
+      "caffeine": "카페인 173.8mg",
+      "sodium": "나트륨 347.1mg",
+      "sugars": "당류 61.4g",
+      "sat_FAT": "포화지방 29.3g"
+    }
   },
   {
     "prodName": "레드오렌지자몽주스",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302111940_1677723580990_DVocCFWWgr.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302111940_1677723580990_DVocCFWWgr.jpg",
+    "prodCafe": "mega",
+    "prodContent": "엄선된 시칠리아 레드오렌지와 자몽이 만난 상큼한 주스에\n프로바이오틱스를 더해 건강한 블렌딩 주스",
+    "prodPrice": "4,000",
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "20oz",
+      "kcal": "1회 제공량 205.3kcal",
+      "caffeine": "카페인 0.0",
+      "sodium": "나트륨 7.9mg",
+      "sugars": "당류 43.7g",
+      "sat_FAT": "포화지방 0.0"
+    }
   },
   {
     "prodName": "샤인머스캣그린주스",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302112058_1677723658262_kWTYa4fhBz.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230302112058_1677723658262_kWTYa4fhBz.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤한 샤인머스캣과 케일이 만난 싱그러운 주스에\n칼슘을 더해 건강한 블렌딩 주스",
+    "prodPrice": "4,000",
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "20oz",
+      "kcal": "1회 제공량 218.1kcal",
+      "caffeine": "카페인 0.0",
+      "sodium": "나트륨 10.1mg",
+      "sugars": "당류 46.7g",
+      "sat_FAT": "포화지방 0.0"
+    }
   },
   {
     "prodName": "딸기주스",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230102162433_1672644273585_S16nDUXebH.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230102162433_1672644273585_S16nDUXebH.jpg",
+    "prodCafe": "mega",
+    "prodContent": "새콤달콤한 딸기주스에 피쉬 콜라겐을 더해 건강한 블렌딩 주스",
+    "prodPrice": "4,000",
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 188.9kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 10.5mg",
+      "sugars": "당류 43.5g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "딸기바나나주스",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630181211_1656580331105_8H9ebY4_sA.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630181211_1656580331105_8H9ebY4_sA.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상큼한 딸기와 부드러운 바나나가 만나, 새콤달콤한 매력이 살아 있는 과일 음료.",
+    "prodPrice": "4,000",
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 246.9kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 40.5mg",
+      "sugars": "당류 47.4g",
+      "sat_FAT": "포화지방 1.5g"
+    }
   },
   {
     "prodName": "디카페인 에스프레소",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217105027_1676598627855_H3HMfEhgCv.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217105027_1676598627855_H3HMfEhgCv.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인으로 만나는 메가MGC커피 에스프레소",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 2oz",
+      "kcal": "1회 제공량 6.2kcal",
+      "caffeine": "카페인 4.9mg",
+      "sodium": "나트륨 0.0mg",
+      "sugars": "당류 1.3g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "디카페인 젤라또 아포카토",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217160443_1676617483726_nWDn_T9iPr.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217160443_1676617483726_nWDn_T9iPr.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바닐라 젤라또에 진한 디카페인 에스프레소를 부어 만든 디저트",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size",
+      "kcal": "1회 제공량 162.2kcal",
+      "caffeine": "카페인",
+      "sodium": "나트륨 10.8mg",
+      "sugars": "당류 33.7g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "에스프레소 피에노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217160928_1676617768105_W_2czeAkh6.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217160928_1676617768105_W_2czeAkh6.jpg",
+    "prodCafe": "mega",
+    "prodContent": "크림과 코코아 파우더를 올려 부드럽게 즐길 수 있는 디카페인 에스프레소",
+    "prodPrice": "2,400",
+    "prodTag": ["non-coffee","hot","k_low","s_mid","p_low"],
+    "prodDetail": {
+      "volume": "One size",
+      "kcal": "1회 제공량 99.48kcal",
+      "caffeine": "카페인 9.706mg",
+      "sodium": "나트륨 0.0mg",
+      "sugars": "당류 10.35g",
+      "sat_FAT": "포화지방 0.17g"
+    }
   },
   {
     "prodName": "디카페인 아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217161339_1676618019665_I5aZyru5q9.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217161339_1676618019665_I5aZyru5q9.jpg",
+    "prodCafe": "mega",
+    "prodContent": "향과 풍미 그대로 카페인만을 낮춰 민감한 분들도 안심하고 \n매일매일 즐길 수 있는 디카페인 커피",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 9.4kcal",
+      "caffeine": "카페인 11.4mg",
+      "sodium": "나트륨 8.4mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "디카페인 꿀아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217161634_1676618194974_4BPzySbvxC.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217161634_1676618194974_4BPzySbvxC.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","hot","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 149.3kcal",
+      "caffeine": "카페인 11.3mg",
+      "sodium": "나트륨 7.5mg",
+      "sugars": "당류 26.2g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "디카페인 헤이즐넛 아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162028_1676618428061_TbHsToNMcN.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162028_1676618428061_TbHsToNMcN.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 \n향긋하고 부드럽게 즐기는 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","hot","k_low","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 84.2kcal",
+      "caffeine": "카페인 6.9mg",
+      "sodium": "나트륨 5.3mg",
+      "sugars": "당류 10.3g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "디카페인 바닐라 아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162343_1676618623830_RhY3_Df6qM.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162343_1676618623830_RhY3_Df6qM.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","hot","k_low","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "회 제공량 83.0kcal",
+      "caffeine": "카페인 12.2mg",
+      "sodium": "나트륨 12.2mg",
+      "sugars": "당류 15.6g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "디카페인 카페라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162550_1676618750137_7Si5tHQ9sf.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162550_1676618750137_7Si5tHQ9sf.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 178.5kcal",
+      "caffeine": "카페인 17.0mg",
+      "sodium": "나트륨 102.1mg",
+      "sugars": "당류 11.4g",
+      "sat_FAT": "포화지방 4.8g"
+    }
   },
   {
     "prodName": "디카페인 카푸치노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162822_1676618902566_IOofMpU4co.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217162822_1676618902566_IOofMpU4co.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 카푸치노.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 152.9kcal",
+      "caffeine": "카페인 11.3mg",
+      "sodium": "나트륨 80.6mg",
+      "sugars": "당류 10.4g",
+      "sat_FAT": "포화지방 4.5g"
+    }
   },
   {
     "prodName": "디카페인 바닐라라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163012_1676619012310_Y_MzpfX0LJ.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163012_1676619012310_Y_MzpfX0LJ.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인으로 즐기는 바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
+    "prodPrice": "4,400",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 233.7kcal",
+      "caffeine": "카페인 10.3mg",
+      "sodium": "나트륨 89.3mg",
+      "sugars": "당류 21.9g",
+      "sat_FAT": "포화지방 4.3g"
+    }
   },
   {
     "prodName": "디카페인 헤이즐넛 라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163428_1676619268569_E9UYVGOznd.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163428_1676619268569_E9UYVGOznd.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 \n디카페인 라떼.",
+    "prodPrice": "4,400",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 240.0kcal",
+      "caffeine": "카페인 9.4mg",
+      "sodium": "나트륨 81.4mg",
+      "sugars": "당류 18.2g",
+      "sat_FAT": "포화지방 4.3g"
+    }
   },
   {
     "prodName": "디카페인 카라멜마끼아또",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163629_1676619389936_kggAs4jK6K.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163629_1676619389936_kggAs4jK6K.jpg",
+    "prodCafe": "mega",
+    "prodContent": "폼 밀크 속에 진한 디카페인 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피",
+    "prodPrice": "4,700",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 238.5kcal",
+      "caffeine": "카페인 7.8mg",
+      "sodium": "나트륨 91.3mg",
+      "sugars": "당류 21.3g",
+      "sat_FAT": "포화지방 4.2g"
+    }
   },
   {
     "prodName": "디카페인 연유라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163941_1676619581573_PxENd3W6Ej.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217163941_1676619581573_PxENd3W6Ej.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 에스프레소 샷, 부드러운 우유 그리고 달콤한 연유가 조화롭게 어우러진 라떼.",
+    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 301.5kcal",
+      "caffeine": "카페인 9.8mg",
+      "sodium": "나트륨 127.1mg",
+      "sugars": "당류 27.3g",
+      "sat_FAT": "포화지방 6.4g"
+    }
   },
   {
     "prodName": "디카페인 카페모카",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164132_1676619692703_rDGvxKPdbC.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164132_1676619692703_rDGvxKPdbC.jpg",
+    "prodCafe": "mega",
+    "prodContent": "초코를 만나 풍부해진 디카페인 에스프레소와 고소한 우유, \n부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
+    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 430.3kcal",
+      "caffeine": "카페인 22.8mg",
+      "sodium": "나트륨 181.6mg",
+      "sugars": "당류 36.1g",
+      "sat_FAT": "포화지방 13.8g"
+    }
   },
   {
     "prodName": "디카페인 티라미수라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164427_1676619867569_kC0dNUCtqv.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164427_1676619867569_kC0dNUCtqv.jpg",
+    "prodCafe": "mega",
+    "prodContent": "'디카페인 에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는\n달달한 크림까지 곁들여 완성한 티라미수 라떼.",
+    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 436.7kcal",
+      "caffeine": "카페인 12.1mg",
+      "sodium": "나트륨 194.9mg",
+      "sugars": "당류 37.2g",
+      "sat_FAT": "포화지방 14.2g"
+    }
   },
   {
     "prodName": "디카페인 아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164758_1676620078351_vXSnCZYVF6.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217164758_1676620078351_vXSnCZYVF6.jpg",
+    "prodCafe": "mega",
+    "prodContent": "향과 풍미 그대로 카페인만을 낮춰 민감한 분들도 안심하고 \n매일매일 즐길 수 있는 디카페인 커피",
+    "prodPrice": "3,000",
+    "prodTag": ["non-coffee","ice","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 9.5kcal",
+      "caffeine": "카페인 10.8mg",
+      "sodium": "나트륨 4.4mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "디카페인 메가리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170408_1676621048378_1m10PUoIhz.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170408_1676621048378_1m10PUoIhz.jpg",
+    "prodCafe": "mega",
+    "prodContent": "메가MGC커피 디카페인 아메리카노를 '960ml' 더 크고 가볍게 즐길 수 있는 대용량 커피",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","ice","k_low","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 32oz",
+      "kcal": "1회 제공량 17.1kcal",
+      "caffeine": "카페인 10.9mg",
+      "sodium": "나트륨 7.9mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "디카페인 꿀아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170535_1676621135999_flZgBpfl93.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170535_1676621135999_flZgBpfl93.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","ice","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 137.4kcal",
+      "caffeine": "카페인 8.7mg",
+      "sodium": "나트륨 5.0mg",
+      "sugars": "당류 21.5g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "디카페인 헤이즐넛 아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170924_1676621364089_OpnrkUgTRg.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217170924_1676621364089_OpnrkUgTRg.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 \n향긋하고 부드럽게 즐기는 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","ice","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 108.7kcal",
+      "caffeine": "카페인 11.2mg",
+      "sodium": "나트륨 5.2mg",
+      "sugars": "당류 15.8g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "디카페인 바닐라 아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171109_1676621469823_cdtONtnQgN.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171109_1676621469823_cdtONtnQgN.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","ice","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 107.5kcal",
+      "caffeine": "카페인 9.2mg",
+      "sodium": "나트륨 4.8mg",
+      "sugars": "당류 18.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "디카페인 카페라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171246_1676621566055_8A5MNKe_IP.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171246_1676621566055_8A5MNKe_IP.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 147.7kcal",
+      "caffeine": "카페인 14.4mg",
+      "sodium": "나트륨 78.0mg",
+      "sugars": "당류 9.3g",
+      "sat_FAT": "포화지방 4.5g"
+    }
   },
   {
     "prodName": "디카페인 카푸치노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171433_1676621673555_LIgxeARtGC.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171433_1676621673555_LIgxeARtGC.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 에스프레소 위에 올려진 우유 거품, 그리고 시나몬 파우더로 완성한 \n조화로운 맛의 커피.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 127.0kcal",
+      "caffeine": "카페인 11.4mg",
+      "sodium": "나트륨 68.3mg",
+      "sugars": "당류 10.1g",
+      "sat_FAT": "포화지방 3.7g"
+    }
   },
   {
     "prodName": "디카페인 바닐라라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171552_1676621752349_pho1G6Y6oI.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171552_1676621752349_pho1G6Y6oI.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인으로 즐기는 바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
+    "prodPrice": "4,400",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 239.3kcal",
+      "caffeine": "카페인 8.0mg",
+      "sodium": "나트륨 70.9mg",
+      "sugars": "당류 30.4g",
+      "sat_FAT": "포화지방 4.3g"
+    }
   },
   {
     "prodName": "디카페인 헤이즐넛 라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171729_1676621849724_ub_M8IK29Y.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171729_1676621849724_ub_M8IK29Y.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 \n디카페인 라떼.",
+    "prodPrice": "4,400",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 237.0kcal",
+      "caffeine": "카페인 4.8mg",
+      "sodium": "나트륨 70.7mg",
+      "sugars": "당류 23.4g",
+      "sat_FAT": "포화지방 4.0g"
+    }
   },
   {
     "prodName": "디카페인 카라멜마끼아또",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171859_1676621939471_NuwLhHs7Mt.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171859_1676621939471_NuwLhHs7Mt.jpg",
+    "prodCafe": "mega",
+    "prodContent": "폼 밀크 속에 진한 디카페인 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피",
+    "prodPrice": "4,700",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 232.9kcal",
+      "caffeine": "카페인 8.2mg",
+      "sodium": "나트륨 68.7mg",
+      "sugars": "당류 26.3g",
+      "sat_FAT": "포화지방 3.6g"
+    }
   },
   {
     "prodName": "디카페인 카페모카",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172044_1676622044889_45ysZTqQhO.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172044_1676622044889_45ysZTqQhO.jpg",
+    "prodCafe": "mega",
+    "prodContent": "초코를 만나 풍부해진 디카페인 에스프레소와 고소한 우유, \n부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
+    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 319.7kcal",
+      "caffeine": "카페인 21.9mg",
+      "sodium": "나트륨 117.7mg",
+      "sugars": "당류 32.6g",
+      "sat_FAT": "포화지방 9.6g"
+    }
   },
   {
     "prodName": "디카페인 티라미수라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172430_1676622270158_zAinQ9JkHT.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217172430_1676622270158_zAinQ9JkHT.jpg",
+    "prodCafe": "mega",
+    "prodContent": "디카페인 에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는\n달달한 크림까지 곁들여 완성한 티라미수 라떼.",
+    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 404.3kcal",
+      "caffeine": "카페인 13.5mg",
+      "sodium": "나트륨 176.6mg",
+      "sugars": "당류 37.5g",
+      "sat_FAT": "포화지방 11.6g"
+    }
   },
   {
     "prodName": "딸기라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171633_1676621793882_rCWiWhCOKh.png"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20230217171633_1676621793882_rCWiWhCOKh.png",
+    "prodCafe": "mega",
+    "prodContent": "산뜻하고 달콤한 딸기가 부드러운 우유와 어우러져 더욱 기분 좋게 즐기는 아이스 라떼.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 366.4kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 50.0mg",
+      "sugars": "당류 47.3g",
+      "sat_FAT": "포화지방 3.0g"
+    }
   },
   {
     "prodName": "딸기쿠키프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172226_1656577346336_z_d4URoCvB.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172226_1656577346336_z_d4URoCvB.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 바닐라와 달달한 딸기, 바삭한 오레오 쿠키가 달콤한 하모니를 선물하는 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 564.1kcal",
+      "caffeine": "카페인 3.6mg",
+      "sodium": "나트륨 201.6mg",
+      "sugars": "당류 56.7g",
+      "sat_FAT": "포화지방 11.8g"
+    }
   },
   {
     "prodName": "콜드브루디카페인",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130936_1656648576586_cDwaPJzMuf.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130936_1656648576586_cDwaPJzMuf.jpg",
+    "prodCafe": "mega",
+    "prodContent": "카페인을 줄였지만, 원두 본연의 향미를 풍부하게 살려 맛을 잡은 디카페인 콜드브루.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","ice","k_low","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 7.7kcal",
+      "caffeine": "카페인 8.7mg",
+      "sodium": "나트륨 0.1mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "콜드브루디카페인",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130040_1656648040509_vkaQe62807.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130040_1656648040509_vkaQe62807.jpg",
+    "prodCafe": "mega",
+    "prodContent": "카페인을 줄였지만, 원두 본연의 향미를 풍부하게 살려 맛을 잡은 디카페인 콜드브루.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","hot","k_low","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 9.4kcal",
+      "caffeine": "카페인 13.1mg",
+      "sodium": "나트륨 1.9mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "콜드브루디카페인라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701131027_1656648627428_DZlDQuVTPz.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701131027_1656648627428_DZlDQuVTPz.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우유와 만나 부드럽고 고소한 풍미가 더해진 콜드브루 디카페인 라떼.",
+    "prodPrice": "4,000",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 140.8kcal",
+      "caffeine": "카페인 9.9mg",
+      "sodium": "나트륨 45.6mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 4.0g"
+    }
   },
   {
     "prodName": "콜드브루디카페인라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130758_1656648478213_kK73Ye2YN0.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701130758_1656648478213_kK73Ye2YN0.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우유와 만나 부드럽고 고소한 풍미가 더해진 콜드브루 디카페인 라떼.",
+    "prodPrice": "4,000",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 153.8kcal",
+      "caffeine": "카페인 14.0mg",
+      "sodium": "나트륨 55.2mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 3.8g"
+    }
   },
   {
     "prodName": "에스프레소",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143216_1660800736386_C007eosz5G.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143216_1660800736386_C007eosz5G.jpg",
+    "prodCafe": "mega",
+    "prodContent": "메가MGC커피 원두의 향미를 온전히 즐길 수 있는 에스프레소",
+    "prodPrice": "1,500",
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "2oz",
+      "kcal": "1회 제공량 7.6kcal",
+      "caffeine": "카페인 104.8mg",
+      "sodium": "나트륨 0.2mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "에스프레소 도피오",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143336_1660800816109_lRozkltILp.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143336_1660800816109_lRozkltILp.jpg",
+    "prodCafe": "mega",
+    "prodContent": "더블샷으로 더욱 진하게 즐길 수 있는 에스프레소",
+    "prodPrice": "2,000",
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "5oz",
+      "kcal": "1회 제공량 15.2kcal",
+      "caffeine": "카페인 184.7mg",
+      "sodium": "나트륨 0.4mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "에스프레소 피에노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143545_1660800945188_JrLc006dw5.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143545_1660800945188_JrLc006dw5.jpg",
+    "prodCafe": "mega",
+    "prodContent": "크림과 코코아 파우더를 올려 \n부드럽게 즐길 수 있는 에스프레소",
+    "prodPrice": "2,400",
+    "prodTag": ["coffee","hot","k_mid","s_low","p_low"],
+    "prodDetail": {
+      "volume": "5oz",
+      "kcal": "1회 제공량 112.4kcal",
+      "caffeine": "카페인 199.7mg",
+      "sodium": "나트륨 7.0mg",
+      "sugars": "당류 4.8g",
+      "sat_FAT": "포화지방 6.4g"
+    }
   },
   {
     "prodName": "젤라또 아포가토",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143649_1660801009837_GxHjhUTeIz.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220818143649_1660801009837_GxHjhUTeIz.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바닐라 젤라또에 진한 에스프레소를 부어 만든 디저트",
+    "prodPrice": "3,200",
+    "prodTag": ["coffee","ice","k_mid","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "10oz",
+      "kcal": "1회 제공량 155.8kcal",
+      "caffeine": "카페인 95.4mg",
+      "sodium": "나트륨 83.2mg",
+      "sugars": "당류 21.1g",
+      "sat_FAT": "포화지방 1.5g"
+    }
   },
   {
     "prodName": "쿠키프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173946_1656578386691_VAWfjgN1Yy.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173946_1656578386691_VAWfjgN1Yy.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바삭하고 달콤한 오레오와 고소한 우유, 부드러운 바닐라향의 조화를 느낄 수 있는 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 640.7kcal",
+      "caffeine": "카페인 5.5mg",
+      "sodium": "나트륨 332.5mg",
+      "sugars": "당류 39.4g",
+      "sat_FAT": "포화지방 16.9g"
+    }
   },
   {
     "prodName": "고구마라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630142911_1656566951186_XCP1O6XaO6.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630142911_1656566951186_XCP1O6XaO6.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤하고 고소한 고구마와 부드러운 우유가 만나 누구나 즐기기 좋은 든든한 라떼.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","smoothie","hot","k_high","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 310.5 kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 96.5mg",
+      "sugars": "당류 18.8g",
+      "sat_FAT": "포화지방 5.0g"
+    }
   },
   {
     "prodName": "곡물라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171446_1656663286402_Sjofhjac3j.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171446_1656663286402_Sjofhjac3j.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우유에 곡물을 더해 고소하고 든든하게 즐기는 라떼.",
+    "prodPrice": "3,000",
+    "prodTag": ["non-coffee","smoothie","hot","k_high","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 389.0kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 96.6mg",
+      "sugars": "당류 15.3g",
+      "sat_FAT": "포화지방 5.4g"
+    }
   },
   {
     "prodName": "메가초코",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630143352_1656567232174_qZwhQ3Huxm.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630143352_1656567232174_qZwhQ3Huxm.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 우유에 진한 초코소스, 달콤한 휘핑크림의 삼박자 조화로 완성한 달콤 초코 음료.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 507.0kcal",
+      "caffeine": "카페인 51.8mg",
+      "sodium": "나트륨 218.0mg",
+      "sugars": "당류 31.3g",
+      "sat_FAT": "포화지방 12.0g"
+    }
   },
   {
     "prodName": "토피넛라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171532_1656663332952_xmIuz0dNC8.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171532_1656663332952_xmIuz0dNC8.jpg",
+    "prodCafe": "mega",
+    "prodContent": "은은하게 퍼지는 카라멜의 달달한 향기와 견과의 고소함을 한입에 즐길 수 있는 라떼.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","latte","hot","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 368.0kcal",
+      "caffeine": "카페인 56.2mg",
+      "sodium": "나트륨 172.7mg",
+      "sugars": "당류 17.8g",
+      "sat_FAT": "포화지방 7.0g"
+    }
   },
   {
     "prodName": "고구마라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171750_1656663470713__LDMwpslzS.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171750_1656663470713__LDMwpslzS.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤하고 고소한 고구마와 부드러운 우유가 만나 누구나 즐기기 좋은 든든한 라떼.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","latte","ice","k_mid","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 248.8kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 72.8mg",
+      "sugars": "당류 21.6g",
+      "sat_FAT": "포화지방 3.8g"
+    }
   },
   {
     "prodName": "곡물라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144520_1656567920194_Fn0wniPr9t.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144520_1656567920194_Fn0wniPr9t.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우유에 곡물을 더해 고소하고 든든하게 즐기는 라떼.",
+    "prodPrice": "3,000",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 390.4kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 86.7mg",
+      "sugars": "당류 26.3g",
+      "sat_FAT": "포화지방 5.1g"
+    }
   },
   {
     "prodName": "오레오초코라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144810_1656568090796_yoHykaK4Ul.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630144810_1656568090796_yoHykaK4Ul.jpg",
+    "prodCafe": "mega",
+    "prodContent": "진한 초코와 리얼 오레오를 블렌딩해 씹는 맛을 더한 달콤한 아이스 라떼.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 485.6kcal",
+      "caffeine": "카페인 23.4mg",
+      "sodium": "나트륨 242.4mg",
+      "sugars": "당류 28.2g",
+      "sat_FAT": "포화지방 11.9g"
+    }
   },
   {
     "prodName": "토피넛라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145135_1656568295485_eXn10nJFRP.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145135_1656568295485_eXn10nJFRP.jpg",
+    "prodCafe": "mega",
+    "prodContent": "은은하게 퍼지는 카라멜의 달달한 향기와 견과의 고소함을 한입에 즐길 수 있는 라떼.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 364.5kcal",
+      "caffeine": "카페인 54.0mg",
+      "sodium": "나트륨 172.7mg",
+      "sugars": "당류 22.5g",
+      "sat_FAT": "포화지방 8.3g"
+    }
   },
   {
     "prodName": "흑당버블밀크티라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145600_1656568560202_TnZLPbECKx.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145600_1656568560202_TnZLPbECKx.jpg",
+    "prodCafe": "mega",
+    "prodContent": "타바론 얼그레이 홍차의 깊은 맛을 살린 일크티 라떼에 진한 흑당과 흑당 버블의 달콤함을 채운 음료.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 330.2kcal",
+      "caffeine": "카페인 14.3mg",
+      "sodium": "나트륨 106.7mg",
+      "sugars": "당류 24.4g",
+      "sat_FAT": "포화지방 4.3g"
+    }
   },
   {
     "prodName": "핫초코",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145844_1656568724979_E9qWySV_oF.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630145844_1656568724979_E9qWySV_oF.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 우유에 진한 초코소스가 어우러져 달콤하게 입맛을 깨우는 초콜릿 음료.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","latte","hot","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 374.9kcal",
+      "caffeine": "카페인 44.3mg",
+      "sodium": "나트륨 214.6mg",
+      "sugars": "당류 23.0g",
+      "sat_FAT": "포화지방 4.8g"
+    }
   },
   {
     "prodName": "녹차라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171458_1656663298267_OwQyhdaVQT.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171458_1656663298267_OwQyhdaVQT.jpg",
+    "prodCafe": "mega",
+    "prodContent": "향긋한 녹차에 우유를 더해 입 안에 부드러운 푸릇함을 선물하는 라떼.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","smoothie","hot","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 280.4kcal",
+      "caffeine": "카페인 114.5mg",
+      "sodium": "나트륨 85.0mg",
+      "sugars": "당류 14.3g",
+      "sat_FAT": "포화지방 4.4g"
+    }
   },
   {
     "prodName": "로얄밀크티라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630150806_1656569286572_VaQxBbNhem.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630150806_1656569286572_VaQxBbNhem.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우유와 은은한 홍차가 어우러져 부드럽고 향긋한 한 모금을 완성한 라떼.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","latte","hot","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 232.0kcal",
+      "caffeine": "카페인 106.2mg",
+      "sodium": "나트륨 85.2mg",
+      "sugars": "당류 14.7g",
+      "sat_FAT": "포화지방 4.5g"
+    }
   },
   {
     "prodName": "흑당라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151108_1656569468030_FRQYHDiaKH.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151108_1656569468030_FRQYHDiaKH.jpg",
+    "prodCafe": "mega",
+    "prodContent": "모리셔스의 진한 흑당과 부드러운 우유가 달콤하게 조화를 이루는 라떼.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 322.0kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 107.6mg",
+      "sugars": "당류 33.6g",
+      "sat_FAT": "포화지방 5.2g"
+    }
   },
   {
     "prodName": "흑당밀크티라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151925_1656569965570_3YpJCpBq_f.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630151925_1656569965570_3YpJCpBq_f.jpg",
+    "prodCafe": "mega",
+    "prodContent": "타바론 얼그레이 홍차의 깊은 맛을 살린 일크티 라떼에 진한 흑당의 달콤함을 채운 음료.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 300.5kcal",
+      "caffeine": "카페인 30.6mg",
+      "sodium": "나트륨 104.4mg",
+      "sugars": "당류 22.6g",
+      "sat_FAT": "포화지방 4.5g"
+    }
   },
   {
     "prodName": "흑당버블라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152037_1656570037497_XqHfCbZ65M.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152037_1656570037497_XqHfCbZ65M.jpg",
+    "prodCafe": "mega",
+    "prodContent": "모리셔스의 진한 흑당과 부드러운 우유가 달콤한 조화에 흑당 버블을 함께 즐기는 라떼.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 320.3kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 104.9mg",
+      "sugars": "당류 27.2g",
+      "sat_FAT": "포화지방 4.1g"
+    }
   },
   {
     "prodName": "아이스초코",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152146_1656570106629_4i6msus9Kh.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152146_1656570106629_4i6msus9Kh.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 우유에 진한 초코소스가 어우러져 달콤하게 입맛을 깨우는 초콜릿 음료.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 308.0kcal",
+      "caffeine": "카페인 48.3mg",
+      "sodium": "나트륨 151.1mg",
+      "sugars": "당류 31.0g",
+      "sat_FAT": "포화지방 3.5g"
+    }
   },
   {
     "prodName": "녹차라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152307_1656570187902_evYKXmfXYZ.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630152307_1656570187902_evYKXmfXYZ.jpg",
+    "prodCafe": "mega",
+    "prodContent": "향긋한 녹차에 우유를 더해 입 안에 부드러운 푸릇함을 선물하는 라떼.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 288.5kcal",
+      "caffeine": "카페인 135.9mg",
+      "sodium": "나트륨 52.3mg",
+      "sugars": "당류 21.2g",
+      "sat_FAT": "포화지방 4.8g"
+    }
   },
   {
     "prodName": "로얄밀크티라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171803_1656663483909_okELc62jVb.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171803_1656663483909_okELc62jVb.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우유와 은은한 홍차가 어우러져 부드럽고 향긋한 한 모금을 완성한 라떼.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 254.6kcal",
+      "caffeine": "카페인 118.1mg",
+      "sodium": "나트륨 68.4mg",
+      "sugars": "당류 20.2g",
+      "sat_FAT": "포화지방 4.2g"
+    }
   },
   {
     "prodName": "아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630153107_1656570667406_prmnWqNIw2.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630153107_1656570667406_prmnWqNIw2.jpg",
+    "prodCafe": "mega",
+    "prodContent": "[기본2샷]메가MGC커피 블렌드 원두로 추출한 에스프레소에 물을 더해, 풍부한 바디감을 느낄 수 있는 스탠다드 커피.",
+    "prodPrice": "1,500",
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 12.2kcal",
+      "caffeine": "카페인 204.2mg",
+      "sodium": "나트륨 2.4mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "티라미수라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162136_1656573696857_XMYPwvFhwz.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162136_1656573696857_XMYPwvFhwz.jpg",
+    "prodCafe": "mega",
+    "prodContent": "에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는 달달한 크림까지 곁들여 완성한 티라미수 라떼.",
+    "prodPrice": "3,900",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 419.5kcal",
+      "caffeine": "카페인 206.9mg",
+      "sodium": "나트륨 194.5mg",
+      "sugars": "당류 38.4g",
+      "sat_FAT": "포화지방 13.1g"
+    }
   },
   {
     "prodName": "메가리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162318_1656573798017_43JQ0t0JCi.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162318_1656573798017_43JQ0t0JCi.jpg",
+    "prodCafe": "mega",
+    "prodContent": "깊고 진한 메가MGC커피 아메리카노를 '960ml' 더 큼직하게 즐길 수 있는 대용량 커피.",
+    "prodPrice": "3,000",
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 32oz",
+      "kcal": "1회 제공량 16.7kcal",
+      "caffeine": "카페인 290.8mg",
+      "sodium": "나트륨 0.7mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "티라미수라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162717_1656574037958_MK_IcEfyCf.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162717_1656574037958_MK_IcEfyCf.jpg",
+    "prodCafe": "mega",
+    "prodContent": "에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는 달달한 크림까지 곁들여 완성한 티라미수 라떼.",
+    "prodPrice": "3,900",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 400.6kcal",
+      "caffeine": "카페인 196.0mg",
+      "sodium": "나트륨 174.3mg",
+      "sugars": "당류 37.8g",
+      "sat_FAT": "포화지방 12.6g"
+    }
   },
   {
     "prodName": "꿀아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162823_1656574103639_gpa2ja7vHl.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630162823_1656574103639_gpa2ja7vHl.jpg",
+    "prodCafe": "mega",
+    "prodContent": "아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
+    "prodPrice": "2,700",
+    "prodTag": ["coffee","hot","k_mid","s_high","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 172.4kcal",
+      "caffeine": "카페인 199.4mg",
+      "sodium": "나트륨 12.7mg",
+      "sugars": "당류 30.4g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "바닐라라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163106_1656574266929_v3PaYBqN99.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163106_1656574266929_v3PaYBqN99.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
+    "prodPrice": "3,400",
+    "prodTag": ["coffee","latte","hot","k_mid","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 231.9kcal",
+      "caffeine": "카페인 189.9mg",
+      "sodium": "나트륨 61.0mg",
+      "sugars": "당류 12.6g",
+      "sat_FAT": "포화지방 4.7g"
+    }
   },
   {
     "prodName": "바닐라아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163330_1656574410483_cz_Tmv21CE.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163330_1656574410483_cz_Tmv21CE.jpg",
+    "prodCafe": "mega",
+    "prodContent": "아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
+    "prodPrice": "2,700",
+    "prodTag": ["coffee","hot","k_mid","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 84.3kcal",
+      "caffeine": "카페인 196.2mg",
+      "sodium": "나트륨 2.7mg",
+      "sugars": "당류 19.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "연유라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171508_1656663308775_Bd0wI6G9my.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171508_1656663308775_Bd0wI6G9my.jpg",
+    "prodCafe": "mega",
+    "prodContent": "향기로운 에스프레소 샷, 부드러운 우유 그리고 달콤한 연유가 조화롭게 어우러진 라떼.",
+    "prodPrice": "3,900",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 321.6kcal",
+      "caffeine": "카페인 194.2mg",
+      "sodium": "나트륨 144.6mg",
+      "sugars": "당류 32.8g",
+      "sat_FAT": "포화지방 6.4g"
+    }
   },
   {
     "prodName": "카라멜마끼아또",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163626_1656574586502_Hh19hMijc6.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163626_1656574586502_Hh19hMijc6.jpg",
+    "prodCafe": "mega",
+    "prodContent": "폼 밀크 속에 진한 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["coffee","latte","hot","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 244.9kcal",
+      "caffeine": "카페인 206.7mg",
+      "sodium": "나트륨 76.1mg",
+      "sugars": "당류 20.9g",
+      "sat_FAT": "포화지방 5.0g"
+    }
   },
   {
     "prodName": "카페라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163827_1656574707981_wvnN5idvmp.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630163827_1656574707981_wvnN5idvmp.jpg",
+    "prodCafe": "mega",
+    "prodContent": "진한 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
+    "prodPrice": "2,900",
+    "prodTag": ["coffee","latte","hot","k_mid","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 175.4kcal",
+      "caffeine": "카페인 189.9mg",
+      "sodium": "나트륨 101.5mg",
+      "sugars": "당류 10.8g",
+      "sat_FAT": "포화지방 5.2g"
+    }
   },
   {
     "prodName": "카페모카",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164022_1656574822815_vF353Tg7hS.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164022_1656574822815_vF353Tg7hS.jpg",
+    "prodCafe": "mega",
+    "prodContent": "초코를 만나 풍부해진 에스프레소와 고소한 우유, 부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
+    "prodPrice": "3,900",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 380.9kcal",
+      "caffeine": "카페인 211.2mg",
+      "sodium": "나트륨 185.2mg",
+      "sugars": "당류 38.5g",
+      "sat_FAT": "포화지방 10.5g"
+    }
   },
   {
     "prodName": "카푸치노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164244_1656574964279_GmhWXt57V5.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164244_1656574964279_GmhWXt57V5.jpg",
+    "prodCafe": "mega",
+    "prodContent": "에스프레소 위에 올려진 우유 거품, 그리고 시나몬 파우더로 완성한 조화로운 맛의 커피.",
+    "prodPrice": "2,900",
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 145.5kcal",
+      "caffeine": "카페인 201.4mg",
+      "sodium": "나트륨 60.7mg",
+      "sugars": "당류 3.4g",
+      "sat_FAT": "포화지방 4.1g"
+    }
   },
   {
     "prodName": "콜드브루라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164407_1656575047762_9sXtnz_cja.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164407_1656575047762_9sXtnz_cja.jpg",
+    "prodCafe": "mega",
+    "prodContent": "콜드브루에 고소한 우유를 섞어, 깔끔함과 부드러움을 잡은 라떼.",
+    "prodPrice": "4,000",
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 164.2kcal",
+      "caffeine": "카페인 216.7mg",
+      "sodium": "나트륨 54.4mg",
+      "sugars": "당류 2.1g",
+      "sat_FAT": "포화지방 5.2g"
+    }
   },
   {
     "prodName": "콜드브루오리지널",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164717_1656575237515_oZTJ4tIb1r.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164717_1656575237515_oZTJ4tIb1r.jpg",
+    "prodCafe": "mega",
+    "prodContent": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루.",
+    "prodPrice": "3,500",
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 10.6kcal",
+      "caffeine": "카페인 217.0mg",
+      "sodium": "나트륨 1.5mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "헤이즐넛라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164821_1656575301351_3tALCi6kNg.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164821_1656575301351_3tALCi6kNg.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 라떼.",
+    "prodPrice": "3,400",
+    "prodTag": ["coffee","latte","hot","k_high","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 240.5kcal",
+      "caffeine": "카페인 204.6mg",
+      "sodium": "나트륨 63.1mg",
+      "sugars": "당류 9.7g",
+      "sat_FAT": "포화지방 5.1g"
+    }
   },
   {
     "prodName": "헤이즐넛아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164924_1656575364475_feNS9vEV6A.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630164924_1656575364475_feNS9vEV6A.jpg",
+    "prodCafe": "mega",
+    "prodContent": "아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 향긋하고 부드럽게 즐기는 커피.",
+    "prodPrice": "2,700",
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 82.7kcal",
+      "caffeine": "카페인 209.8mg",
+      "sodium": "나트륨 2.6mg",
+      "sugars": "당류 9.5g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "꿀아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165049_1656575449464_E1DEXFVNdW.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165049_1656575449464_E1DEXFVNdW.jpg",
+    "prodCafe": "mega",
+    "prodContent": "아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
+    "prodPrice": "2,700",
+    "prodTag": ["coffee","ice","k_mid","s_high","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 162.2kcal",
+      "caffeine": "카페인 198.6mg",
+      "sodium": "나트륨 7.2mg",
+      "sugars": "당류 30.6g",
+      "sat_FAT": "포화지방 0.1g"
+    }
   },
   {
     "prodName": "바닐라라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165146_1656575506210_0DJPVTvDIa.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165146_1656575506210_0DJPVTvDIa.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
+    "prodPrice": "3,400",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 244.2kcal",
+      "caffeine": "카페인 210.0mg",
+      "sodium": "나트륨 47.7mg",
+      "sugars": "당류 20.3g",
+      "sat_FAT": "포화지방 5.1g"
+    }
   },
   {
     "prodName": "바닐라아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165235_1656575555877_RSKgcHXQl3.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165235_1656575555877_RSKgcHXQl3.jpg",
+    "prodCafe": "mega",
+    "prodContent": "아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
+    "prodPrice": "2,700",
+    "prodTag": ["coffee","ice","k_mid","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 121.9kcal",
+      "caffeine": "카페인 144.2mg",
+      "sodium": "나트륨 0.2mg",
+      "sugars": "당류 6.9g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "카라멜마끼아또",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165339_1656575619040_5XSmRW4GJT.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165339_1656575619040_5XSmRW4GJT.jpg",
+    "prodCafe": "mega",
+    "prodContent": "폼 밀크 속에 진한 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피.",
+    "prodPrice": "3,700",
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 243.9kcal",
+      "caffeine": "카페인 208.0mg",
+      "sodium": "나트륨 61.1mg",
+      "sugars": "당류 18.5g",
+      "sat_FAT": "포화지방 3.9g"
+    }
   },
   {
     "prodName": "카페라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165440_1656575680273_1mqBtip7qh.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165440_1656575680273_1mqBtip7qh.jpg",
+    "prodCafe": "mega",
+    "prodContent": "진한 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
+    "prodPrice": "2,900",
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 145.1kcal",
+      "caffeine": "카페인 199.1mg",
+      "sodium": "나트륨 88.5mg",
+      "sugars": "당류 9.2g",
+      "sat_FAT": "포화지방 3.8g"
+    }
   },
   {
     "prodName": "카페모카",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165537_1656575737487_Bxg3VBe7i4.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165537_1656575737487_Bxg3VBe7i4.jpg",
+    "prodCafe": "mega",
+    "prodContent": "초코를 만나 풍부해진 에스프레소와 고소한 우유, 부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
+    "prodPrice": "3,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 305.4kcal",
+      "caffeine": "카페인 219.0mg",
+      "sodium": "나트륨 132.7mg",
+      "sugars": "당류 36.3g",
+      "sat_FAT": "포화지방 9.2g"
+    }
   },
   {
     "prodName": "카푸치노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171815_1656663495020_hBTogoFiaK.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171815_1656663495020_hBTogoFiaK.jpg",
+    "prodCafe": "mega",
+    "prodContent": "에스프레소 위에 올려진 우유 거품, 그리고 시나몬 파우더로 완성한 조화로운 맛의 커피.",
+    "prodPrice": "2,900",
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 132.4kcal",
+      "caffeine": "카페인 192.3mg",
+      "sodium": "나트륨 54.8mg",
+      "sugars": "당류 1.1g",
+      "sat_FAT": "포화지방 4.2g"
+    }
   },
   {
     "prodName": "콜드브루라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165729_1656575849505_E5EJrrZjIF.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165729_1656575849505_E5EJrrZjIF.jpg",
+    "prodCafe": "mega",
+    "prodContent": "콜드브루에 고소한 우유를 섞어, 깔끔함과 부드러움을 잡은 라떼.",
+    "prodPrice": "4,000",
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 167.6kcal",
+      "caffeine": "카페인 131.7mg",
+      "sodium": "나트륨 35.4mg",
+      "sugars": "당류 2.3g",
+      "sat_FAT": "포화지방 4.1g"
+    }
   },
   {
     "prodName": "콜드브루오리지널",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165819_1656575899792_ItfqiNDhPh.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165819_1656575899792_ItfqiNDhPh.jpg",
+    "prodCafe": "mega",
+    "prodContent": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루.",
+    "prodPrice": "3,500",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 7.2kcal",
+      "caffeine": "카페인 156.4mg",
+      "sodium": "나트륨 0.4mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "헤이즐넛라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165911_1656575951121_0YxlHWvpqC.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630165911_1656575951121_0YxlHWvpqC.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 라떼.",
+    "prodPrice": "3,400",
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 237.4kcal",
+      "caffeine": "카페인 216.9mg",
+      "sodium": "나트륨 57.0mg",
+      "sugars": "당류 10.8g",
+      "sat_FAT": "포화지방 4.6g"
+    }
   },
   {
     "prodName": "헤이즐넛아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170029_1656576029152_FYWEDbVbFT.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170029_1656576029152_FYWEDbVbFT.jpg",
+    "prodCafe": "mega",
+    "prodContent": "아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 향긋하고 부드럽게 즐기는 커피.",
+    "prodPrice": "2,700",
+    "prodTag": ["coffee","ice","k_mid","smoothie","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 113.6kcal",
+      "caffeine": "카페인 196.7mg",
+      "sodium": "나트륨 0.6mg",
+      "sugars": "당류 15.8g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "큐브라떼",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170153_1656576113197_DlT_PINcn9.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170153_1656576113197_DlT_PINcn9.jpg",
+    "prodCafe": "mega",
+    "prodContent": "연유를 섞은 라떼에 에스프레소를 얼린 커피큐브를 올려, 녹을수록 더 진한 커피가 느껴지는 라떼.",
+    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","ice","k_high","smoothie","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 304.4kcal",
+      "caffeine": "카페인 313.4mg",
+      "sodium": "나트륨 72.1mg",
+      "sugars": "당류 15.0g",
+      "sat_FAT": "포화지방 7.8g"
+    }
   },
   {
     "prodName": "메가초코",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170539_1656576339284_Z3FLilZHqf.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630170539_1656576339284_Z3FLilZHqf.jpg",
+    "prodCafe": "mega",
+    "prodContent": "부드러운 우유에 진한 초코소스, 달콤한 휘핑크림의 삼박자 조화로 완성한 달콤 초코 음료.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 397.2kcal",
+      "caffeine": "카페인 44.5mg",
+      "sodium": "나트륨 155.3mg",
+      "sugars": "당류 39.4g",
+      "sat_FAT": "포화지방 9.4g"
+    }
   },
   {
     "prodName": "아메리카노",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630171805_1656577085458_7skvYFEJwH.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630171805_1656577085458_7skvYFEJwH.jpg",
+    "prodCafe": "mega",
+    "prodContent": "[기본2샷]메가MGC커피 블렌드 원두로 추출한 에스프레소에 물을 더해, 풍부한 바디감을 느낄 수 있는 스탠다드 커피.",
+    "prodPrice": "2,000",
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 12.2kcal",
+      "caffeine": "카페인 199.7mg",
+      "sodium": "나트륨 1.5mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "녹차프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172012_1656577212055_xI5BNzVrBv.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172012_1656577212055_xI5BNzVrBv.jpg",
+    "prodCafe": "mega",
+    "prodContent": "향긋한 녹차 위에 우유와 휘핑크림을 더해 더 부드럽게 즐길 수 있는 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 571.1kcal",
+      "caffeine": "카페인 248.2mg",
+      "sodium": "나트륨 92.0mg",
+      "sugars": "당류 59.6g",
+      "sat_FAT": "포화지방 9.3g"
+    }
   },
   {
     "prodName": "딸기요거트스무디",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172121_1656577281098_SlUU5dNwy3.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172121_1656577281098_SlUU5dNwy3.jpg",
+    "prodCafe": "mega",
+    "prodContent": "요거트의 상큼함과 딸기의 상큼함을 상냥하게 어우른 상큼 스무디.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 401.4kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 53.2mg",
+      "sugars": "당류 58.5g",
+      "sat_FAT": "포화지방 2.2g"
+    }
   },
   {
     "prodName": "딸기퐁크러쉬",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172329_1656577409159_FwpVWoa5tq.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172329_1656577409159_FwpVWoa5tq.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바삭하고 달달한 퐁에 상큼한 딸기와 부드러운 우유, 얼음을 함께 블렌딩해 시원하게 즐기는 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 536.9kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 156.1mg",
+      "sugars": "당류 45.9g",
+      "sat_FAT": "포화지방 7.1g"
+    }
   },
   {
     "prodName": "리얼초코프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172451_1656577491159_xXIMHQfwNM.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172451_1656577491159_xXIMHQfwNM.jpg",
+    "prodCafe": "mega",
+    "prodContent": "진한 초코소스와 부드러운 바닐라향의 만남으로 질리지 않는 달콤함을 완성한 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 651.1kcal",
+      "caffeine": "카페인 34.8mg",
+      "sodium": "나트륨 191.7mg",
+      "sugars": "당류 58.0g",
+      "sat_FAT": "포화지방 23.8g"
+    }
   },
   {
     "prodName": "망고요거트스무디",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172551_1656577551617_kS42LIFWUP.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172551_1656577551617_kS42LIFWUP.jpg",
+    "prodCafe": "mega",
+    "prodContent": "열대과일 망고의 진한 단 맛과 산뜻한 요거트의 하모니가 인상적인 스무디.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 374.9kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 57.2mg",
+      "sugars": "당류 41.1g",
+      "sat_FAT": "포화지방 3.2g"
+    }
   },
   {
     "prodName": "민트프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172654_1656577614651_YWpnhL4tWC.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172654_1656577614651_YWpnhL4tWC.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상쾌한 민트에 달콤하게 씹는 재미를 더한 초콜릿칩의 즐거운 하모니가 매력적인 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 511.7kcal",
+      "caffeine": "카페인 19.0mg",
+      "sodium": "나트륨 101.7mg",
+      "sugars": "당류 53.7g",
+      "sat_FAT": "포화지방 15.8g"
+    }
   },
   {
     "prodName": "바나나퐁크러쉬",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172744_1656577664430_xxgPSw_6dO.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172744_1656577664430_xxgPSw_6dO.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바삭하고 달달한 퐁에 부드러운 바나나와 우유, 얼음을 함께 블렌딩해 부드럽고 시원하게 즐기는 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 593.8kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 167.3mg",
+      "sugars": "당류 64.2g",
+      "sat_FAT": "포화지방 4.6g"
+    }
   },
   {
     "prodName": "스트로베리치즈홀릭",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172857_1656577737713_B9XusFXuaA.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630172857_1656577737713_B9XusFXuaA.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상큼한 딸기 요거트 스무디 위에 고급스런 맛의 치즈케이크가 듬뿍 올라가 먹는 재미를 배가한 스무디.",
+    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 502.4kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 98.1mg",
+      "sugars": "당류 53.7g",
+      "sat_FAT": "포화지방 12.2g"
+    }
   },
   {
     "prodName": "초코허니퐁크러쉬",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173152_1656577913000_wcKkf0OiR_.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173152_1656577913000_wcKkf0OiR_.jpg",
+    "prodCafe": "mega",
+    "prodContent": "리얼 벌꿀이 들어가 더 달콤한 퍼프허니 시리얼과 부드럽게 달달한 초코가 함께 만드는 즐거운 맛의 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 506.2kcal",
+      "caffeine": "카페인 12.4mg",
+      "sodium": "나트륨 157.2mg",
+      "sugars": "당류 44.9g",
+      "sat_FAT": "포화지방 5.1g"
+    }
   },
   {
     "prodName": "커피프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173345_1656578025626_Zr4i9lWUBU.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173345_1656578025626_Zr4i9lWUBU.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바삭한 쿠키와 부드러운 바닐라에 향긋한 에스프레소를 섞어 만든 힐링 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 420.4kcal",
+      "caffeine": "카페인 123.3mg",
+      "sodium": "나트륨 135.8mg",
+      "sugars": "당류 28.9g",
+      "sat_FAT": "포화지방 11.4g"
+    }
   },
   {
     "prodName": "플레인요거트스무디",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173441_1656578081783_m2stsUQfSH.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173441_1656578081783_m2stsUQfSH.jpg",
+    "prodCafe": "mega",
+    "prodContent": "더 시원하게 요거트의 새콤달콤한 맛을 오롯이 만끽할 수 있는 스무디.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 516.5kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 71.6mg",
+      "sugars": "당류 68.4g",
+      "sat_FAT": "포화지방 2.9g"
+    }
   },
   {
     "prodName": "슈크림허니퐁크러쉬",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173702_1656578222665_URDbIWF3Ge.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173702_1656578222665_URDbIWF3Ge.jpg",
+    "prodCafe": "mega",
+    "prodContent": "바닐라빈 향을 머금은 부드러운 슈크림과 리얼 벌꿀이 들어간 퍼프허니 시리얼을 시원하게 즐기는 프라페.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 568.1kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 198.4mg",
+      "sugars": "당류 49.5g",
+      "sat_FAT": "포화지방 7.8g"
+    }
   },
   {
     "prodName": "플레인퐁크러쉬",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630174120_1656578480425_zDgsPabCUA.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630174120_1656578480425_zDgsPabCUA.jpg",
+    "prodCafe": "mega",
+    "prodContent": "우유에 죠리퐁 씨리얼이 믹싱 된 얼음을 갈아 만든 시원한 프라페음료",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 468.6kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 154.8mg",
+      "sugars": "당류 46.2g",
+      "sat_FAT": "포화지방 6.0g"
+    }
   },
   {
     "prodName": "라임모히또",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175423_1656579263944_ycn4t3hwxa.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175423_1656579263944_ycn4t3hwxa.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상큼한 라임과 달콤한 향기의 애플민트가 어우러져 상쾌함을 한잔에 가득 채운 모히또 음료.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 278.6kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 5.6mg",
+      "sugars": "당류 45.8g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "레몬에이드",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175526_1656579326607_5YlsYvYbOp.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175526_1656579326607_5YlsYvYbOp.jpg",
+    "prodCafe": "mega",
+    "prodContent": "시트러스향 가득한 레몬의 상큼함과 톡쏘는 탄산의 상쾌함이 만난 청량 에이드.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 196.8kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 71.3mg",
+      "sugars": "당류 35.1g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "블루레몬에이드",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175800_1656579480786_aPTTGq1vzy.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630175800_1656579480786_aPTTGq1vzy.jpg",
+    "prodCafe": "mega",
+    "prodContent": "레몬에이드의 상큼한 청량감에 블루큐라소의 진한 향미를 더한 에이드.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 225.0kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 77.2mg",
+      "sugars": "당류 36.5g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "자몽에이드",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630180039_1656579639972_oL9vkikWmx.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630180039_1656579639972_oL9vkikWmx.jpg",
+    "prodCafe": "mega",
+    "prodContent": "자몽의 달콤쌉싸름한 맛과 탄산의 톡쏘는 목넘김이 어우러진 트로피컬 에이드.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 203.8kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 3.3mg",
+      "sugars": "당류 40.7g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "청포도에이드",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630180936_1656580176691_aeIBhB2MkF.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630180936_1656580176691_aeIBhB2MkF.jpg",
+    "prodCafe": "mega",
+    "prodContent": "산뜻한 청포도와 상쾌한 탄산의 달달한 조화가 인상적인 에이드.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 305.4kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 5.9mg",
+      "sugars": "당류 57.6g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "유니콘매직에이드(핑크)",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182022_1656580822455_RgZAxSNiWj.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182022_1656580822455_RgZAxSNiWj.jpg",
+    "prodCafe": "mega",
+    "prodContent": "섞으면 마법처럼 색이 변하는 재미에 레몬의 상큼함으로 입까지 즐거운 이색 에이드.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 219.9kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 138.0mg",
+      "sugars": "당류 41.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "유니콘매직에이드(블루)",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182155_1656580915892_BEA6u2b3Ym.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182155_1656580915892_BEA6u2b3Ym.jpg",
+    "prodCafe": "mega",
+    "prodContent": "섞으면 마법처럼 색이 변하는 재미에 라임의 청량함으로 입까지 즐거운 이색 에이드.",
+    "prodPrice": "3,800",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 275.5kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 16.7mg",
+      "sugars": "당류 48.6g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "체리콕",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182321_1656581001230__fv6UmKGjl.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630182321_1656581001230__fv6UmKGjl.jpg",
+    "prodCafe": "mega",
+    "prodContent": "체리의 새콤함과 청량감을 동시에 즐길 수 있는 환상적인 에이드.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "체리콕One size / 24oz",
+      "kcal": "Cherry Coke1회 제공량 323.6kcal",
+      "caffeine": "카페인 23.9mg",
+      "sodium": "나트륨 5.4mg",
+      "sugars": "당류 55.6g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "메가에이드",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630183110_1656581470280_dcyjVzPTSr.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630183110_1656581470280_dcyjVzPTSr.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상큼한 레몬, 상쾌한 라임, 달콤쌉싸름한 자몽의 3색 맛을 한데 어우른 메가MGC커피 시그니처 에이드.",
+    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 292.4kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 9.1mg",
+      "sugars": "당류 53.9g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "녹차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630183845_1656581925791_WAKVFYW8Iu.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630183845_1656581925791_WAKVFYW8Iu.jpg",
+    "prodCafe": "mega",
+    "prodContent": "고소한 감칠맛과 부드러운 목넘김으로 산뜻하게 마음을 위로하는 국내산 녹차.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 0.7kcal",
+      "caffeine": "카페인 65.3mg",
+      "sodium": "나트륨 4.2mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "사과유자차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630184016_1656582016457_8IrCFdRhCj.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630184016_1656582016457_8IrCFdRhCj.jpg",
+    "prodCafe": "mega",
+    "prodContent": "애플티의 향긋함과 유자청의 상큼달콤함을 한컵에 담아낸 과일티.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 227.1kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 89.3mg",
+      "sugars": "당류 47.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "얼그레이",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630185723_1656583043173_a9PUetBZWf.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630185723_1656583043173_a9PUetBZWf.jpg",
+    "prodCafe": "mega",
+    "prodContent": "홍차 특유의 풍부한 플레이버를 만끽할 수 있는 허브티.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "얼그레이One size / 20oz",
+      "kcal": "Earl Grey1회 제공량 0.7kcal",
+      "caffeine": "카페인 73.4mg",
+      "sodium": "나트륨 4.2mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "캐모마일",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630190142_1656583302496_X3ATihg2ym.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630190142_1656583302496_X3ATihg2ym.jpg",
+    "prodCafe": "mega",
+    "prodContent": "마음을 진정 시켜주는 산뜻한 풀내음을 느낄 수 있는 허브티.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "캐모마일One size / 20oz",
+      "kcal": "Chamomile1회 제공량 0.5kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 5.5mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "페퍼민트",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630190628_1656583588286_Q3wrF_v8cM.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630190628_1656583588286_Q3wrF_v8cM.jpg",
+    "prodCafe": "mega",
+    "prodContent": "멘톨향의 묵직한 청량감, 상쾌한 맛과 향이 인상적인 허브티.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 0.2kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 5.3mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "녹차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113057_1656642657113_ORWSdJHBUa.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113057_1656642657113_ORWSdJHBUa.jpg",
+    "prodCafe": "mega",
+    "prodContent": "고소한 감칠맛과 부드러운 목넘김으로 산뜻하게 마음을 위로하는 국내산 녹차.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 1.0kcal",
+      "caffeine": "카페인 78.5mg",
+      "sodium": "나트륨 2.1mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "사과유자차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113153_1656642713022_k19Le9pVJ4.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113153_1656642713022_k19Le9pVJ4.jpg",
+    "prodCafe": "mega",
+    "prodContent": "애플티의 향긋함과 유자청의 상큼달콤함을 한컵에 담아낸 과일티.",
+    "prodPrice": "3,500",
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 242.2kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 74.5mg",
+      "sugars": "당류 37.5g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "얼그레이",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113256_1656642776818_NVdHeZhSwJ.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113256_1656642776818_NVdHeZhSwJ.jpg",
+    "prodCafe": "mega",
+    "prodContent": "홍차 특유의 풍부한 플레이버를 만끽할 수 있는 허브티.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 1.3kcal",
+      "caffeine": "카페인 87.2mg",
+      "sodium": "나트륨 2.1mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "캐모마일",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113429_1656642869511_RmwB3ABBGy.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113429_1656642869511_RmwB3ABBGy.jpg",
+    "prodCafe": "mega",
+    "prodContent": "마음을 진정 시켜주는 산뜻한 풀내음을 느낄 수 있는 허브티.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 1.3kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 2.5mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "페퍼민트",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113900_1656643140203_8gqFs23KzD.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701113900_1656643140203_8gqFs23KzD.jpg",
+    "prodCafe": "mega",
+    "prodContent": "멘톨향의 묵직한 청량감, 상쾌한 맛과 향이 인상적인 허브티.",
+    "prodPrice": "2,500",
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 2.5kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 3.0mg",
+      "sugars": "당류 0.0g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "복숭아아이스티",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114038_1656643238601_tmNjGB3jsD.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114038_1656643238601_tmNjGB3jsD.jpg",
+    "prodCafe": "mega",
+    "prodContent": "깊은 맛의 홍차와 달콤한 복숭아의 은은한 향이 어우러진 시원한 여름철 인기 음료.",
+    "prodPrice": "3,000",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 297.1kcal",
+      "caffeine": "카페인 65.7mg",
+      "sodium": "나트륨 67.5mg",
+      "sugars": "당류 62.6g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "유자차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114220_1656643340256_dRQjucU1eB.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114220_1656643340256_dRQjucU1eB.jpg",
+    "prodCafe": "mega",
+    "prodContent": "비타민이 가득 든 상큼달콤한 유자를 듬뿍 넣어 향긋한 즐거움을 전하는 과일티.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 286.4kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 104.0mg",
+      "sugars": "당류 47.9g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "레몬차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114311_1656643391188_ggllqjyZ42.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114311_1656643391188_ggllqjyZ42.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상큼한 레몬의 맛과 향을 오롯이 살린 비타민C 가득한 과일티.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 275.5kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 94.2mg",
+      "sugars": "당류 56.1g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "자몽차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220706122658_1657078018394_kURilN5daH.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220706122658_1657078018394_kURilN5daH.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤쌉싸름한 자몽의 조화로운 맛을 한 잔 가득 느낄 수 있는 과일티.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 294.0kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 84.2mg",
+      "sugars": "당류 58.1g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "허니자몽블랙티",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171740_1656663460439_DIkikBTJ0c.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701171740_1656663460439_DIkikBTJ0c.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤한 꿀청에 재운 자몽에 홍차의 부드러움을 어우른 상큼한 과일티.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 302.2kcal",
+      "caffeine": "카페인 61.5mg",
+      "sodium": "나트륨 97.5mg",
+      "sugars": "당류 53.6g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "유자차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114618_1656643578419_AJ7yOGg1se.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701114618_1656643578419_AJ7yOGg1se.jpg",
+    "prodCafe": "mega",
+    "prodContent": "비타민이 가득 든 상큼달콤한 유자를 듬뿍 넣어 향긋한 즐거움을 전하는 과일티.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 303.1kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 99.1mg",
+      "sugars": "당류 59.4g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "레몬차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125401_1656647641310_rTz7X5_dkK.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125401_1656647641310_rTz7X5_dkK.jpg",
+    "prodCafe": "mega",
+    "prodContent": "상큼한 레몬의 맛과 향을 오롯이 살린 비타민C 가득한 과일티.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 327.5kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 101.3mg",
+      "sugars": "당류 68.9g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "자몽차",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125500_1656647700753_PLbN1hunjZ.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125500_1656647700753_PLbN1hunjZ.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤쌉싸름한 자몽의 조화로운 맛을 한 잔 가득 느낄 수 있는 과일티.",
+    "prodPrice": "3,300",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 297.6kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 89.1mg",
+      "sugars": "당류 58.5g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "허니자몽블랙티",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125611_1656647771494_C6SS0q6aeS.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220701125611_1656647771494_C6SS0q6aeS.jpg",
+    "prodCafe": "mega",
+    "prodContent": "달콤한 꿀청에 재운 자몽에 홍차의 부드러움을 어우른 상큼한 과일티.",
+    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 24oz",
+      "kcal": "1회 제공량 265.8kcal",
+      "caffeine": "카페인 70.9mg",
+      "sodium": "나트륨 133.0mg",
+      "sugars": "당류 42.7g",
+      "sat_FAT": "포화지방 0.0g"
+    }
   },
   {
     "prodName": "유니콘프라페",
-    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173830_1656578310115_xVPHpZeHkl.jpg"
+    "prodImage": "https://img.79plus.co.kr/megahp/manager/upload/menu/20220630173830_1656578310115_xVPHpZeHkl.jpg",
+    "prodCafe": "mega",
+    "prodContent": "다채로운 비주얼로 보는 즐거움을 채우고, 달콤함과 상큼함 색깔마다 달라지는 유쾌한 맛까지 잡은 이색프라페.",
+    "prodPrice": "4,800",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "One size / 20oz",
+      "kcal": "1회 제공량 474.5kcal",
+      "caffeine": "카페인 0.0mg",
+      "sodium": "나트륨 141.2mg",
+      "sugars": "당류 42.3g",
+      "sat_FAT": "포화지방 11.1g"
+    }
   }
 ]
