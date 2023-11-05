@@ -4,7 +4,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174106292.png",
     "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non_coffee","tea","hot","k_mid","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
@@ -20,7 +20,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174584126.png",
     "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non_coffee","tea","hot","k_mid","s_high","p_mid"],
     "prodPrice": "5,500",
     "prodDetail": {
       "volume": "",
@@ -36,7 +36,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174882301.png",
     "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non_coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
@@ -52,7 +52,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174977374.png",
     "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non_coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "5,500",
     "prodDetail": {
       "volume": "",
@@ -68,7 +68,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692175123842.png",
     "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non_coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
@@ -84,7 +84,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692175240305.png",
     "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non_coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
@@ -100,7 +100,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1694414812893.png",
     "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
@@ -116,7 +116,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1694414794668.png",
     "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "5,400",
     "prodDetail": {
       "volume": "",
