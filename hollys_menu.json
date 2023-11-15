@@ -53,7 +53,7 @@
     "prodContent": "듀얼브루 원액으로 만든 부드러운 풍미와 균형잡힌 바디감의 디카페인 아메리카노",
     "prodCafe": "hollys",
     "prodPrice": "4,900",
-    "prodTag": ["coffee","ice/hot","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","decaffein","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "12kcal",
@@ -69,7 +69,7 @@
     "prodContent": "듀얼브루 원액으로 만든 부드러운 풍미와 균형 잡힌 바디감의 디카페인 카페 라떼",
     "prodCafe": "hollys",
     "prodPrice": "5,600",
-    "prodTag": ["coffee","latte","ice/hot","k_mid","s_mid","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice/hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "114kcal",
@@ -85,7 +85,7 @@
     "prodContent": "듀얼브루 원액으로 만들어 더욱 부드럽고 편안해진 바닐라 딜라이트 (*바닐라 딜라이트 제조에 사용되는 파우더에 카페인이 일부 함유되어 있음)",
     "prodCafe": "hollys",
     "prodPrice": "6,500",
-    "prodTag": ["coffee","latte","ice/hot","k_mid","s_mid","p_high"],
+    "prodTag": ["coffee","decaffein","latte","ice/hot","k_mid","s_mid","p_high"],
     "prodDetail": {
       "volume": "",
       "kcal": "192kcal",

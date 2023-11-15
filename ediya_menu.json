@@ -420,7 +420,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1678753482451.png",
     "prodContent": "오트의 고소함과 부드러운 바닐라 크림이 콜드브루와 어우러져 담백하게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["non-coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodTag": ["non-coffee","decaffein","latte","ice","k_mid","s_mid","p_mid"],
     "prodPrice": "6,300",
     "prodDetail": {
       "volume": "",
@@ -932,7 +932,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320328440.png",
     "prodContent": "(디카페인)이디야만의 블렌딩을 통해 커피의 깊은 단맛과 바디감,균형잡힌 밸런스를 느낄 수 있는 시원한 콜드브루 커피 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","decaffein","ice","k_low","s_low","p_mid"],
     "prodPrice": "4,200g",
     "prodDetail": {
       "volume": "",
@@ -948,7 +948,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1648685292664.png",
     "prodContent": "(디카페인)이디야만의 블렌딩을 통해 커피의 깊은 단맛과 바디감,균형잡힌 밸런스를 느낄 수 있는 시원한 콜드브루 커피 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","decaffein","ice","k_low","s_low","p_mid"],
     "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
@@ -964,7 +964,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320345410.png",
     "prodContent": "(디카페인)콜드브루의 깔끔하고 쌉싸름한 풍미가 고소한 우유와 만나 누구나 부담없이 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_mid","s_low","p_mid"],
     "prodPrice": "4,800",
     "prodDetail": {
       "volume": "",
@@ -980,7 +980,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320357663.png",
     "prodContent": "(디카페인)콜드브루의 깔끔하고 쌉싸름한 풍미가 고소한 우유와 만나 누구나 부담없이 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_mid","smoothie","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_mid","smoothie","p_mid"],
     "prodPrice": "6,000",
     "prodDetail": {
       "volume": "",
@@ -1044,7 +1044,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320389669.png",
     "prodContent": "(디카페인)이디야커피만의 질소투입방식을 통해 신선하고 부드러운 거품과 목넘김, 풍미를 느낄 수 있는 커피 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodTag": ["coffee","decaffein","ice","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
@@ -1076,7 +1076,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320378419.png",
     "prodContent": "(디카페인)달콤한 크림과 화이트 초콜릿향, 아이리쉬크림향이 더해져 콜드브루의 풍미가 잘 어우러진 음료",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
@@ -1092,7 +1092,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320406434.png",
     "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
@@ -1108,7 +1108,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320424871.png",
     "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
@@ -1124,7 +1124,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647387558230.png",
     "prodContent": "(디카페인) 베트남풍 연유의 달콤한 맛과 밸런스 잡힌 이디야 콜드브루가 어우러져 특색있게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "5,000",
     "prodDetail": {
       "volume": "",
@@ -1140,7 +1140,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647320633102.png",
     "prodContent": "(디카페인) 베트남풍 연유의 달콤한 맛과 밸런스 잡힌 이디야 콜드브루가 어우러져 특색있게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "6,200",
     "prodDetail": {
       "volume": "",
@@ -1156,7 +1156,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647324449408.png",
     "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "5,000",
     "prodDetail": {
       "volume": "",
@@ -1172,7 +1172,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1647324439469.png",
     "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodTag": ["coffee","decaffein","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "6,200",
     "prodDetail": {
       "volume": "",
