@@ -123,8 +123,11 @@ export const getLikeCounts = async (ctx) => {
     const likeCountDocument = await LikeCount.findOne({ beverageId: id });
 
     if (!likeCountDocument) {
-      ctx.status = 404;
-      ctx.body = { error: '음료의 좋아요 정보를 찾을 수 없습니다.' };
+      // 좋아요 정보가 없는 경우, 기본값 0을 반환
+      ctx.body = {
+        likesCount: 0,
+        dislikesCount: 0,
+      };
       return;
     }
 
