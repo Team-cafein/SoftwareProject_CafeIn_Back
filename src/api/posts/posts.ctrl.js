@@ -81,6 +81,7 @@ export const write = async (ctx) => {
 
 // 포스트 목록 조회
 // GET /api/posts?username=&tag&page=
+// GET /api/posts?username=&tag로 수정해야함
 
 export const list = async (ctx) => {
   // qeury는 문자열이기 때문에 숫자로 변환해 주어야 함
