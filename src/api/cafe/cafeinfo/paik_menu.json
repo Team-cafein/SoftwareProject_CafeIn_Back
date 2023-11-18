@@ -5,7 +5,7 @@
     "prodContent": "브라질 원두 블렌딩으로 다크초콜릿, 카라멜, 견과류의 고소함을 느낄 수 있는 에스프레소",
     "prodCafe": "paik",
     "prodPrice": "1,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 60ml",
       "kcal": "22",
@@ -21,7 +21,7 @@
     "prodContent": "빽다방만의 맛과 향을 더한 100% 아라비카 로스팅 원두로 뽑아내 깊고 진한 맛의 앗!메리카노",
     "prodCafe": "paik",
     "prodPrice": "1,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "14",
@@ -37,7 +37,7 @@
     "prodContent": "빽다방만의 맛과 향을 더한 100% 아라비카 로스팅 원두로 뽑아내 깊고 진한 맛의 앗!메리카노",
     "prodCafe": "paik",
     "prodPrice": "2,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "13",
@@ -53,7 +53,7 @@
     "prodContent": "달콤한 빽다방 대표메뉴, 믹스커피 종결자!",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 375ml",
       "kcal": "471",
@@ -69,7 +69,7 @@
     "prodContent": "달콤한 빽다방 대표메뉴, 믹스커피 종결자!",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "425",
@@ -85,7 +85,7 @@
     "prodContent": "달달하고 향긋한 베트남식 연유라떼",
     "prodCafe": "paik",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 425ml",
       "kcal": "491",
@@ -101,7 +101,7 @@
     "prodContent": "달달하고 향긋한 베트남식 연유라떼",
     "prodCafe": "paik",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "394",
@@ -117,7 +117,7 @@
     "prodContent": "진한 에스프레소와 우유가 어우려져 탄생한 부드러운 빽다방 라떼",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 300ml",
       "kcal": "253",
@@ -133,7 +133,7 @@
     "prodContent": "진한 에스프레소와 우유가 어우려져 탄생한 부드러운 빽다방 라떼",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "198",
@@ -149,7 +149,7 @@
     "prodContent": "흑당 베이스의 달콤함과 쫄깃한 펄, 에스프레소가 어우러진 블랙펄카페라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 634g",
       "kcal": "429",
@@ -165,7 +165,7 @@
     "prodContent": "부드러운 우유와 달콤하고 은은한 바닐라가 조화를 이루는 음료",
     "prodCafe": "paik",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 325ml",
       "kcal": "351",
@@ -181,7 +181,7 @@
     "prodContent": "부드러운 우유와 달콤하고 은은한 바닐라가 조화를 이루는 음료",
     "prodCafe": "paik",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "433",
@@ -197,14 +197,14 @@
     "prodContent": "초콜릿과 진한 에스프레소,부드러운 우유가 더해진 달콤한 맛의 커피",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
-      "kcal": "319 ",
+      "kcal": "319",
       "caffeine": "237",
-      "sodium": "144 ",
-      "sugars": "32 ",
-      "sat_FAT": "8 "
+      "sodium": "144",
+      "sugars": "32",
+      "sat_FAT": "8"
     }
   },
   {
@@ -213,7 +213,7 @@
     "prodContent": "초콜릿과 진한 에스프레소,부드러운 우유가 더해진 달콤한 맛의 커피",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "365",
@@ -229,7 +229,7 @@
     "prodContent": "카라멜소스와 신선한 우유, 에스프레소로 맛을 낸 달콤한 빽다방 인기메뉴",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
       "kcal": "354",
@@ -245,7 +245,7 @@
     "prodContent": "카라멜소스와 신선한 우유, 에스프레소로 맛을 낸 달콤한 빽다방 인기메뉴",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "382",
@@ -261,7 +261,7 @@
     "prodContent": "진한 바나나맛이 올라오는바나나라떼에 샷이 추가된 카페라떼",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 352g",
       "kcal": "297",
@@ -277,7 +277,7 @@
     "prodContent": "진한 바나나맛이 올라오는바나나라떼에 샷이 추가된 카페라떼",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 626g",
       "kcal": "303",
@@ -293,7 +293,7 @@
     "prodContent": "진한 바나나맛이 느껴지는바나나밀크쉐이크에 샷이 추가된커피쉐이크",
     "prodCafe": "paik",
     "prodPrice": "4,800",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 550g",
       "kcal": "380",
@@ -309,7 +309,7 @@
     "prodContent": "부드러운 아이스크림을 올려더 달콤하고 맛있는 카페라떼",
     "prodCafe": "paik",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "357",
@@ -325,7 +325,7 @@
     "prodContent": "부드러운 아이스크림을 올려더 달콤하고 맛있는 바닐라라떼",
     "prodCafe": "paik",
     "prodPrice": "4,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 570ml",
       "kcal": "520",
@@ -341,7 +341,7 @@
     "prodContent": "부드러운 아이스크림을 올려더 달콤하고 맛있는 카페모카",
     "prodCafe": "paik",
     "prodPrice": "4,200",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 570ml",
       "kcal": "512",
@@ -357,7 +357,7 @@
     "prodContent": "장시간 추출해 맛과 향이 풍부한 콜드브루",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "15",
@@ -373,7 +373,7 @@
     "prodContent": "장시간 추출해 맛과 향이 풍부한 콜드브루",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 375g",
       "kcal": "15",
@@ -388,8 +388,8 @@
     "prodImage": "https://paikdabang.com/wp-content/uploads/2018/05/디카페인-콜드브루-1-450x588.png",
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루",
     "prodCafe": "paik",
-    "prodPrice": "",
-    "prodTag": [],
+    "prodPrice": "4,000",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "11",
@@ -405,14 +405,14 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
     "prodDetail": {
-      "volume": "",
-      "kcal": "",
-      "caffeine": "",
-      "sodium": "",
-      "sugars": "",
-      "sat_FAT": ""
+      "volume": "1회 제공량 기준 : 600ml",
+      "kcal": "11",
+      "caffeine": "15",
+      "sodium": "5",
+      "sugars": "0",
+      "sat_FAT": "0"
     }
   },
   {
@@ -421,7 +421,7 @@
     "prodContent": "콜드브루에 신선한 우유를 더한 콜드브루라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "168",
@@ -437,7 +437,7 @@
     "prodContent": "콜드브루에 신선한 우유를 더한 콜드브루라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
       "kcal": "206",
@@ -453,7 +453,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "162",
@@ -469,7 +469,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 디카페인 콜드브루라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -485,7 +485,7 @@
     "prodContent": "콜드브루라떼에 달콤한 연유를 추가한콜드브루연유라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "379",
@@ -501,7 +501,7 @@
     "prodContent": "콜드브루라떼에 달콤한 연유를 추가한콜드브루연유라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
       "kcal": "371",
@@ -517,7 +517,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루연유라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "357",
@@ -533,7 +533,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루연유라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -549,7 +549,7 @@
     "prodContent": "콜드브루라떼에 달달한 흑당을 추가한콜드브루흑당라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "312",
@@ -565,7 +565,7 @@
     "prodContent": "콜드브루라떼에 달달한 흑당을 추가한콜드브루흑당라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
       "kcal": "334",
@@ -581,7 +581,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루흑당라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "280",
@@ -597,7 +597,7 @@
     "prodContent": "카페인 함량이 낮아부담이 적은 콜드브루흑당라떼",
     "prodCafe": "paik",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -613,7 +613,7 @@
     "prodContent": "진한 원액으로 즐기는콜드브루 오리지널 원액",
     "prodCafe": "paik",
     "prodPrice": "13,500",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_high"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -629,7 +629,7 @@
     "prodContent": "카페인 함량을 낮춰부담을 줄인 콜드브루 디카페인 원액",
     "prodCafe": "paik",
     "prodPrice": "14,500",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_high"],
     "prodDetail": {
       "volume": "",
       "kcal": "",
@@ -645,7 +645,7 @@
     "prodContent": "별미 중에 별미! 달콤한 복숭아 맛 아이스티에 에스프레소 샷 추가~",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "265",
@@ -661,7 +661,7 @@
     "prodContent": "특대용량으로 즐기는 깊고 진한 맛과 향의 앗!메리카노",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 950ml",
       "kcal": "19",
@@ -677,7 +677,7 @@
     "prodContent": "빽다방의 대표메뉴 달콤한 원조커피를 특대용량으로 즐기자!",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 950ml",
       "kcal": "646",
@@ -693,7 +693,7 @@
     "prodContent": "특대용량으로 즐기는 부드럽고 진한 빽다방 라떼",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_mid","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 950ml",
       "kcal": "278",
@@ -709,7 +709,7 @@
     "prodContent": "특대용량으로 즐기는 달콤쌉싸름한 아샷추!",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 900ml",
       "kcal": "297",
@@ -725,7 +725,7 @@
     "prodContent": "소다맛 에이드에 아이스크림과 토핑이 더해진 부드러운 크림소다(엑소 정규7집 발매 기념 한정판 음료)",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 700ml",
       "kcal": "597",
@@ -741,7 +741,7 @@
     "prodContent": "체리베이스가 블렌딩되어상큼하게 즐기는 파인애플맛 슬러시",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "395",
@@ -757,7 +757,7 @@
     "prodContent": "에스프레소 샷과 체리베이스가블렌딩된 색다른 맛의 콜라맛 슬러시",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "397",
@@ -773,7 +773,7 @@
     "prodContent": "달콤한 고구마가 신선한 우유를 만나더 부드럽고 든든하게",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 450ml",
       "kcal": "463",
@@ -789,7 +789,7 @@
     "prodContent": "달콤한 고구마가 신선한 우유를 만나더 부드럽고 든든하게",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "413",
@@ -805,7 +805,7 @@
     "prodContent": "고구마의 맛과 향이 살아있는든든하고 시원한 스무디",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "481",
@@ -821,7 +821,7 @@
     "prodContent": "고소한 밤의 맛과 향을진하고 달콤하게 느낄 수 있는 라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 450ml",
       "kcal": "513",
@@ -837,7 +837,7 @@
     "prodContent": "고소한 밤의 맛과 향을 진하고 달콤하게 느낄 수 있는 라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "436",
@@ -853,7 +853,7 @@
     "prodContent": "카페인이 함유된 강력한레드컬러의 레몬맛 스포츠 음료",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "321",
@@ -869,7 +869,7 @@
     "prodContent": "국내산 대봉의 맛을오롯이 느낄 수 있는 주스",
     "prodCafe": "paik",
     "prodPrice": "4,400",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 581g",
       "kcal": "227",
@@ -885,7 +885,7 @@
     "prodContent": "패션후르츠가 듬뿍 들어가상콤달콤한 스무디",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 594g",
       "kcal": "327",
@@ -901,7 +901,7 @@
     "prodContent": "패션후르츠에 망고를 더해더욱 달콤하고 시원하게 즐기는 스무디",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 617g",
       "kcal": "415",
@@ -917,14 +917,14 @@
     "prodContent": "진한 바나나맛이 올라오는 라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 346g",
-      "kcal": "156",
-      "caffeine": "302",
-      "sodium": "37",
-      "sugars": "7",
-      "sat_FAT": "9"
+      "kcal": "302",
+      "caffeine": "",
+      "sodium": "9",
+      "sugars": "37",
+      "sat_FAT": "7"
     }
   },
   {
@@ -933,13 +933,13 @@
     "prodContent": "진한 바나나맛이 올라오는 라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 611g",
-      "kcal": "154",
-      "caffeine": "295",
-      "sodium": "42",
-      "sugars": "7",
+      "kcal": "295",
+      "caffeine": "",
+      "sodium": "9",
+      "sugars": "42",
       "sat_FAT": "9"
     }
   },
@@ -949,14 +949,14 @@
     "prodContent": "진하고 달콤한 바나나맛이부드럽게 느껴지는 밀크쉐이크",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 543g",
-      "kcal": "216",
-      "caffeine": "380",
-      "sodium": "66",
-      "sugars": "5",
-      "sat_FAT": "7"
+      "kcal": "380",
+      "caffeine": "",
+      "sodium": "316",
+      "sugars": "66",
+      "sat_FAT": "5"
     }
   },
   {
@@ -965,7 +965,7 @@
     "prodContent": "잘게 부서진 얼음으로더욱 시원하게 즐기는 파인애플맛 음료",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 675ml",
       "kcal": "384",
@@ -981,7 +981,7 @@
     "prodContent": "잘게 부서진 얼음으로더욱 시원하게 즐기는 오렌지맛 음료",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 675ml",
       "kcal": "441",
@@ -997,7 +997,7 @@
     "prodContent": "잘게 부서진 얼음으로더욱 시원하게 즐기는 멜론맛 음료",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 675ml",
       "kcal": "349",
@@ -1013,7 +1013,7 @@
     "prodContent": "잘게 부서진 얼음으로더욱 시원하게 즐기는 콜라맛 음료",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 675ml",
       "kcal": "448",
@@ -1029,7 +1029,7 @@
     "prodContent": "당 함량과 칼로리가 낮은파인애플 맛 콤부차",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "103",
@@ -1045,7 +1045,7 @@
     "prodContent": "당 함량과 칼로리가 낮은패션후르츠 맛 콤부차",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "99",
@@ -1061,7 +1061,7 @@
     "prodContent": "지역 농가에서 갓 수확한국산 포도로 만든 주스",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 583g",
       "kcal": "188",
@@ -1077,7 +1077,7 @@
     "prodContent": "여름 대표과일 수박을 가득 넣은수박주스의 정석",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "262",
@@ -1090,10 +1090,10 @@
   {
     "prodName": "블루캔디소다(ICED)",
     "prodImage": "https://paikdabang.com/wp-content/uploads/2022/05/블루캔디소다-450x588.png",
-    "prodContent": "캔디처럼 달콤하고하늘처럼 청량한 블루캔디소다",
+    "prodContent": "캔디처럼 달콤하고 하늘처럼 청량한 블루캔디소다",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "225",
@@ -1109,7 +1109,7 @@
     "prodContent": "예천 사과와 제주 당근의 맛이다채롭게 느껴지는 주스",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 587g",
       "kcal": "200",
@@ -1125,7 +1125,7 @@
     "prodContent": "새콤달콤한 풍미가 일품인예천사과를 가득 담아낸 과일주스",
     "prodCafe": "paik",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 571g",
       "kcal": "190",
@@ -1141,7 +1141,7 @@
     "prodContent": "초코에 퐁당 빠지고 싶을때~!?진짜~! 완~전 진한 초코라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 325ml",
       "kcal": "342",
@@ -1157,7 +1157,7 @@
     "prodContent": "초코에 퐁당 빠지고 싶을때~!?진짜~! 완~전 진한 초코라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "387",
@@ -1173,7 +1173,7 @@
     "prodContent": "100% 국내산 녹차를 사용하여 진하고 부드러운 녹차라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "481",
@@ -1189,7 +1189,7 @@
     "prodContent": "100% 국내산 녹차를 사용하여 진하고 부드러운 녹차라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "361",
@@ -1205,7 +1205,7 @@
     "prodContent": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 325ml",
       "kcal": "413",
@@ -1221,7 +1221,7 @@
     "prodContent": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코라떼",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 700ml",
       "kcal": "498",
@@ -1237,7 +1237,7 @@
     "prodContent": "견과류와 카라멜의 고소하고 달콤함이 느껴지는 부드럽고 진한 맛의 토피넛라떼(샷추가 +500원)",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
       "kcal": "411",
@@ -1253,7 +1253,7 @@
     "prodContent": "견과류와 카라멜의 고소하고 달콤함이 느껴지는 부드럽고 진한 맛의 토피넛라떼(샷추가 +500원)",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "469",
@@ -1269,7 +1269,7 @@
     "prodContent": "흑당 베이스의 풍미 있는 달콤함과 쫄깃한 타피오카 펄, 고소한 우유가 어우러진 블랙펄라떼",
     "prodCafe": "paik",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 627g",
       "kcal": "397",
@@ -1282,10 +1282,10 @@
   {
     "prodName": "미숫가루",
     "prodImage": "https://paikdabang.com/wp-content/uploads/2018/06/미숫가루-450x588.png",
-    "prodContent": "고소하고 진한 맛의 미숫가루!  ",
+    "prodContent": "고소하고 진한 맛의 미숫가루!",
     "prodCafe": "paik",
     "prodPrice": "2,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 635g",
       "kcal": "308",
@@ -1298,17 +1298,17 @@
   {
     "prodName": "식혜(ICED)",
     "prodImage": "https://paikdabang.com/wp-content/uploads/2023/03/식혜-450x588.png",
-    "prodContent": "100% 경기미로씹을수록 더 맛있는 달콤한 식혜",
+    "prodContent": "100% 경기미로 씹을수록 더 맛있는 달콤한 식혜",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 614g",
-      "kcal": "4",
-      "caffeine": "287",
-      "sodium": "63",
-      "sugars": "0.1",
-      "sat_FAT": "1"
+      "kcal": "287",
+      "caffeine": "",
+      "sodium": "4",
+      "sugars": "63",
+      "sat_FAT": "0.1"
     }
   },
   {
@@ -1317,7 +1317,7 @@
     "prodContent": "체리와 콜라가 만나상큼함도 청량감도 UP!",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600g",
       "kcal": "290",
@@ -1333,7 +1333,7 @@
     "prodContent": "얼그레이의 향긋함을 더한 부드러운 밀크티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 375ml",
       "kcal": "313",
@@ -1349,7 +1349,7 @@
     "prodContent": "얼그레이의 향긋함을 더한 부드러운 밀크티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "353",
@@ -1365,7 +1365,7 @@
     "prodContent": "흑당 베이스의 풍미 있는 달콤함과 쫄깃한 타피오카 펄, 부드러운 생크림이 더해진 블랙펄밀크티",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 643g",
       "kcal": "513",
@@ -1381,7 +1381,7 @@
     "prodContent": "입안 가득 퍼지는 페퍼민트 향으로기분까지 상쾌해지는 메뉴",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "1",
@@ -1397,7 +1397,7 @@
     "prodContent": "입안 가득 퍼지는 페퍼민트 향으로기분까지 상쾌해지는 메뉴",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "1",
@@ -1413,7 +1413,7 @@
     "prodContent": "부드럽고 은은한 향으로 마음을 편안하게 해주는 황금캐모마일티",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "7",
@@ -1429,7 +1429,7 @@
     "prodContent": "부드럽고 은은한 향으로마음을 진정시켜주는 허브티",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "8",
@@ -1445,7 +1445,7 @@
     "prodContent": "입안 가득 전해지는 새콤함! 새콤 톡톡 깔라만시티",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 404g",
       "kcal": "268",
@@ -1461,7 +1461,7 @@
     "prodContent": "입안가득 전해지는 새콤함!새콤 톡톡 깔라만시티",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600g",
       "kcal": "243",
@@ -1477,7 +1477,7 @@
     "prodContent": "시원하게 즐기는 복숭아 맛 아이스티",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "267",
@@ -1493,7 +1493,7 @@
     "prodContent": "레몬 과육이 듬뿍! 더욱 상큼하게 즐기는 레몬티 (에이드 +500원)",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "272",
@@ -1509,7 +1509,7 @@
     "prodContent": "레몬 과육이 듬뿍!더욱 상큼하게 즐기는 레몬티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "277",
@@ -1525,7 +1525,7 @@
     "prodContent": "향긋하고 달콤한 복숭아와 풍부한 우롱의 맛이 어우러진 메뉴",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 365ml",
       "kcal": "150",
@@ -1541,7 +1541,7 @@
     "prodContent": "향긋하고 달콤한 복숭아와 풍부한 우롱의 맛이 어우러진 메뉴",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 593g",
       "kcal": "150",
@@ -1557,7 +1557,7 @@
     "prodContent": "직접 우려 깊고 진한 풍미와 깔끔한 맛의 우롱티",
     "prodCafe": "paik",
     "prodPrice": "2,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "7",
@@ -1573,7 +1573,7 @@
     "prodContent": "직접 우려 깊고 진한 풍미와 깔끔한 맛의 우롱티",
     "prodCafe": "paik",
     "prodPrice": "2,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "3",
@@ -1589,7 +1589,7 @@
     "prodContent": "상큼한 레몬을 더한 얼그레이티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
       "kcal": "110",
@@ -1605,7 +1605,7 @@
     "prodContent": "상큼한 레몬을 더한 얼그레이티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "110",
@@ -1621,7 +1621,7 @@
     "prodContent": "향긋한 오렌지와 자몽을 블렌딩한 블랙티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 350ml",
       "kcal": "110",
@@ -1637,7 +1637,7 @@
     "prodContent": "향긋한 오렌지와 자몽을 블렌딩한 블랙티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "110",
@@ -1653,7 +1653,7 @@
     "prodContent": "진하게 전해지는 향긋함! 달콤한 유자티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "284",
@@ -1669,7 +1669,7 @@
     "prodContent": "진하게 전해지는 향긋함! 달콤한 유자티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "261",
@@ -1685,7 +1685,7 @@
     "prodContent": "자몽 과육이 입안에서 톡톡! 달콤한 자몽 한 잔",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 400ml",
       "kcal": "281",
@@ -1701,7 +1701,7 @@
     "prodContent": "자몽 과육이 입안에서 톡톡!달콤한 자몽 한 잔",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "242",
@@ -1717,7 +1717,7 @@
     "prodContent": "향긋한 꽃향기가 퍼지는 상큼달콤한 청포도 음료",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 550ml",
       "kcal": "220",
@@ -1733,7 +1733,7 @@
     "prodContent": "과일(석류)발효초인 미초를 넣은 시원한 음료",
     "prodCafe": "paik",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_low"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "147",
@@ -1749,7 +1749,7 @@
     "prodContent": "톡 쏘는 탄산수에딸기 과육을 듬뿍 넣어달콤한 청량감이 입안 가득!",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 612ml",
       "kcal": "184",
@@ -1765,7 +1765,7 @@
     "prodContent": "레몬 과육이 듬뿍! 더욱 상큼하게 즐기는 레모네이드",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "246",
@@ -1781,7 +1781,7 @@
     "prodContent": "청포도의 상큼함과 향긋한 꽃향기가 퍼지는 상큼 달콤한 에이드 음료",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "234",
@@ -1797,7 +1797,7 @@
     "prodContent": "상큼 짜릿하게! 톡톡튀는 식감을 느낄 수 있는 에이드 음료",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "215",
@@ -1813,7 +1813,7 @@
     "prodContent": "향긋한 유자에 청량감이 더해진 유자에이드",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "251",
@@ -1829,7 +1829,7 @@
     "prodContent": "달콤 쌉쌀한 자몽에이드",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "258",
@@ -1845,7 +1845,7 @@
     "prodContent": "청량감 가득 달콤상큼 에이드!  ",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "241",
@@ -1861,7 +1861,7 @@
     "prodContent": "과일(석류)발효초인 미초를 넣은 청량한 에이드 음료",
     "prodCafe": "paik",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 650ml",
       "kcal": "141",
@@ -1877,7 +1877,7 @@
     "prodContent": "싱그러운 자연의 맛을 그대로 담은 완전토마토",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 543g",
       "kcal": "159",
@@ -1893,7 +1893,7 @@
     "prodContent": "신선함을 그대로 담은 완전딸기!",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "224",
@@ -1909,7 +1909,7 @@
     "prodContent": "코코넛 젤리가 들어있는 달콤 시원한 완전망고",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "241",
@@ -1925,7 +1925,7 @@
     "prodContent": "자연의 건강함을 그대로 담은완전블루베리주스",
     "prodCafe": "paik",
     "prodPrice": "4,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 584g",
       "kcal": "231",
@@ -1941,7 +1941,7 @@
     "prodContent": "블루베리와 요거트가 만나새콤달콤 스무디로!",
     "prodCafe": "paik",
     "prodPrice": "5,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 575g",
       "kcal": "484",
@@ -1957,7 +1957,7 @@
     "prodContent": "시원하고 달콤한 밀크쉐이크  ",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "535",
@@ -1973,7 +1973,7 @@
     "prodContent": "달콤 부드러운 플레인 요거트스무디",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 600ml",
       "kcal": "494",
@@ -1989,7 +1989,7 @@
     "prodContent": "부드럽고 새콤달콤한 딸기요거트스무디",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "448",
@@ -2005,7 +2005,7 @@
     "prodContent": "특대용량으로 즐기는 완전 진한 초코라떼",
     "prodCafe": "paik",
     "prodPrice": "5,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 900ml",
       "kcal": "555",
@@ -2021,7 +2021,7 @@
     "prodContent": "특대용량으로 즐기는 시원하고 달콤한 복숭아 맛 아이스티",
     "prodCafe": "paik",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 950ml",
       "kcal": "406",
@@ -2037,7 +2037,7 @@
     "prodContent": "달콤한 딸기 과육이 가득!부드럽고 달콤하게 즐기는 딸기라떼",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 590ml",
       "kcal": "331",
@@ -2053,7 +2053,7 @@
     "prodContent": "원조커피의 시원한 변신~! 매력만점 커피 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "578",
@@ -2069,7 +2069,7 @@
     "prodContent": "원조커피의 시원한 변신~! 매력만점 커피 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 765ml",
       "kcal": "785",
@@ -2085,7 +2085,7 @@
     "prodContent": "상큼한 딸기와 달달한 바나나의 완전 시원한 만남!",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "502",
@@ -2101,7 +2101,7 @@
     "prodContent": "상큼한 딸기와 달달한 바나나의 완전 시원한 만남!",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 765ml",
       "kcal": "687",
@@ -2117,7 +2117,7 @@
     "prodContent": "달콤한 초코와 달달한 바나나의 완전 시원한 만남",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "577",
@@ -2133,7 +2133,7 @@
     "prodContent": "달콤한 초코와 달달한 바나나의 완전 시원한 만남",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 765ml",
       "kcal": "784",
@@ -2149,7 +2149,7 @@
     "prodContent": "상큼한 국산딸기와 우유가 블렌딩된 완전딸기 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "480 ",
@@ -2165,7 +2165,7 @@
     "prodContent": "상큼한 국산딸기와 우유가 블렌딩된 완전딸기 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 765ml",
       "kcal": "687",
@@ -2181,7 +2181,7 @@
     "prodContent": "100% 국내산 녹차를 사용하여 부드럽고 진한 맛의 빽스치노!",
     "prodCafe": "paik",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "548",
@@ -2197,7 +2197,7 @@
     "prodContent": "100% 국내산 녹차를 사용하여 부드럽고 진한 맛의 빽스치노!",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 765ml",
       "kcal": "755",
@@ -2213,7 +2213,7 @@
     "prodContent": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 630ml",
       "kcal": "602",
@@ -2229,7 +2229,7 @@
     "prodContent": "초코칩으로 더한 깊은 초콜릿의 맛과 민트의 상쾌함이 어우러진 진한 민트초코 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 770ml",
       "kcal": "809",
@@ -2245,7 +2245,7 @@
     "prodContent": "달콤한 쿠키 크런치가 듬뿍 들어간 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 628.5 g",
       "kcal": "768",
@@ -2261,7 +2261,7 @@
     "prodContent": "달콤한 쿠키 크런치가 듬뿍 들어간 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 748.5 g",
       "kcal": "942",
@@ -2277,7 +2277,7 @@
     "prodContent": "초콜릿을 함께 블렌딩하여 더욱 진한 맛의 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 570.5g",
       "kcal": "520",
@@ -2293,7 +2293,7 @@
     "prodContent": "초콜릿을 함께 블렌딩하여 더욱 진한 맛의 빽스치노",
     "prodCafe": "paik",
     "prodPrice": "4,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 690.5 g",
       "kcal": "694",
@@ -2309,7 +2309,7 @@
     "prodContent": "고소한 피스타치오와 진한 카카오닙스의 만남 ! ",
     "prodCafe": "paik",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 625ml",
       "kcal": "535",
@@ -2325,7 +2325,7 @@
     "prodContent": "고소한 피스타치오와 진한 카카오닙스의 만남 ! ",
     "prodCafe": "paik",
     "prodPrice": "5,00",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 765ml",
       "kcal": "742",
@@ -2341,7 +2341,7 @@
     "prodContent": "빽다방 대표 시그니처 메뉴에 아낌없이 퐁당!",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 531g",
       "kcal": "496",
@@ -2357,7 +2357,7 @@
     "prodContent": "빽다방 대표 시그니처 메뉴에 아낌없이 퐁당!",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 538g",
       "kcal": "483",
@@ -2373,7 +2373,7 @@
     "prodContent": "빽다방 대표 시그니처 메뉴에 아낌없이 퐁당!",
     "prodCafe": "paik",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "※ 1회 제공량 기준 : 592g",
       "kcal": "613",

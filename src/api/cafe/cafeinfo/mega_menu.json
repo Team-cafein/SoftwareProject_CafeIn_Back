@@ -5,7 +5,7 @@
     "prodCafe": "mega",
     "prodContent": "청송사과의 향긋함이 담긴 바삭한 애플파이를\n달달한 음료로 재해석한 메가MGC커피만의 가을 한정음료",
     "prodPrice": "4,400",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "20oz",
       "kcal": "1회 제공량 565.7kcal",
@@ -21,7 +21,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤한 청송 사과청 위에 향긋한 애플티와 진한 블랙티를\n층층이 쌓아 가을 하늘의 노을을 담은 가을 한정 베리에이션 티 음료",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "24oz",
       "kcal": "1회 제공량 203.6kcal",
@@ -37,7 +37,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤한 청송 사과청 위에 향긋한 애플티와 진한 블랙티를\n층층이 쌓아 가을 하늘의 노을을 담은 가을 한정 베리에이션 티 음료",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "20oz",
       "kcal": "1회 제공량 206.6kcal",
@@ -53,7 +53,7 @@
     "prodCafe": "mega",
     "prodContent": "우리 할머니께서 즐겨드시던 달달한 믹스 커피 스타일로 만든 \n메가MGC커피만의 시원한 커피 음료",
     "prodPrice": "1,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "20oz",
       "kcal": "회 제공량 281.9kcal",
@@ -69,7 +69,7 @@
     "prodCafe": "mega",
     "prodContent": "우리 할머니께서 즐겨드시던 달달한 믹스 커피 스타일로 만든 \n메가MGC커피만의 메가사이즈 커피 음료",
     "prodPrice": "2,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "32oz",
       "kcal": "1회 제공량 468.7kcal",
@@ -85,7 +85,7 @@
     "prodCafe": "mega",
     "prodContent": "상큼한 고흥유자와 청량한 하이볼 맛 음료가 조화롭게 섞여 남도의 바다색을 느낄 수 있는 여름 한정 무알콜 에이드",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "24oz",
       "kcal": "1회 제공량 346kcal",
@@ -101,7 +101,7 @@
     "prodCafe": "mega",
     "prodContent": "바삭하고 고소한 코코넛 칩을 올리고 \n쌉싸름한 커피와 달콤한 코코넛이 조화로운 스무디",
     "prodPrice": "4,800",
-    "prodTag": [],
+    "prodTag": ["coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "20oz",
       "kcal": "1회 제공량 746.5kcal",
@@ -117,7 +117,7 @@
     "prodCafe": "mega",
     "prodContent": "엄선된 시칠리아 레드오렌지와 자몽이 만난 상큼한 주스에\n프로바이오틱스를 더해 건강한 블렌딩 주스",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "20oz",
       "kcal": "1회 제공량 205.3kcal",
@@ -133,7 +133,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤한 샤인머스캣과 케일이 만난 싱그러운 주스에\n칼슘을 더해 건강한 블렌딩 주스",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "20oz",
       "kcal": "1회 제공량 218.1kcal",
@@ -149,7 +149,7 @@
     "prodCafe": "mega",
     "prodContent": "새콤달콤한 딸기주스에 피쉬 콜라겐을 더해 건강한 블렌딩 주스",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 188.9kcal",
@@ -165,7 +165,7 @@
     "prodCafe": "mega",
     "prodContent": "상큼한 딸기와 부드러운 바나나가 만나, 새콤달콤한 매력이 살아 있는 과일 음료.",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 246.9kcal",
@@ -181,7 +181,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인으로 만나는 메가MGC커피 에스프레소",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 2oz",
       "kcal": "1회 제공량 6.2kcal",
@@ -197,7 +197,7 @@
     "prodCafe": "mega",
     "prodContent": "바닐라 젤라또에 진한 디카페인 에스프레소를 부어 만든 디저트",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size",
       "kcal": "1회 제공량 162.2kcal",
@@ -213,7 +213,7 @@
     "prodCafe": "mega",
     "prodContent": "크림과 코코아 파우더를 올려 부드럽게 즐길 수 있는 디카페인 에스프레소",
     "prodPrice": "2,400",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_mid","p_low"],
     "prodDetail": {
       "volume": "One size",
       "kcal": "1회 제공량 99.48kcal",
@@ -229,7 +229,7 @@
     "prodCafe": "mega",
     "prodContent": "향과 풍미 그대로 카페인만을 낮춰 민감한 분들도 안심하고 \n매일매일 즐길 수 있는 디카페인 커피",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 9.4kcal",
@@ -245,7 +245,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 149.3kcal",
@@ -261,7 +261,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 \n향긋하고 부드럽게 즐기는 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 84.2kcal",
@@ -277,7 +277,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "회 제공량 83.0kcal",
@@ -293,7 +293,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 178.5kcal",
@@ -309,7 +309,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 카푸치노.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 152.9kcal",
@@ -325,7 +325,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인으로 즐기는 바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
     "prodPrice": "4,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 233.7kcal",
@@ -341,7 +341,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 \n디카페인 라떼.",
     "prodPrice": "4,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 240.0kcal",
@@ -357,7 +357,7 @@
     "prodCafe": "mega",
     "prodContent": "폼 밀크 속에 진한 디카페인 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피",
     "prodPrice": "4,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 238.5kcal",
@@ -373,7 +373,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소 샷, 부드러운 우유 그리고 달콤한 연유가 조화롭게 어우러진 라떼.",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 301.5kcal",
@@ -389,7 +389,7 @@
     "prodCafe": "mega",
     "prodContent": "초코를 만나 풍부해진 디카페인 에스프레소와 고소한 우유, \n부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 430.3kcal",
@@ -405,7 +405,7 @@
     "prodCafe": "mega",
     "prodContent": "'디카페인 에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는\n달달한 크림까지 곁들여 완성한 티라미수 라떼.",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 436.7kcal",
@@ -421,7 +421,7 @@
     "prodCafe": "mega",
     "prodContent": "향과 풍미 그대로 카페인만을 낮춰 민감한 분들도 안심하고 \n매일매일 즐길 수 있는 디카페인 커피",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 9.5kcal",
@@ -437,7 +437,7 @@
     "prodCafe": "mega",
     "prodContent": "메가MGC커피 디카페인 아메리카노를 '960ml' 더 크고 가볍게 즐길 수 있는 대용량 커피",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 32oz",
       "kcal": "1회 제공량 17.1kcal",
@@ -453,7 +453,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 137.4kcal",
@@ -469,7 +469,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 \n향긋하고 부드럽게 즐기는 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 108.7kcal",
@@ -485,7 +485,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 107.5kcal",
@@ -501,7 +501,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 147.7kcal",
@@ -517,7 +517,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소 위에 올려진 우유 거품, 그리고 시나몬 파우더로 완성한 \n조화로운 맛의 커피.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 127.0kcal",
@@ -533,7 +533,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인으로 즐기는 바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
     "prodPrice": "4,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 239.3kcal",
@@ -549,7 +549,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 \n디카페인 라떼.",
     "prodPrice": "4,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 237.0kcal",
@@ -565,7 +565,7 @@
     "prodCafe": "mega",
     "prodContent": "폼 밀크 속에 진한 디카페인 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피",
     "prodPrice": "4,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 232.9kcal",
@@ -581,7 +581,7 @@
     "prodCafe": "mega",
     "prodContent": "초코를 만나 풍부해진 디카페인 에스프레소와 고소한 우유, \n부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 319.7kcal",
@@ -597,7 +597,7 @@
     "prodCafe": "mega",
     "prodContent": "디카페인 에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는\n달달한 크림까지 곁들여 완성한 티라미수 라떼.",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 404.3kcal",
@@ -613,7 +613,7 @@
     "prodCafe": "mega",
     "prodContent": "산뜻하고 달콤한 딸기가 부드러운 우유와 어우러져 더욱 기분 좋게 즐기는 아이스 라떼.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 366.4kcal",
@@ -629,7 +629,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 바닐라와 달달한 딸기, 바삭한 오레오 쿠키가 달콤한 하모니를 선물하는 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 564.1kcal",
@@ -645,7 +645,7 @@
     "prodCafe": "mega",
     "prodContent": "카페인을 줄였지만, 원두 본연의 향미를 풍부하게 살려 맛을 잡은 디카페인 콜드브루.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 7.7kcal",
@@ -661,7 +661,7 @@
     "prodCafe": "mega",
     "prodContent": "카페인을 줄였지만, 원두 본연의 향미를 풍부하게 살려 맛을 잡은 디카페인 콜드브루.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 9.4kcal",
@@ -677,7 +677,7 @@
     "prodCafe": "mega",
     "prodContent": "우유와 만나 부드럽고 고소한 풍미가 더해진 콜드브루 디카페인 라떼.",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 140.8kcal",
@@ -693,7 +693,7 @@
     "prodCafe": "mega",
     "prodContent": "우유와 만나 부드럽고 고소한 풍미가 더해진 콜드브루 디카페인 라떼.",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 153.8kcal",
@@ -709,7 +709,7 @@
     "prodCafe": "mega",
     "prodContent": "메가MGC커피 원두의 향미를 온전히 즐길 수 있는 에스프레소",
     "prodPrice": "1,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "2oz",
       "kcal": "1회 제공량 7.6kcal",
@@ -725,7 +725,7 @@
     "prodCafe": "mega",
     "prodContent": "더블샷으로 더욱 진하게 즐길 수 있는 에스프레소",
     "prodPrice": "2,000",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "5oz",
       "kcal": "1회 제공량 15.2kcal",
@@ -741,7 +741,7 @@
     "prodCafe": "mega",
     "prodContent": "크림과 코코아 파우더를 올려 \n부드럽게 즐길 수 있는 에스프레소",
     "prodPrice": "2,400",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_mid","s_low","p_low"],
     "prodDetail": {
       "volume": "5oz",
       "kcal": "1회 제공량 112.4kcal",
@@ -757,7 +757,7 @@
     "prodCafe": "mega",
     "prodContent": "바닐라 젤라또에 진한 에스프레소를 부어 만든 디저트",
     "prodPrice": "3,200",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_mid","smoothie","p_mid"],
     "prodDetail": {
       "volume": "10oz",
       "kcal": "1회 제공량 155.8kcal",
@@ -773,7 +773,7 @@
     "prodCafe": "mega",
     "prodContent": "바삭하고 달콤한 오레오와 고소한 우유, 부드러운 바닐라향의 조화를 느낄 수 있는 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 640.7kcal",
@@ -789,7 +789,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤하고 고소한 고구마와 부드러운 우유가 만나 누구나 즐기기 좋은 든든한 라떼.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","hot","k_high","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 310.5 kcal",
@@ -805,7 +805,7 @@
     "prodCafe": "mega",
     "prodContent": "우유에 곡물을 더해 고소하고 든든하게 즐기는 라떼.",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","hot","k_high","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 389.0kcal",
@@ -821,7 +821,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 우유에 진한 초코소스, 달콤한 휘핑크림의 삼박자 조화로 완성한 달콤 초코 음료.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 507.0kcal",
@@ -837,7 +837,7 @@
     "prodCafe": "mega",
     "prodContent": "은은하게 퍼지는 카라멜의 달달한 향기와 견과의 고소함을 한입에 즐길 수 있는 라떼.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 368.0kcal",
@@ -853,7 +853,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤하고 고소한 고구마와 부드러운 우유가 만나 누구나 즐기기 좋은 든든한 라떼.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_mid","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 248.8kcal",
@@ -869,7 +869,7 @@
     "prodCafe": "mega",
     "prodContent": "우유에 곡물을 더해 고소하고 든든하게 즐기는 라떼.",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 390.4kcal",
@@ -885,7 +885,7 @@
     "prodCafe": "mega",
     "prodContent": "진한 초코와 리얼 오레오를 블렌딩해 씹는 맛을 더한 달콤한 아이스 라떼.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 485.6kcal",
@@ -901,7 +901,7 @@
     "prodCafe": "mega",
     "prodContent": "은은하게 퍼지는 카라멜의 달달한 향기와 견과의 고소함을 한입에 즐길 수 있는 라떼.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 364.5kcal",
@@ -917,7 +917,7 @@
     "prodCafe": "mega",
     "prodContent": "타바론 얼그레이 홍차의 깊은 맛을 살린 일크티 라떼에 진한 흑당과 흑당 버블의 달콤함을 채운 음료.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 330.2kcal",
@@ -933,7 +933,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 우유에 진한 초코소스가 어우러져 달콤하게 입맛을 깨우는 초콜릿 음료.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 374.9kcal",
@@ -949,7 +949,7 @@
     "prodCafe": "mega",
     "prodContent": "향긋한 녹차에 우유를 더해 입 안에 부드러운 푸릇함을 선물하는 라떼.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","hot","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 280.4kcal",
@@ -965,7 +965,7 @@
     "prodCafe": "mega",
     "prodContent": "우유와 은은한 홍차가 어우러져 부드럽고 향긋한 한 모금을 완성한 라떼.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 232.0kcal",
@@ -981,7 +981,7 @@
     "prodCafe": "mega",
     "prodContent": "모리셔스의 진한 흑당과 부드러운 우유가 달콤하게 조화를 이루는 라떼.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 322.0kcal",
@@ -997,7 +997,7 @@
     "prodCafe": "mega",
     "prodContent": "타바론 얼그레이 홍차의 깊은 맛을 살린 일크티 라떼에 진한 흑당의 달콤함을 채운 음료.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 300.5kcal",
@@ -1013,7 +1013,7 @@
     "prodCafe": "mega",
     "prodContent": "모리셔스의 진한 흑당과 부드러운 우유가 달콤한 조화에 흑당 버블을 함께 즐기는 라떼.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 320.3kcal",
@@ -1029,7 +1029,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 우유에 진한 초코소스가 어우러져 달콤하게 입맛을 깨우는 초콜릿 음료.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 308.0kcal",
@@ -1045,7 +1045,7 @@
     "prodCafe": "mega",
     "prodContent": "향긋한 녹차에 우유를 더해 입 안에 부드러운 푸릇함을 선물하는 라떼.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 288.5kcal",
@@ -1061,7 +1061,7 @@
     "prodCafe": "mega",
     "prodContent": "우유와 은은한 홍차가 어우러져 부드럽고 향긋한 한 모금을 완성한 라떼.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 254.6kcal",
@@ -1077,7 +1077,7 @@
     "prodCafe": "mega",
     "prodContent": "[기본2샷]메가MGC커피 블렌드 원두로 추출한 에스프레소에 물을 더해, 풍부한 바디감을 느낄 수 있는 스탠다드 커피.",
     "prodPrice": "1,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 12.2kcal",
@@ -1093,7 +1093,7 @@
     "prodCafe": "mega",
     "prodContent": "에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는 달달한 크림까지 곁들여 완성한 티라미수 라떼.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 419.5kcal",
@@ -1109,7 +1109,7 @@
     "prodCafe": "mega",
     "prodContent": "깊고 진한 메가MGC커피 아메리카노를 '960ml' 더 큼직하게 즐길 수 있는 대용량 커피.",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 32oz",
       "kcal": "1회 제공량 16.7kcal",
@@ -1125,7 +1125,7 @@
     "prodCafe": "mega",
     "prodContent": "에스프레소와 티라미수 소스 & 우유 그리고 풍미를 더해주는 달달한 크림까지 곁들여 완성한 티라미수 라떼.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 400.6kcal",
@@ -1141,7 +1141,7 @@
     "prodCafe": "mega",
     "prodContent": "아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
     "prodPrice": "2,700",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_mid","s_high","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 172.4kcal",
@@ -1157,7 +1157,7 @@
     "prodCafe": "mega",
     "prodContent": "바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
     "prodPrice": "3,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 231.9kcal",
@@ -1173,7 +1173,7 @@
     "prodCafe": "mega",
     "prodContent": "아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
     "prodPrice": "2,700",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_mid","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 84.3kcal",
@@ -1189,7 +1189,7 @@
     "prodCafe": "mega",
     "prodContent": "향기로운 에스프레소 샷, 부드러운 우유 그리고 달콤한 연유가 조화롭게 어우러진 라떼.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 321.6kcal",
@@ -1205,7 +1205,7 @@
     "prodCafe": "mega",
     "prodContent": "폼 밀크 속에 진한 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 244.9kcal",
@@ -1221,7 +1221,7 @@
     "prodCafe": "mega",
     "prodContent": "진한 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
     "prodPrice": "2,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 175.4kcal",
@@ -1237,7 +1237,7 @@
     "prodCafe": "mega",
     "prodContent": "초코를 만나 풍부해진 에스프레소와 고소한 우유, 부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 380.9kcal",
@@ -1253,7 +1253,7 @@
     "prodCafe": "mega",
     "prodContent": "에스프레소 위에 올려진 우유 거품, 그리고 시나몬 파우더로 완성한 조화로운 맛의 커피.",
     "prodPrice": "2,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 145.5kcal",
@@ -1269,7 +1269,7 @@
     "prodCafe": "mega",
     "prodContent": "콜드브루에 고소한 우유를 섞어, 깔끔함과 부드러움을 잡은 라떼.",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 164.2kcal",
@@ -1285,7 +1285,7 @@
     "prodCafe": "mega",
     "prodContent": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 10.6kcal",
@@ -1301,7 +1301,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 라떼.",
     "prodPrice": "3,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 240.5kcal",
@@ -1317,7 +1317,7 @@
     "prodCafe": "mega",
     "prodContent": "아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 향긋하고 부드럽게 즐기는 커피.",
     "prodPrice": "2,700",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 82.7kcal",
@@ -1333,7 +1333,7 @@
     "prodCafe": "mega",
     "prodContent": "아메리카노의 묵직한 바디감에 달콤한 사양벌꿀이 소프트하게 어우러진 커피.",
     "prodPrice": "2,700",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_mid","s_high","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 162.2kcal",
@@ -1349,7 +1349,7 @@
     "prodCafe": "mega",
     "prodContent": "바닐라의 짙은 향과 풍부한 폼 밀크의 조화가 인상적인 달콤한 라떼.",
     "prodPrice": "3,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 244.2kcal",
@@ -1365,7 +1365,7 @@
     "prodCafe": "mega",
     "prodContent": "아메리카노에 바닐라의 부드러운 향과 달콤함을 조화롭게 담아낸 커피.",
     "prodPrice": "2,700",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_mid","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 121.9kcal",
@@ -1381,7 +1381,7 @@
     "prodCafe": "mega",
     "prodContent": "폼 밀크 속에 진한 에스프레소와 달콤한 카라멜을 가미해 부드럽게 즐기는 커피.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 243.9kcal",
@@ -1397,7 +1397,7 @@
     "prodCafe": "mega",
     "prodContent": "진한 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 라떼.",
     "prodPrice": "2,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 145.1kcal",
@@ -1413,7 +1413,7 @@
     "prodCafe": "mega",
     "prodContent": "초코를 만나 풍부해진 에스프레소와 고소한 우유, 부드러운 휘핑크림까지 더해 달콤하게 즐기는 커피.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 305.4kcal",
@@ -1429,7 +1429,7 @@
     "prodCafe": "mega",
     "prodContent": "에스프레소 위에 올려진 우유 거품, 그리고 시나몬 파우더로 완성한 조화로운 맛의 커피.",
     "prodPrice": "2,900",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 132.4kcal",
@@ -1445,7 +1445,7 @@
     "prodCafe": "mega",
     "prodContent": "콜드브루에 고소한 우유를 섞어, 깔끔함과 부드러움을 잡은 라떼.",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 167.6kcal",
@@ -1461,7 +1461,7 @@
     "prodCafe": "mega",
     "prodContent": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 7.2kcal",
@@ -1477,7 +1477,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 카페라떼에 헤이즐넛의 풍부한 향과 달콤함을 담아 향긋하게 즐길 수 있는 라떼.",
     "prodPrice": "3,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 237.4kcal",
@@ -1493,7 +1493,7 @@
     "prodCafe": "mega",
     "prodContent": "아메리카노에 헤이즐넛의 풍성한 향과 달콤함을 담아 향긋하고 부드럽게 즐기는 커피.",
     "prodPrice": "2,700",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_mid","smoothie","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 113.6kcal",
@@ -1509,7 +1509,7 @@
     "prodCafe": "mega",
     "prodContent": "연유를 섞은 라떼에 에스프레소를 얼린 커피큐브를 올려, 녹을수록 더 진한 커피가 느껴지는 라떼.",
     "prodPrice": "4,200",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","smoothie","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 304.4kcal",
@@ -1525,7 +1525,7 @@
     "prodCafe": "mega",
     "prodContent": "부드러운 우유에 진한 초코소스, 달콤한 휘핑크림의 삼박자 조화로 완성한 달콤 초코 음료.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 397.2kcal",
@@ -1541,7 +1541,7 @@
     "prodCafe": "mega",
     "prodContent": "[기본2샷]메가MGC커피 블렌드 원두로 추출한 에스프레소에 물을 더해, 풍부한 바디감을 느낄 수 있는 스탠다드 커피.",
     "prodPrice": "2,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 12.2kcal",
@@ -1557,7 +1557,7 @@
     "prodCafe": "mega",
     "prodContent": "향긋한 녹차 위에 우유와 휘핑크림을 더해 더 부드럽게 즐길 수 있는 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 571.1kcal",
@@ -1573,7 +1573,7 @@
     "prodCafe": "mega",
     "prodContent": "요거트의 상큼함과 딸기의 상큼함을 상냥하게 어우른 상큼 스무디.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 401.4kcal",
@@ -1589,7 +1589,7 @@
     "prodCafe": "mega",
     "prodContent": "바삭하고 달달한 퐁에 상큼한 딸기와 부드러운 우유, 얼음을 함께 블렌딩해 시원하게 즐기는 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 536.9kcal",
@@ -1605,7 +1605,7 @@
     "prodCafe": "mega",
     "prodContent": "진한 초코소스와 부드러운 바닐라향의 만남으로 질리지 않는 달콤함을 완성한 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 651.1kcal",
@@ -1621,7 +1621,7 @@
     "prodCafe": "mega",
     "prodContent": "열대과일 망고의 진한 단 맛과 산뜻한 요거트의 하모니가 인상적인 스무디.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 374.9kcal",
@@ -1637,7 +1637,7 @@
     "prodCafe": "mega",
     "prodContent": "상쾌한 민트에 달콤하게 씹는 재미를 더한 초콜릿칩의 즐거운 하모니가 매력적인 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 511.7kcal",
@@ -1653,7 +1653,7 @@
     "prodCafe": "mega",
     "prodContent": "바삭하고 달달한 퐁에 부드러운 바나나와 우유, 얼음을 함께 블렌딩해 부드럽고 시원하게 즐기는 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 593.8kcal",
@@ -1669,7 +1669,7 @@
     "prodCafe": "mega",
     "prodContent": "상큼한 딸기 요거트 스무디 위에 고급스런 맛의 치즈케이크가 듬뿍 올라가 먹는 재미를 배가한 스무디.",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 502.4kcal",
@@ -1685,7 +1685,7 @@
     "prodCafe": "mega",
     "prodContent": "리얼 벌꿀이 들어가 더 달콤한 퍼프허니 시리얼과 부드럽게 달달한 초코가 함께 만드는 즐거운 맛의 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 506.2kcal",
@@ -1701,7 +1701,7 @@
     "prodCafe": "mega",
     "prodContent": "바삭한 쿠키와 부드러운 바닐라에 향긋한 에스프레소를 섞어 만든 힐링 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 420.4kcal",
@@ -1717,7 +1717,7 @@
     "prodCafe": "mega",
     "prodContent": "더 시원하게 요거트의 새콤달콤한 맛을 오롯이 만끽할 수 있는 스무디.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 516.5kcal",
@@ -1733,7 +1733,7 @@
     "prodCafe": "mega",
     "prodContent": "바닐라빈 향을 머금은 부드러운 슈크림과 리얼 벌꿀이 들어간 퍼프허니 시리얼을 시원하게 즐기는 프라페.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 568.1kcal",
@@ -1749,7 +1749,7 @@
     "prodCafe": "mega",
     "prodContent": "우유에 죠리퐁 씨리얼이 믹싱 된 얼음을 갈아 만든 시원한 프라페음료",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 468.6kcal",
@@ -1765,7 +1765,7 @@
     "prodCafe": "mega",
     "prodContent": "상큼한 라임과 달콤한 향기의 애플민트가 어우러져 상쾌함을 한잔에 가득 채운 모히또 음료.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 278.6kcal",
@@ -1781,7 +1781,7 @@
     "prodCafe": "mega",
     "prodContent": "시트러스향 가득한 레몬의 상큼함과 톡쏘는 탄산의 상쾌함이 만난 청량 에이드.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 196.8kcal",
@@ -1797,7 +1797,7 @@
     "prodCafe": "mega",
     "prodContent": "레몬에이드의 상큼한 청량감에 블루큐라소의 진한 향미를 더한 에이드.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 225.0kcal",
@@ -1813,7 +1813,7 @@
     "prodCafe": "mega",
     "prodContent": "자몽의 달콤쌉싸름한 맛과 탄산의 톡쏘는 목넘김이 어우러진 트로피컬 에이드.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 203.8kcal",
@@ -1829,7 +1829,7 @@
     "prodCafe": "mega",
     "prodContent": "산뜻한 청포도와 상쾌한 탄산의 달달한 조화가 인상적인 에이드.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 305.4kcal",
@@ -1845,7 +1845,7 @@
     "prodCafe": "mega",
     "prodContent": "섞으면 마법처럼 색이 변하는 재미에 레몬의 상큼함으로 입까지 즐거운 이색 에이드.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 219.9kcal",
@@ -1861,7 +1861,7 @@
     "prodCafe": "mega",
     "prodContent": "섞으면 마법처럼 색이 변하는 재미에 라임의 청량함으로 입까지 즐거운 이색 에이드.",
     "prodPrice": "3,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 275.5kcal",
@@ -1877,7 +1877,7 @@
     "prodCafe": "mega",
     "prodContent": "체리의 새콤함과 청량감을 동시에 즐길 수 있는 환상적인 에이드.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "체리콕One size / 24oz",
       "kcal": "Cherry Coke1회 제공량 323.6kcal",
@@ -1893,7 +1893,7 @@
     "prodCafe": "mega",
     "prodContent": "상큼한 레몬, 상쾌한 라임, 달콤쌉싸름한 자몽의 3색 맛을 한데 어우른 메가MGC커피 시그니처 에이드.",
     "prodPrice": "3,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 292.4kcal",
@@ -1909,7 +1909,7 @@
     "prodCafe": "mega",
     "prodContent": "고소한 감칠맛과 부드러운 목넘김으로 산뜻하게 마음을 위로하는 국내산 녹차.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 0.7kcal",
@@ -1925,7 +1925,7 @@
     "prodCafe": "mega",
     "prodContent": "애플티의 향긋함과 유자청의 상큼달콤함을 한컵에 담아낸 과일티.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 227.1kcal",
@@ -1941,7 +1941,7 @@
     "prodCafe": "mega",
     "prodContent": "홍차 특유의 풍부한 플레이버를 만끽할 수 있는 허브티.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "얼그레이One size / 20oz",
       "kcal": "Earl Grey1회 제공량 0.7kcal",
@@ -1957,7 +1957,7 @@
     "prodCafe": "mega",
     "prodContent": "마음을 진정 시켜주는 산뜻한 풀내음을 느낄 수 있는 허브티.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "캐모마일One size / 20oz",
       "kcal": "Chamomile1회 제공량 0.5kcal",
@@ -1973,7 +1973,7 @@
     "prodCafe": "mega",
     "prodContent": "멘톨향의 묵직한 청량감, 상쾌한 맛과 향이 인상적인 허브티.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 0.2kcal",
@@ -1989,7 +1989,7 @@
     "prodCafe": "mega",
     "prodContent": "고소한 감칠맛과 부드러운 목넘김으로 산뜻하게 마음을 위로하는 국내산 녹차.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 1.0kcal",
@@ -2005,7 +2005,7 @@
     "prodCafe": "mega",
     "prodContent": "애플티의 향긋함과 유자청의 상큼달콤함을 한컵에 담아낸 과일티.",
     "prodPrice": "3,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 242.2kcal",
@@ -2021,7 +2021,7 @@
     "prodCafe": "mega",
     "prodContent": "홍차 특유의 풍부한 플레이버를 만끽할 수 있는 허브티.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 1.3kcal",
@@ -2037,7 +2037,7 @@
     "prodCafe": "mega",
     "prodContent": "마음을 진정 시켜주는 산뜻한 풀내음을 느낄 수 있는 허브티.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 1.3kcal",
@@ -2053,7 +2053,7 @@
     "prodCafe": "mega",
     "prodContent": "멘톨향의 묵직한 청량감, 상쾌한 맛과 향이 인상적인 허브티.",
     "prodPrice": "2,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 2.5kcal",
@@ -2069,7 +2069,7 @@
     "prodCafe": "mega",
     "prodContent": "깊은 맛의 홍차와 달콤한 복숭아의 은은한 향이 어우러진 시원한 여름철 인기 음료.",
     "prodPrice": "3,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_low"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 297.1kcal",
@@ -2085,7 +2085,7 @@
     "prodCafe": "mega",
     "prodContent": "비타민이 가득 든 상큼달콤한 유자를 듬뿍 넣어 향긋한 즐거움을 전하는 과일티.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 286.4kcal",
@@ -2101,7 +2101,7 @@
     "prodCafe": "mega",
     "prodContent": "상큼한 레몬의 맛과 향을 오롯이 살린 비타민C 가득한 과일티.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 275.5kcal",
@@ -2117,7 +2117,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤쌉싸름한 자몽의 조화로운 맛을 한 잔 가득 느낄 수 있는 과일티.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 294.0kcal",
@@ -2133,7 +2133,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤한 꿀청에 재운 자몽에 홍차의 부드러움을 어우른 상큼한 과일티.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 302.2kcal",
@@ -2149,7 +2149,7 @@
     "prodCafe": "mega",
     "prodContent": "비타민이 가득 든 상큼달콤한 유자를 듬뿍 넣어 향긋한 즐거움을 전하는 과일티.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 303.1kcal",
@@ -2165,7 +2165,7 @@
     "prodCafe": "mega",
     "prodContent": "상큼한 레몬의 맛과 향을 오롯이 살린 비타민C 가득한 과일티.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 327.5kcal",
@@ -2181,7 +2181,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤쌉싸름한 자몽의 조화로운 맛을 한 잔 가득 느낄 수 있는 과일티.",
     "prodPrice": "3,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 297.6kcal",
@@ -2197,7 +2197,7 @@
     "prodCafe": "mega",
     "prodContent": "달콤한 꿀청에 재운 자몽에 홍차의 부드러움을 어우른 상큼한 과일티.",
     "prodPrice": "3,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 24oz",
       "kcal": "1회 제공량 265.8kcal",
@@ -2213,7 +2213,7 @@
     "prodCafe": "mega",
     "prodContent": "다채로운 비주얼로 보는 즐거움을 채우고, 달콤함과 상큼함 색깔마다 달라지는 유쾌한 맛까지 잡은 이색프라페.",
     "prodPrice": "4,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "One size / 20oz",
       "kcal": "1회 제공량 474.5kcal",

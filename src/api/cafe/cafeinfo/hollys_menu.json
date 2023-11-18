@@ -5,13 +5,13 @@
     "prodContent": "블랙아리아 원두에 달콤한 연유와 국내산 보늬밤 크림을 더해 고소하고 진한 밤 풍미를 느낄 수 있는 달달한 크림라떼   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다.",
     "prodCafe": "hollys",
     "prodPrice": "6,200",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "310kcal",
       "caffeine": "153mg",
       "sodium": "180mg/9%",
-      "sugars": "",
+      "sugars": "37g",
       "sat_FAT": "9.3g/62%"
     }
   },
@@ -21,7 +21,7 @@
     "prodContent": "스페셜티 블렌드를 사용하여 과일과 베리향의 고급스러운 커피 풍미가 특징인 아메리카노   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다.",
     "prodCafe": "hollys",
     "prodPrice": "5,000",
-    "prodTag": [],
+    "prodTag": ["coffee","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "9kcal",
@@ -37,13 +37,13 @@
     "prodContent": "스페셜티 블렌드를 사용하여 과일과 베리향의 고급스러운 커피 풍미가 특징인 부드러운 라떼*'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다.",
     "prodCafe": "hollys",
     "prodPrice": "5,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "96kcal",
       "caffeine": "153mg",
       "sodium": "73mg/4%",
-      "sugars": "",
+      "sugars": "7g",
       "sat_FAT": "3.4g/23%"
     }
   },
@@ -53,7 +53,7 @@
     "prodContent": "듀얼브루 원액으로 만든 부드러운 풍미와 균형잡힌 바디감의 디카페인 아메리카노",
     "prodCafe": "hollys",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["coffee","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "12kcal",
@@ -69,13 +69,13 @@
     "prodContent": "듀얼브루 원액으로 만든 부드러운 풍미와 균형 잡힌 바디감의 디카페인 카페 라떼",
     "prodCafe": "hollys",
     "prodPrice": "5,600",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice/hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "114kcal",
       "caffeine": "3mg",
       "sodium": "91mg/5%",
-      "sugars": "",
+      "sugars": "8.5g",
       "sat_FAT": "3.9g/26%"
     }
   },
@@ -85,13 +85,13 @@
     "prodContent": "듀얼브루 원액으로 만들어 더욱 부드럽고 편안해진 바닐라 딜라이트 (*바닐라 딜라이트 제조에 사용되는 파우더에 카페인이 일부 함유되어 있음)",
     "prodCafe": "hollys",
     "prodPrice": "6,500",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice/hot","k_mid","s_mid","p_high"],
     "prodDetail": {
       "volume": "",
       "kcal": "192kcal",
       "caffeine": "25mg",
       "sodium": "1478mg/7%",
-      "sugars": "",
+      "sugars": "25g",
       "sat_FAT": "4.8g/32%"
     }
   },
@@ -101,13 +101,13 @@
     "prodContent": "실키한 연유베이스에 콜드브루를 넣어 부담없이 즐기는 라떼   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "6,400",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "198kcal",
       "caffeine": "195mg",
       "sodium": "106mg/5%",
-      "sugars": "",
+      "sugars": "24g",
       "sat_FAT": "4.8g/32%"
     }
   },
@@ -117,13 +117,13 @@
     "prodContent": "콜드브루 커피의 풍부한 풍미와 우유의 고소함이 더해진 라떼   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "5,600",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "114kcal",
       "caffeine": "195mg",
       "sodium": "88mg/4%",
-      "sugars": "",
+      "sugars": "9g",
       "sat_FAT": "3.9g/26%"
     }
   },
@@ -133,7 +133,7 @@
     "prodContent": "콜드브루 전용 블렌드를 상온의 물로 오랜시간 추출해 달콤한 산미와 부드러운 바디감이 살아있는 커피  *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "5,100",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "12kcal",
@@ -155,7 +155,7 @@
       "kcal": "199kcal",
       "caffeine": "83mg",
       "sodium": "155mg/8%",
-      "sugars": "",
+      "sugars": "25g",
       "sat_FAT": "4.9g/33%"
     }
   },
@@ -165,13 +165,13 @@
     "prodContent": "달콤한 연유와 고소한 할리스 원두, 크리미한 바디가 절묘하게 어우러진 시즌 스페셜 메뉴  *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "6,100",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice/hot","k_mid","s_mid","p_high"],
     "prodDetail": {
       "volume": "",
       "kcal": "154kcal",
       "caffeine": "93mg",
       "sodium": "93mg/5%",
-      "sugars": "",
+      "sugars": "18g",
       "sat_FAT": "3.9g/26%"
     }
   },
@@ -181,13 +181,13 @@
     "prodContent": "진한 에스프레소에 바닐라 시럽과 카라멜소스가 더해진 카라멜 커피음료의 대표   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "6,100",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice/hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "161kcal",
       "caffeine": "127mg",
       "sodium": "80mg/4%",
-      "sugars": "",
+      "sugars": "19g",
       "sat_FAT": "3.6g/24%"
     }
   },
@@ -197,13 +197,13 @@
     "prodContent": "진한 에스프레소와 우유, 달콤 쌉싸름한 초콜릿이 어우러진 커피   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "5,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice/hot","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "175kcal",
       "caffeine": "132mg",
       "sodium": "92mg/5%",
-      "sugars": "",
+      "sugars": "23g",
       "sat_FAT": "3.4g/23%"
     }
   },
@@ -213,13 +213,13 @@
     "prodContent": "에스프레소에 실키하고 폭신폭신한 우유 거품이 풍부하게 더해진 커피   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "5,700",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "149kcal",
       "caffeine": "127mg",
       "sodium": "115mg/6%",
-      "sugars": "",
+      "sugars": "10g",
       "sat_FAT": "5.3g/36%"
     }
   },
@@ -229,13 +229,13 @@
     "prodContent": "진한 에스프레소에 우유를 넣어 풍부한 커피향을 부드럽게 즐길 수 있는 커피   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "5,200",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "96kcal",
       "caffeine": "127mg",
       "sodium": "72mg/4%",
-      "sugars": "",
+      "sugars": "7g",
       "sat_FAT": "3.3g/22%"
     }
   },
@@ -245,7 +245,7 @@
     "prodContent": "진한 에스프레소의 맛과 향을 부드럽게 즐길 수 있는 아메리칸 스타일의 커피    *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["coffee","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "12kcal",
@@ -261,13 +261,13 @@
     "prodContent": "바닐라 아이스크림과 리스트레또 더블샷이 어우러져 부드럽고 진한 맛의 아포가토  *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "6,200",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "207kcal",
       "caffeine": "93mg",
       "sodium": "36mg/2%",
-      "sugars": "",
+      "sugars": "15g",
       "sat_FAT": "7.4g/49%"
     }
   },
@@ -277,7 +277,7 @@
     "prodContent": "강렬한 첫 맛, 풍부한 바디감, 깔끔한 뒷 맛이 특징인 커피의 심장  *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "4,000",
-    "prodTag": [],
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "5kcal",
@@ -293,13 +293,13 @@
     "prodContent": "향긋한 홍차의 풍미와 부드러운 우유가 쫀득한 타피오카펄과 만나 고소하게 즐기는 버블티",
     "prodCafe": "hollys",
     "prodPrice": "6,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "352kcal",
       "caffeine": "-",
       "sodium": "109mg/5%",
-      "sugars": "",
+      "sugars": "30g",
       "sat_FAT": "4.2g/28%"
     }
   },
@@ -309,13 +309,13 @@
     "prodContent": "흑당의 진한 풍미에 쫀득한 타피오카펄을 더해 달달하게 즐기는 버블티",
     "prodCafe": "hollys",
     "prodPrice": "5,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "316kcal",
       "caffeine": "-",
       "sodium": "108mg/5%",
-      "sugars": "",
+      "sugars": "34g",
       "sat_FAT": "3.7g/25%"
     }
   },
@@ -325,13 +325,13 @@
     "prodContent": "달콤한 파인애플 과육과 상큼한 시트러스청이 향긋한 캐모마일과 어우러진 핑크빛 티 베리에이션 음료",
     "prodCafe": "hollys",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "183kcal",
       "caffeine": "-",
       "sodium": "15mg/1%",
-      "sugars": "",
+      "sugars": "40g",
       "sat_FAT": "0.0g/0%"
     }
   },
@@ -341,13 +341,13 @@
     "prodContent": "제주산 말차 파우더로 만들어 깊고 진한 말차 본연의 풍미를 살린 라떼   *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
     "prodCafe": "hollys",
     "prodPrice": "6,000",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice/hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "251kcal",
       "caffeine": "129mg",
       "sodium": "79mg/4%",
-      "sugars": "",
+      "sugars": "36g",
       "sat_FAT": "3.6g/24%"
     }
   },
@@ -357,13 +357,13 @@
     "prodContent": "진한 민트 맛이 특징인 상쾌하면서 부드러운 맛의 민트 초코 라떼",
     "prodCafe": "hollys",
     "prodPrice": "5,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice/hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "309kcal",
       "caffeine": "1mg",
       "sodium": "145mg/7%",
-      "sugars": "",
+      "sugars": "46g",
       "sat_FAT": "7.0g/47%"
     }
   },
@@ -373,119 +373,119 @@
     "prodContent": "진한 초콜렛과 우유가 어우러져 달콤한 초콜릿 음료",
     "prodCafe": "hollys",
     "prodPrice": "5,600",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice/hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "243kcal",
       "caffeine": "8mg",
       "sodium": "126mg/6%",
-      "sugars": "",
+      "sugars": "34g",
       "sat_FAT": "5.0g/33%"
     }
   },
   {
     "prodName": "화이트초코",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310246124330.png",
-    "prodContent": "은은한 향의 캐모마일과 유자차를 같이 느낄 수 있는 티베리에이션 음료",
+    "prodContent": "화이트 초콜릿에 따뜻한 우유가 더해진 달콤한 음료",
     "prodCafe": "hollys",
     "prodPrice": "5,600",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "157kcal",
       "caffeine": "-",
       "sodium": "16mg/1%",
-      "sugars": "",
+      "sugars": "35g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "유자 캐모마일",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211220639114810.png",
-    "prodContent": "달콤한 복숭아와 얼그레이의 베르가못 향의 조화, 깔끔하면서도 달콤한 티베리에이션 음료",
+    "prodContent": "은은한 향의 캐모마일과 유자차를 같이 느낄 수 있는 티베리에이션 음료",
     "prodCafe": "hollys",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "109kcal",
       "caffeine": "33mg",
       "sodium": "4mg/0%",
-      "sugars": "",
+      "sugars": "34g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "복숭아 얼그레이",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211220637225060.png",
-    "prodContent": "자몽과일 특유의 달콤 쌉싸름한 맛을 즐길 수 있는 과일차",
+    "prodContent": "달콤한 복숭아와 얼그레이의 베르가못 향의 조화, 깔끔하면서도 달콤한 티베리에이션 음료",
     "prodCafe": "hollys",
     "prodPrice": "5,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "136kcal",
       "caffeine": "-",
       "sodium": "8mg/0%",
-      "sugars": "",
+      "sugars": "26g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "홍자몽차",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211230142517210.png",
-    "prodContent": "향긋한 한라봉과 감귤이 어우러져 상큼하면서도 달콤한 과일차",
+    "prodContent": "자몽과일 특유의 달콤 쌉싸름한 맛을 즐길 수 있는 과일차",
     "prodCafe": "hollys",
     "prodPrice": "5,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "199kcal",
       "caffeine": "-",
       "sodium": "6mg/0%",
-      "sugars": "",
+      "sugars": "32g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "제주 한라봉 감귤차",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210110501230160.png",
-    "prodContent": "고흥 유자의 풍미를 살린 할리스 유자차",
+    "prodContent": "향긋한 한라봉과 감귤이 어우러져 상큼하면서도 달콤한 과일차",
     "prodCafe": "hollys",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "252kcal",
       "caffeine": "-",
       "sodium": "23mg/1%",
-      "sugars": "",
+      "sugars": "48g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "고흥 유자차",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211230139439940.png",
-    "prodContent": "고소한 감칠맛과 부드러운 목넘김이 좋은 땅끝 마음 해남에서 재배한 녹차(유기농 녹차잎 사용)",
+    "prodContent": "고흥 유자의 풍미를 살린 할리스 유자차",
     "prodCafe": "hollys",
     "prodPrice": "4,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "4kcal",
-      "caffeine": "25mg",
-      "sodium": "5mg/0%",
-      "sugars": "",
+      "kcal": "221kcal",
+      "caffeine": "0mg",
+      "sodium": "23mg/0%",
+      "sugars": "51g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "해남 녹차",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211230143139820.png",
-    "prodContent": "입안 가득 깔끔한 청량감으로 기분까지 상쾌한 허브차",
+    "prodContent": "고소한 감칠맛과 부드러운 목넘김이 좋은 땅끝 마음 해남에서 재배한 녹차(유기농 녹차잎 사용)",
     "prodCafe": "hollys",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "5kcal",
@@ -498,10 +498,10 @@
   {
     "prodName": "페퍼민트",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211230143370070.png",
-    "prodContent": "캐모마일 꽃잎을 그대로 말려 노란색의 향긋한 꽃향이 그대로 살아 있는 허브차",
+    "prodContent": "입안 가득 깔끔한 청량감으로 기분까지 상쾌한 허브차",
     "prodCafe": "hollys",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "5kcal",
@@ -514,10 +514,10 @@
   {
     "prodName": "캐모마일",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211230144001840.png",
-    "prodContent": "스리랑카 캔디 지방에서 재배된 홍차에 시칠리아의 감귤,베르가못향이 조화된 감미로운 홍차",
+    "prodContent": "캐모마일 꽃잎을 그대로 말려 노란색의 향긋한 꽃향이 그대로 살아 있는 허브차스리랑카 캔디 지방에서 재배된 홍차에 시칠리아의 감귤,베르가못향이 조화된 감미로운 홍차",
     "prodCafe": "hollys",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "5kcal",
@@ -530,256 +530,288 @@
   {
     "prodName": "얼그레이",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211230143470320.png",
-    "prodContent": "제주산 말차 파우더로 만들어 깊고 진한 말차 본연의 풍미를 살린 할리치노 *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
+    "prodContent": "스리랑카 캔디 지방에서 재배된 홍차에 시칠리아의 감귤,베르가못향이 조화된 감미로운 홍차",
     "prodCafe": "hollys",
     "prodPrice": "4,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice/hot","k_low","s_low","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "372kcal",
-      "caffeine": "194mg",
-      "sodium": "92mg/5%",
+      "kcal": "5kcal",
+      "caffeine": "17mg",
+      "sodium": "4mg/5%",
       "sugars": "",
-      "sat_FAT": "4.2g/28%"
+      "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "제주 말차 할리치노",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202211041130106630.png",
-    "prodContent": "초코칩이 콕콕 박힌 상쾌하면서 청량한 민트 맛의 블렌디드 음료",
+    "prodContent": "제주산 말차 파우더로 만들어 깊고 진한 말차 본연의 풍미를 살린 할리치노",
     "prodCafe": "hollys",
     "prodPrice": "6,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie", "ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "377kcal",
-      "caffeine": "1mg",
-      "sodium": "170mg/8%",
-      "sugars": "",
+      "kcal": "426kcal",
+      "caffeine": "194mg",
+      "sodium": "1120mg/6%",
+      "sugars": "61g",
       "sat_FAT": "8.1g/54%"
     }
   },
   {
     "prodName": "민트 초코칩 할리치노",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202110010931501660.png",
-    "prodContent": "치즈케익맛 아이스블렌디드 음료에 상큼한 딸기를 토핑한 할리스 시그니처 메뉴",
+    "prodContent": "초코칩이 콕콕 박힌 상쾌하면서 청량한 민트 맛의 블렌디드 음료",
     "prodCafe": "hollys",
     "prodPrice": "6,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "315kcal",
+      "kcal": "438kcal",
       "caffeine": "-",
-      "sodium": "154mg/8%",
-      "sugars": "",
-      "sat_FAT": "6g/40%"
+      "sodium": "227mg/11%",
+      "sugars": "57g",
+      "sat_FAT": "12.8g/85%"
     }
   },
   {
     "prodName": "딸기 치즈케익 할리치노",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210110502160930.png",
-    "prodContent": "저지방우유에 유산균이 살아있는 요거트를 더한 슬러쉬",
+    "prodContent": "치즈케익맛 아이스블렌디드 음료에 상큼한 딸기를 토핑한 할리스 시그니처 메뉴",
     "prodCafe": "hollys",
     "prodPrice": "6,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee", "smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "292kcal",
+      "kcal": "415kcal",
       "caffeine": "0mg",
-      "sodium": "202mg/10%",
-      "sugars": "",
-      "sat_FAT": "0.9g/6%"
+      "sodium": "166mg/8%",
+      "sugars": "59g",
+      "sat_FAT": "10.2g/68%"
     }
   },
   {
     "prodName": "플레인 요거트 할리치노",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100951097770.png",
-    "prodContent": "벨기에산 리얼 다크초콜릿이 씹히는 시원하고 진한 초콜릿 음료",
+    "prodContent": "저지방우유에 유산균이 살아있는 요거트를 더한 슬러쉬",
     "prodCafe": "hollys",
     "prodPrice": "6,100",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "543kcal",
-      "caffeine": "13mg",
-      "sodium": "31mg/2%",
-      "sugars": "",
-      "sat_FAT": "18.1g/121%"
+      "kcal": "292kcal",
+      "caffeine": "0mg",
+      "sodium": "202mg/10%",
+      "sugars": "58g",
+      "sat_FAT": "0.9g/6%"
     }
   },
   {
     "prodName": "다크초코칩 할리치노",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100937026020.png",
-    "prodContent": "콜드브루와 우유, 얼음이 갈린 할리치노 *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다",
+    "prodContent": "벨기에산 리얼 다크초콜릿이 씹히는 시원하고 진한 초콜릿 음료",
     "prodCafe": "hollys",
     "prodPrice": "6,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "208kcal",
-      "caffeine": "91mg",
-      "sodium": "162mg/8%",
-      "sugars": "",
-      "sat_FAT": "3.3g/22%"
+      "kcal": "587kcal",
+      "caffeine": "13mg",
+      "sodium": "51mg/3%",
+      "sugars": "52",
+      "sat_FAT": "22.4g/149%"
     }
   },
   {
     "prodName": "콜드브루 할리치노",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100953397860.png",
-    "prodContent": "당도 높은 국내산 사과 스무디에 문경 오미자를 더해 달콤하고 상큼하게 즐길 수 있는 스무디",
+    "prodContent": "콜드브루와 우유, 얼음이 갈린 할리치노 *'고카페인 함유' 제품으로 어린이, 임신부, 카페인 민감자는 섭취에 주의하여 주시기 바랍니다당도 높은 국내산 사과 스무디에 문경 오미자를 더해 달콤하고 상큼하게 즐길 수 있는 스무디",
     "prodCafe": "hollys",
     "prodPrice": "6,100",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "287kcal",
-      "caffeine": "-",
-      "sodium": "41mg/2%",
-      "sugars": "",
-      "sat_FAT": "0.3g/2%"
+      "kcal": "264kcal",
+      "caffeine": "91mg",
+      "sodium": "182mg/9%",
+      "sugars": "35g",
+      "sat_FAT": "7.5g/50%"
     }
   },
   {
     "prodName": "문경 오미자 사과 스무디",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202308250234190530.png",
-    "prodContent": "달콤한 오렌지와 상큼한 자몽을 그대로 갈아만든 신선한 주스에 오렌지를 듬뿍 토핑한 생과일 주스",
+    "prodContent": "당도 높은 국내산 사과 스무디에 문경 오미자를 더해 달콤하고 상큼하게 즐길 수 있는 스무디",
     "prodCafe": "hollys",
     "prodPrice": "6,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee", "smoothie","ice","k_high","s_high","p_high"],
     "prodDetail": {
       "volume": "",
-      "kcal": "190kcal",
+      "kcal": "287kcal",
       "caffeine": "-",
-      "sodium": "23mg/1%",
-      "sugars": "",
-      "sat_FAT": "0.1g/0%"
+      "sodium": "41mg/2%",
+      "sugars": "58g",
+      "sat_FAT": "0.3g/2%"
     }
   },
   {
     "prodName": "오렌지 자몽 싱싱 주스",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202309080122059030.png",
-    "prodContent": "과즙 가득한 복숭아 슬러쉬 안에 톡톡 씹히는 딸기 과육이 더해진 음료",
+    "prodContent": "달콤한 오렌지와 상큼한 자몽을 그대로 갈아만든 신선한 주스에 오렌지를 듬뿍 토핑한 생과일 주스",
     "prodCafe": "hollys",
     "prodPrice": "6,500",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_high"],
     "prodDetail": {
       "volume": "",
-      "kcal": "193kcal",
+      "kcal": "190kcal",
       "caffeine": "-",
-      "sodium": "9mg/0%",
-      "sugars": "",
-      "sat_FAT": "0.0g/0%"
+      "sodium": "23mg/1%",
+      "sugars": "39g",
+      "sat_FAT": "0.1g/0%"
     }
   },
   {
     "prodName": "피치 딸기 크러쉬",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310252296410.png",
-    "prodContent": "상큼 달콤한 애플망고 과육을 갈아 만든 과일 스무디",
+    "prodContent": "과즙 가득한 복숭아 슬러쉬 안에 톡톡 씹히는 딸기 과육이 더해진 음료",
     "prodCafe": "hollys",
     "prodPrice": "5,900",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "260kcal",
+      "kcal": "193kcal",
       "caffeine": "-",
-      "sodium": "14mg/1%",
-      "sugars": "",
+      "sodium": "9mg/0%",
+      "sugars": "47g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "애플망고 스무디",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210110502441180.png",
-    "prodContent": "딸기 본연의 맛을 살려 갈아 만든 과일 스무디",
+    "prodContent": "상큼 달콤한 애플망고 과육을 갈아 만든 과일 스무디",
     "prodCafe": "hollys",
     "prodPrice": "6,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "247kcal",
+      "kcal": "260kcal",
       "caffeine": "0",
-      "sodium": "44mg/2%",
-      "sugars": "",
+      "sodium": "14mg/1%",
+      "sugars": "49g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "딸기 스무디",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100937335850.png",
-    "prodContent": "청포도, 케일, 밀싹이 어우러진 산뜻한 과채 주스",
+    "prodContent": "딸기 본연의 맛을 살려 갈아 만든 과일 스무디",
     "prodCafe": "hollys",
     "prodPrice": "6,300",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "129kcal",
+      "kcal": "247kcal",
       "caffeine": "-",
-      "sodium": "29mg/1%",
-      "sugars": "",
+      "sodium": "44mg/2%",
+      "sugars": "44g",
       "sat_FAT": "0%/0%"
     }
   },
   {
     "prodName": "사과 비트 착즙 주스",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100950406030.png",
-    "prodContent": "오렌지, 당근, 사과가 어우러진 달콤한 과채 주스",
+    "prodContent": "사과, 비트, 파인애플이 어우러진 건강한 과채 주스",
     "prodCafe": "hollys",
     "prodPrice": "5,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_mid","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "120kcal",
+      "kcal": "125kcal",
       "caffeine": "-",
-      "sodium": "55mg/3%",
-      "sugars": "",
+      "sodium": "45mg/2%",
+      "sugars": "25g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "오렌지 당근 착즙 주스",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210310252098460.png",
-    "prodContent": "달콤한 고흥유자와 쌉싸름한 자몽이 들어간 시원한 스파클링 음료",
+    "prodContent": "오렌지, 당근, 사과가 어우러진 달콤한 과채 주스",
     "prodCafe": "hollys",
     "prodPrice": "5,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "233kcal",
+      "kcal": "120kcal",
       "caffeine": "-",
-      "sodium": "33mg/2%",
-      "sugars": "",
+      "sodium": "55mg/3%",
+      "sugars": "23",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "청포도케일 착즙주스",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202205100951325540.png",
-    "prodContent": "청량감 가득한 탄산수와 복숭아, 자두가 상큼달콤하게 어우러진 스파클링 음료",
+    "prodContent": "청포도, 케일, 밀싹이 어우러진 산뜻한 과채 주스",
     "prodCafe": "hollys",
     "prodPrice": "5,700",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
-      "kcal": "179kcal",
+      "kcal": "129kcal",
       "caffeine": "0",
-      "sodium": "6mg/0%",
-      "sugars": "",
+      "sodium": "29mg/1%",
+      "sugars": "27g",
       "sat_FAT": "0.0g/0%"
     }
   },
   {
     "prodName": "유자몽 스파클링",
     "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202308310521561020.png",
+    "prodContent": "달콤한 고흥유자와 쌉싸름한 자몽이 들어간 시원한 스파클링 음료",
+    "prodCafe": "hollys",
+    "prodPrice": "5,800",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "",
+      "kcal": "233kcal",
+      "caffeine": "0",
+      "sodium": "33mg/2%",
+      "sugars": "47",
+      "sat_FAT": "0.0g/0%"
+    }
+  },
+  {
+    "prodName": "복숭아 자두 스파클링",
+    "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210110458408540.png",
+    "prodContent": "청량감 가득한 탄산수와 복숭아, 자두가 상큼달콤하게 어우러진 스파클링 음료",
+    "prodCafe": "hollys",
+    "prodPrice": "5,800",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodDetail": {
+      "volume": "",
+      "kcal": "178kcal",
+      "caffeine": "0",
+      "sodium": "6mg/0%",
+      "sugars": "43",
+      "sat_FAT": "0.0g/0%"
+    }
+  },
+  {
+    "prodName": "청포도 스파클링",
+    "prodImage": "https://admin.hollys.co.kr/upload/menu/etc/menuEtc_202210110458315470.png",
     "prodContent": "청량감 가득한 탄산수와 탱글탱글한 청포도가 상큼달콤하게 어우러진 스파클링 음료",
     "prodCafe": "hollys",
     "prodPrice": "5,800",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodDetail": {
       "volume": "",
       "kcal": "204kcal",
       "caffeine": "0",
       "sodium": "22mg/1%",
-      "sugars": "",
+      "sugars": "46",
       "sat_FAT": "0.0g/0%"
     }
   }

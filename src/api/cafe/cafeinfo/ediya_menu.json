@@ -4,7 +4,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174106292.png",
     "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
@@ -20,7 +20,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174584126.png",
     "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
     "prodPrice": "5,500",
     "prodDetail": {
       "volume": "",
@@ -36,7 +36,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174882301.png",
     "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
@@ -52,7 +52,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692174977374.png",
     "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "5,500",
     "prodDetail": {
       "volume": "",
@@ -68,7 +68,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692175123842.png",
     "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
@@ -84,12 +84,12 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1692175240305.png",
     "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
     "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
       "kcal": "(212kcal)",
-      "caffeine": "",
+      "caffeine": "(22mg)",
       "sodium": "(16mg)",
       "sugars": "(48g)",
       "sat_FAT": "(0g)"
@@ -100,7 +100,7 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1694414812893.png",
     "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
@@ -116,12 +116,12 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1694414794668.png",
     "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "5,400",
     "prodDetail": {
       "volume": "",
       "kcal": "(485kcal)",
-      "caffeine": "",
+      "caffeine": "(33mg)",
       "sodium": "(359mg)",
       "sugars": "(56g)",
       "sat_FAT": "(12g)"
@@ -130,160 +130,160 @@
   {
     "prodName": "ICED 토피넛 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1694414746800.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
+      "kcal": "(222kcal)",
+      "caffeine": "(22mg)",
+      "sodium": "(160mg)",
       "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sat_FAT": "(4.4g)"
     }
   },
   {
     "prodName": "(EX) ICED 토피넛 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1694415549864.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "5,400",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(350kcal)",
+      "caffeine": "(33mg)",
+      "sodium": "(254mg)",
+      "sugars": "(45g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 버블 블랙 토피넛 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1694415913321.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(327kcal)",
+      "caffeine": "(11mg)",
+      "sodium": "(130mg)",
+      "sugars": "(36g)",
+      "sat_FAT": "(3.7g)"
     }
   },
   {
     "prodName": "HOT 토피넛 쇼콜라",
     "prodImage": "https://ediya.com/files/menu/IMG_1694416098636.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "5,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(443kcal)",
+      "caffeine": "(18mg",
+      "sodium": "(209mg)",
+      "sugars": "(48g)",
+      "sat_FAT": "(19g)"
     }
   },
   {
     "prodName": "ICED 토피넛 쇼콜라",
     "prodImage": "https://ediya.com/files/menu/IMG_1694416381789.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(388kcal)",
+      "caffeine": "(18mg)",
+      "sodium": "(167mg)",
+      "sugars": "(40g)",
+      "sat_FAT": "(17g)"
     }
   },
   {
     "prodName": "(EX) ICED 토피넛 쇼콜라",
     "prodImage": "https://ediya.com/files/menu/IMG_1694416550627.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "5,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(627kcal)",
+      "caffeine": "(34mg)",
+      "sodium": "(293mg)",
+      "sugars": "(70g)",
+      "sat_FAT": "(24g)"
     }
   },
   {
     "prodName": "블루문 에이드",
     "prodImage": "https://ediya.com/files/menu/IMG_1686560524185.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "달콤한 청포도와 상큼한 사과향이 어우러진 청량감 있는 맛이 특징, 푸른빛 컬러와 바닷속을 연상시키는 스프링클 토핑어 더해져 눈과 입이 즐거운 이디야 시그니처 에이드",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,700",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
+      "kcal": "(200kcal)",
       "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "sodium": "(5mg)",
+      "sugars": "(44g)",
+      "sat_FAT": "(0.2g)"
     }
   },
   {
     "prodName": "더블 초코칩 쉐이크",
     "prodImage": "https://ediya.com/files/menu/IMG_1688351274794.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "젤라또 플레이버를 음료로 즐길 수 있는 메뉴로, 묵직한 바닐라향의 풍미와 초콜릿 칩의 씹히는 식감을 조화롭게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,900",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
-      "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "kcal": "(501kcal)",
+      "caffeine": "(11mg)",
+      "sodium": "(66mg)",
+      "sugars": "(83g)",
+      "sat_FAT": "(18g)"
     }
   },
   {
     "prodName": "피스타치오 쉐이크",
     "prodImage": "https://ediya.com/files/menu/IMG_1688351123852.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "젤라또 플레이버를 음료로 즐길 수 있는 메뉴로, 피스타치오의 고소함과 카라멜 토핑의 바삭한 식감을 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,500",
+    "prodTag": ["-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
+      "kcal": "(424kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(81mg)",
+      "sugars": "(73g)",
+      "sat_FAT": "(3.1g)"
     }
   },
   {
     "prodName": "생과일 수박주스",
     "prodImage": "https://ediya.com/files/menu/IMG_1684299991102.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "생과일을 그대로 담아 청량하고 시원한 수박 주스 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_low","s_mid","p_mid"],
     "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
+      "kcal": "(72kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(26mg)",
+      "sugars": "(14g)",
       "sat_FAT": "(0g)"
     }
   },
@@ -292,2366 +292,2366 @@
     "prodImage": "https://ediya.com/files/menu/IMG_1684300102851.png",
     "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,200",
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "6,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
+      "kcal": "(141kcal)",
       "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
+      "sodium": "(52mg)",
+      "sugars": "(27g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "생과일 수박 리프레싱 모히토",
     "prodImage": "https://ediya.com/files/menu/IMG_1684300375641.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "생과일 수박에 상큼한 레몬과 향긋한 모히토 베이스가 더해져 더욱 청량하게 마실 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
+      "kcal": "(165kcal)",
       "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(11mg)",
+      "sugars": "(35g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "(EX) 생과일 수박 리프레싱 모히토",
     "prodImage": "https://ediya.com/files/menu/IMG_1684300375641.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "생과일 수박에 상큼한 레몬과 향긋한 모히토 베이스가 더해져 더욱 청량하게 마실 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodPrice": "6,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(248kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(16mg)",
+      "sugars": "(52g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "생과일 토마토 주스",
     "prodImage": "https://ediya.com/files/menu/IMG_1684300616217.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "생과일을 그대로 넣고 갈아 만들어 새콤달콤하고 시원한 토마토 주스 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(128kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(37mg)",
+      "sugars": "(21g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) 생과일 토마토 주스",
     "prodImage": "https://ediya.com/files/menu/IMG_1684300699164.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "생과일을 그대로 넣고 갈아 만들어 새콤달콤하고 시원한 토마토 주스 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodPrice": "6,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
+      "kcal": "(233kcal)",
       "caffeine": "",
       "sodium": "(200mg)",
-      "sugars": "(33g)",
+      "sugars": "(70g)",
       "sat_FAT": "(6g)"
     }
   },
   {
     "prodName": "ICED 딸기 듬뿍 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1672618018525.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "달콤한 딸기의 식감과 상큼함을 듬뿍 담은 딸기 라떼",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "3,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(217kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(74mg)",
+      "sugars": "(28g)",
+      "sat_FAT": "(3.4g)"
     }
   },
   {
     "prodName": "(EX) 딸기 듬뿍 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1672618812774.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "달콤한 딸기의 식감과 상큼함을 듬뿍 담은 딸기 라떼",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "6,100",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
+      "kcal": "(290kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(102mg)",
+      "sugars": "(35g)",
+      "sat_FAT": "(4.7g)"
     }
   },
   {
     "prodName": "ICED 바닐라 오트 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1678753103297.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "오트의 고소함과 부드러운 바닐라 크림이 콜드브루와 어우러져 담백하게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "6,300",
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(206kcal)",
+      "caffeine": "(78mg)",
+      "sodium": "(151mg)",
+      "sugars": "(16g)",
+      "sat_FAT": "(4.4g)"
     }
   },
   {
     "prodName": "ICED 디카페인 바닐라 오트 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1678753482451.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "오트의 고소함과 부드러운 바닐라 크림이 콜드브루와 어우러져 담백하게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_mid","p_mid"],
     "prodPrice": "6,300",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(205kcal)",
+      "caffeine": "(2mg)",
+      "sodium": "(151mg)",
+      "sugars": "(16g)",
+      "sat_FAT": "(4.4g)"
     }
   },
   {
     "prodName": "(L) ICED 넛츠 크림 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1671587873712.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "부드러운 크림과 에스프레소, 너티 플레이버가 어우러져 만들어진 완벽한 한 잔의 라떼",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "6,300",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(429kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(308mg)",
+      "sugars": "(51g)",
+      "sat_FAT": "(14g)"
     }
   },
   {
     "prodName": "ICED 살얼음 식혜",
     "prodImage": "https://ediya.com/files/menu/IMG_1660608743501.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "밥알이 씹히는 정성 가득 식혜에 살얼음을 띄워 더욱 시원하게 즐길 수 있는 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "11,800",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(219kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "sodium": "(2mg)",
+      "sugars": "(50g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 살얼음 식혜",
     "prodImage": "https://ediya.com/files/menu/IMG_1660608842680.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "밥알이 씹히는 정성 가득 식혜에 살얼음을 띄워 더욱 시원하게 즐길 수 있는 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "11,800",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(391kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(4mg)",
+      "sugars": "(89g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 그린 루이보스",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324593188.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "복숭아 한 조각을 베어 문 잔향이 입안에 남는 맑은 수색의 루이보스 티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "11,800",
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
+    "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
+      "kcal": "(8kcal)",
       "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "sodium": "(5mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 그린 루이보스",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324575877.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "복숭아 한 조각을 베어 문 잔향이 입안에 남는 맑은 수색의 루이보스 티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
+    "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(8kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(5mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) HOT 그린 루이보스",
     "prodImage": "https://ediya.com/files/menu/IMG_1671596542380.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "복숭아 한 조각을 베어 문 잔향이 입안에 남는 맑은 수색의 루이보스 티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
+      "kcal": "(16kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "sodium": "(11mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 그린 루이보스",
     "prodImage": "https://ediya.com/files/menu/IMG_1671596605212.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "복숭아 한 조각을 베어 문 잔향이 입안에 남는 맑은 수색의 루이보스 티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
+      "kcal": "(16kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(11mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 샤인 히비스커스",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322695193.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "사과, 오렌지, 레몬그라스 등이 블렌딩 된 과일향 가득한 새콤달콤한 맛의 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,200",
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
+    "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
+      "kcal": "(6kcal)",
       "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
+      "sodium": "(0g)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 샤인 히비스커스",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322703601.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "사과, 오렌지, 레몬그라스 등이 블렌딩 된 과일향 가득한 새콤달콤한 맛의 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
+      "kcal": "(6kcal)",
       "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
+      "sodium": "(0g)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) HOT 샤인 히비스커스",
     "prodImage": "https://ediya.com/files/menu/IMG_1671595438536.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "사과, 오렌지, 레몬그라스 등이 블렌딩 된 과일향 가득한 새콤달콤한 맛의 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(13kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "sodium": "(0g)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 샤인 히비스커스",
     "prodImage": "https://ediya.com/files/menu/IMG_1671595525825.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "사과, 오렌지, 레몬그라스 등이 블렌딩 된 과일향 가득한 새콤달콤한 맛의 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(13kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(0g)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 스프링 캐모마일",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322717592.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "캐모마일과 루이보스, 레몬그라스 등이 블렌딩 되어 은은함이 돋보이는 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
     "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
+      "kcal": "(8kcal)",
       "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "sodium": "(2mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 스프링 캐모마일",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322726556.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "캐모마일과 루이보스, 레몬그라스 등이 블렌딩 되어 은은함이 돋보이는 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(8kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(2mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) HOT 스프링 캐모마일",
     "prodImage": "www.https://ediya.com/files/menu/IMG_1671595271667.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "캐모마일과 루이보스, 레몬그라스 등이 블렌딩 되어 은은함이 돋보이는 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
+      "kcal": "(15kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "sodium": "(4mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 스프링 캐모마일",
     "prodImage": "https://ediya.com/files/menu/IMG_1671595337284.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "캐모마일과 루이보스, 레몬그라스 등이 블렌딩 되어 은은함이 돋보이는 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
+      "kcal": "(15kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(4mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 퓨어 페퍼민트",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322800672.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "입 안 가득 청량함이 느껴지는 상쾌한 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
     "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
+      "kcal": "(5kcal)",
       "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
+      "sodium": "(2mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 퓨어 페퍼민트",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322809136.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "입 안 가득 청량함이 느껴지는 상쾌한 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
+      "kcal": "(5kcal)",
       "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
+      "sodium": "(2mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) HOT 퓨어 페퍼민트",
     "prodImage": "https://ediya.com/files/menu/IMG_1671595635409.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "입 안 가득 청량함이 느껴지는 상쾌한 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(11kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "sodium": "(5mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 퓨어 페퍼민트",
     "prodImage": "https://ediya.com/files/menu/IMG_1671595852837.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "입 안 가득 청량함이 느껴지는 상쾌한 허브티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(11kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(5mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 피치 얼그레이",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322847327.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "깊고 그윽한 홍차와 달콤한 복숭아 향이 어우러지는 깔끔한 맛의 얼그레이 티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
     "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(8kcal)",
+      "caffeine": "(58mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 피치 얼그레이",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322855201.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "깊고 그윽한 홍차와 달콤한 복숭아 향이 어우러지는 깔끔한 맛의 얼그레이 티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
-      "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "kcal": "(8kcal)",
+      "caffeine": "(58mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) HOT 피치 얼그레이",
     "prodImage": "https://ediya.com/files/menu/IMG_1671596309362.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "깊고 그윽한 홍차와 달콤한 복숭아 향이 어우러지는 깔끔한 맛의 얼그레이 티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "kcal": "(17kcal)",
+      "caffeine": "(117mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 피치 얼그레이",
     "prodImage": "https://ediya.com/files/menu/IMG_1671596392889.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "깊고 그윽한 홍차와 달콤한 복숭아 향이 어우러지는 깔끔한 맛의 얼그레이 티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_low","s_low","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "kcal": "(17kcal)",
+      "caffeine": "(117mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 쌍화차",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322753151.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "전통 쌍화차의 느낌을 이디야만의 색깔로 재해석하여 다양한 연령층이 즐길 수 있도록 은은한 향과 고소함을 강조한 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
+      "kcal": "(212kcal)",
       "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
+      "sodium": "(100mg)",
+      "sugars": "(28g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 쌍화차",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322778699.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "전통 쌍화차의 느낌을 이디야만의 색깔로 재해석하여 다양한 연령층이 즐길 수 있도록 은은한 향과 고소함을 강조한 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["non-coffee","tea","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
+      "kcal": "(212kcal)",
       "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
+      "sodium": "(100mg)",
+      "sugars": "(28g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 생강차",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322669524.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "생강 특유의 진하고 풍부한 맛과 향미를 느낄 수 있으며, 은은하고 부드러운 단맛의 유자와 꿀이 더해진 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","hot","k_high","s_high","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(235kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "sodium": "(10mg)",
+      "sugars": "(46g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 생강차",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322677153.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "생강 특유의 진하고 풍부한 맛과 향미를 느낄 수 있으며, 은은하고 부드러운 단맛의 유자와 꿀이 더해진 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
     "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(235kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(10mg)",
+      "sugars": "(46g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 달고나 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321929656.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "달콤한 달고나와 우유가 조화롭게 어우러져, 달고나 분태의 바삭한 식감과 함께 즐길 수 있는 제품  ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "3,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
+      "kcal": "(286kcal)",
       "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "sodium": "(224mg)",
+      "sugars": "(41g)",
+      "sat_FAT": "(4.4g)"
     }
   },
   {
     "prodName": "(EX) ICED 달고나 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321941152.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "달콤한 달고나와 우유가 조화롭게 어우러져, 달고나 분태의 바삭한 식감과 함께 즐길 수 있는 제품  ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(429kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(284mg)",
+      "sugars": "(61g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 콜드브루 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320805422.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "이디야만의 블렌딩을 통해 커피의 깊은 단맛과 바디감, 균형잡힌 밸런스를 느낄 수 있는 시원한 콜드브루 커피",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "kcal": "(12kcal)",
+      "caffeine": "(104mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 콜드브루 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320820317.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "이디야만의 블렌딩을 통해 커피의 깊은 단맛과 바디감, 균형잡힌 밸런스를 느낄 수 있는 시원한 콜드브루 커피",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "kcal": "(18kcal)",
+      "caffeine": "(155mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 디카페인 콜드브루 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320328440.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "(디카페인)이디야만의 블렌딩을 통해 커피의 깊은 단맛과 바디감,균형잡힌 밸런스를 느낄 수 있는 시원한 콜드브루 커피 ",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
     "prodPrice": "4,200g",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
+      "kcal": "(7kcal)",
+      "caffeine": "(4mg)",
+      "sodium": "(1mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 디카페인 콜드브루 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1648685292664.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "(디카페인)이디야만의 블렌딩을 통해 커피의 깊은 단맛과 바디감,균형잡힌 밸런스를 느낄 수 있는 시원한 콜드브루 커피 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
+      "kcal": "(11kcal)",
+      "caffeine": "(11mg)",
+      "sodium": "(1mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 디카페인 콜드브루 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320345410.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "(디카페인)콜드브루의 깔끔하고 쌉싸름한 풍미가 고소한 우유와 만나 누구나 부담없이 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodPrice": "4,800",
     "prodDetail": {
       "volume": "",
       "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "caffeine": "(4mg)",
+      "sodium": "(96mg)",
+      "sugars": "(10g)",
+      "sat_FAT": "(4.4g)"
     }
   },
   {
     "prodName": "(EX) ICED 디카페인 콜드브루 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320357663.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "(디카페인)콜드브루의 깔끔하고 쌉싸름한 풍미가 고소한 우유와 만나 누구나 부담없이 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","ice","k_mid","smoothie","p_mid"],
+    "prodPrice": "6,000",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(211kcal)",
+      "caffeine": "(5mg)",
+      "sodium": "(156mg)",
+      "sugars": "(16g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 콜드브루 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320848557.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "콜드브루의 깔끔하고 쌉싸름한 풍미가 고소한 우유와 만나 누구나 부담없이 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,400",
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(134kcal)",
+      "caffeine": "(104mg)",
+      "sodium": "(95mg)",
+      "sugars": "(10g)",
+      "sat_FAT": "(4.4g)"
     }
   },
   {
     "prodName": "(EX) ICED 콜드브루 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320836186.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "콜드브루의 깔끔하고 쌉싸름한 풍미가 고소한 우유와 만나 누구나 부담없이 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,400",
+    "prodTag": ["coffee","latte","ice","k_mid","smoothie","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
-      "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "kcal": "(218kcal)",
+      "caffeine": "(155mg)",
+      "sodium": "(155mg)",
+      "sugars": "(16g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 콜드브루 니트로",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320870899.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "이디야커피만의 질소투입방식을 통해 신선하고 부드러운 거품과 목넘김, 풍미를 느낄 수 있는 커피 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,400",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "kcal": "(14kcal)",
+      "caffeine": "(124mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 디카페인 콜드브루 니트로",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320389669.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "(디카페인)이디야커피만의 질소투입방식을 통해 신선하고 부드러운 거품과 목넘김, 풍미를 느낄 수 있는 커피 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "900",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "kcal": "(9kcal)",
+      "caffeine": "(4mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "ICED 콜드브루 화이트 비엔나",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320860534.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "달콤한 크림과 화이트 초콜릿향, 아이리쉬크림향이 더해져 콜드브루의 풍미가 잘 어우러진 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,700",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(267kcal)",
+      "caffeine": "(52mg)",
+      "sodium": "(120mg)",
+      "sugars": "(32g)",
+      "sat_FAT": "(8g)"
     }
   },
   {
     "prodName": "ICED 디카페인 콜드브루 화이트 비엔나",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320378419.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "(디카페인)달콤한 크림과 화이트 초콜릿향, 아이리쉬크림향이 더해져 콜드브루의 풍미가 잘 어우러진 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(265kcal)",
+      "caffeine": "(2mg)",
+      "sodium": "(121mg)",
+      "sugars": "(32g)",
+      "sat_FAT": "(8g)"
     }
   },
   {
     "prodName": "ICED 디카페인 흑당 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320406434.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,500",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(237kcal)",
+      "caffeine": "(2mg)",
+      "sodium": "(93mg)",
+      "sugars": "(38g)",
+      "sat_FAT": "(4g)"
     }
   },
   {
     "prodName": "(EX) ICED 디카페인 흑당 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320424871.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,500",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(380kcal)",
+      "caffeine": "(4mg)",
+      "sodium": "(153mg)",
+      "sugars": "(60g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 디카페인 연유 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647387558230.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "(디카페인) 베트남풍 연유의 달콤한 맛과 밸런스 잡힌 이디야 콜드브루가 어우러져 특색있게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,000",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(278kcal)",
+      "caffeine": "(4mg)",
+      "sodium": "(116mg)",
+      "sugars": "(37g)",
+      "sat_FAT": "(5g)"
     }
   },
   {
     "prodName": "(EX) ICED 디카페인 연유 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320633102.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "(디카페인) 베트남풍 연유의 달콤한 맛과 밸런스 잡힌 이디야 콜드브루가 어우러져 특색있게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,200",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "6,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
-      "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "kcal": "(445kcal)",
+      "caffeine": "(9mg)",
+      "sodium": "(197mg)",
+      "sugars": "(58g)",
+      "sat_FAT": "(5g)"
     }
   },
   {
     "prodName": "ICED 디카페인 버블 흑당 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324449408.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,000",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(237kcal)",
+      "caffeine": "(2mg)",
+      "sodium": "(93mg)",
+      "sugars": "(38g)",
+      "sat_FAT": "(4g)"
     }
   },
   {
     "prodName": "(EX) ICED 디카페인 버블 흑당 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324439469.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "(디카페인) 이디야 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "6,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(380kcal)",
+      "caffeine": "(4mg)",
+      "sodium": "(153mg)",
+      "sugars": "(60g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 흑당 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322011235.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "진하고 달콤한 흑당과 고소한 우유가 어우러진 논커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "3,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
+      "kcal": "(233kcal)",
       "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(93mg)",
+      "sugars": "(38g)",
+      "sat_FAT": "(4g)"
     }
   },
   {
     "prodName": "(EX) ICED 흑당 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322029671.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "진하고 달콤한 흑당과 고소한 우유가 어우러진 논커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,200",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
+      "kcal": "(373kcal)",
       "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(152mg)",
+      "sugars": "(60g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 흑당 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320738273.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "이디야의 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,800",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(239kcal)",
+      "caffeine": "(52mg)",
+      "sodium": "(93mg)",
+      "sugars": "(38g)",
+      "sat_FAT": "(4g)"
     }
   },
   {
     "prodName": "(EX) ICED 흑당 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320749119.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "이디야의 밸런스 잡힌 콜드브루에 진하고 달콤한 흑당과 고소한 우유가 어우러진 커피음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "6,000",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(385kcal)",
+      "caffeine": "(104mg)",
+      "sodium": "(152mg)",
+      "sugars": "(60g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 버블 흑당 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324429590.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "진하고 달콤한 흑당에 쫄깃한 버블이 어우러진 논커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
+      "kcal": "(308kcal)",
       "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "sodium": "(91mg)",
+      "sugars": "(35g)",
+      "sat_FAT": "(3.3g)"
     }
   },
   {
     "prodName": "(EX) ICED 버블 흑당 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324410367.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "진하고 달콤한 흑당에 쫄깃한 버블이 어우러진 논커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(588kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(180mg)",
+      "sugars": "(63g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "ICED 버블 크림 밀크티",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324346811.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "베르가못 향과 우롱티의 밸런스를 잡아 풍부하고 깊은 맛과 크림의 부드러움을 함께 느끼고, 타피오카 펄의 쫄깃한 식감까지 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(319kcal)",
+      "caffeine": "(38mg)",
+      "sodium": "(119mg)",
+      "sugars": "(27g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "(L) HOT 연유 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1671584792635.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "베트남풍 연유의 달콤한 맛과 에스프레소가 절묘하게 어우러져 누구나 쉽게 즐길 수 있는 부드러운 커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(386kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(169mg)",
+      "sugars": "(49g)",
+      "sat_FAT": "(8g)"
     }
   },
   {
     "prodName": "(L) ICED 연유 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1671585023298.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "베트남풍 연유의 달콤한 맛과 에스프레소가 절묘하게 어우러져 누구나 쉽게 즐길 수 있는 부드러운 커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(354kcal)",
+      "caffeine": "(7mg)",
+      "sodium": "(144mg)",
+      "sugars": "(46g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "(EX) HOT 연유 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324689152.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "베트남풍 연유의 달콤한 맛과 에스프레소가 절묘하게 어우러져 누구나 쉽게 즐길 수 있는 부드러운 커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,200",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(601kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(253mg)",
+      "sugars": "(78g)",
+      "sat_FAT": "(12g)"
     }
   },
   {
-    "prodName": "(EX) ICED연유 카페 라떼",
+    "prodName": "(EX) ICED 연유 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324719307.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "베트남풍 연유의 달콤한 맛과 에스프레소가 절묘하게 어우러져 누구나 쉽게 즐길 수 있는 부드러운 커피 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(530kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(198mg)",
+      "sugars": "(72g)",
+      "sat_FAT": "(9g)"
     }
   },
   {
     "prodName": "ICED 연유 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320780643.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "베트남풍 연유의 달콤한 맛과 밸런스 잡힌 이디야 콜드브루가 어우러져 특색있게 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(282kcal)",
+      "caffeine": "(104mg)",
+      "sodium": "(116mg)",
+      "sugars": "(37g)",
+      "sat_FAT": "(5g)"
     }
   },
   {
     "prodName": "(EX) ICED 연유 콜드브루",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320793322.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "베트남풍 연유의 달콤한 맛과 밸런스 잡힌 이디야 콜드브루가 어우러져 특색있게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,000",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(452kcal)",
+      "caffeine": "(155mg)",
+      "sodium": "(196mg)",
+      "sugars": "(58g)",
+      "sat_FAT": "(9g)"
     }
   },
   {
     "prodName": "(EX) ICED 자몽 네이블오렌지",
     "prodImage": "https://ediya.com/files/menu/IMG_1647323192384.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "자몽청에 오렌지, 귤, 로즈힙, 사과, 파인애플 등을 넣어 부드러운 신맛과 오렌지 향을 즐길 수 있는 아이스 블렌딩티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "6,200",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(322kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(7mg)",
+      "sugars": "(73g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) ICED 유자피나콜라다",
     "prodImage": "www.https://ediya.com/files/menu/IMG_1647323138803.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "유자청에 사과, 파인애플, 히비스커스, 로즈힙 열매, 코코넛 등을 넣어 신맛과 달콤한 향의 밸런스가 좋은 아이스 블렌딩티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,000",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
+      "kcal": "(291kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(2mg)",
+      "sugars": "(67g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "(EX) ICED 석류애플라임",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322977844.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "산뜻한 석류에 다양한 과일과 꽃, 그리고 샴페인의 향이 더해져 보다 깊고 중후한 맛이 느껴지는 아이스 블렌딩티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "6,200",
+    "prodTag": ["non-coffee","tea","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
+      "kcal": "(346kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(15mg)",
+      "sugars": "(74g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "HOT 석류 오리지널",
     "prodImage": "https://ediya.com/files/menu/IMG_1647323060484.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "석류 특유의 산뜻한 향과 깔끔한 뒷맛이 느껴지며, 과육이 한알 한알 살아있는 붉은 빛의 매력적인 과일차",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
+      "kcal": "(210kcal)",
       "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(5mg)",
+      "sugars": "(42g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "HOT 석류 애플라임",
     "prodImage": "https://ediya.com/files/menu/IMG_1647323050118.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "산뜻한 석류에 다양한 과일과 꽃, 그리고 샴페인의 향이 더해져 보다 깊고 중후한 맛이 느껴지는 블렌딩티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
+      "kcal": "(220kcal)",
       "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(7mg)",
+      "sugars": "(42g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "HOT 자몽 네이블 오렌지",
     "prodImage": "https://ediya.com/files/menu/IMG_1647323209240.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "자몽청에 오렌지, 귤, 로즈힙, 사과, 파인애플 등을 넣어 부드러운 신맛과 오렌지 향을 즐길 수 있는 아이스 블렌딩티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(196kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(6mg)",
+      "sugars": "(43g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "HOT 유자 피나콜라다",
     "prodImage": "https://ediya.com/files/menu/IMG_1647323154740.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "유자청에 사과, 파인애플, 히비스커스, 로즈힙 열매, 코코넛 등을 넣어 신맛에 달콤한 향의 밸런스가 좋은 블렌딩 티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(197kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(3mg)",
+      "sugars": "(43g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "HOT 에스프레소",
     "prodImage": "https://ediya.com/files/menu/IMG_1647320254869.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "정통 이탈리안 방식으로 고압을 이용하여 빠르게 추출된 커피 이디야의 모든 음료의 기본",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,700",
+    "prodTag": ["coffee","hot","k_low","s_low","p_low"],
+    "prodPrice": "2,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(8kcal)",
+      "caffeine": "(116mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 에스프레소 마끼아또",
     "prodImage": "https://ediya.com/files/menu/IMG_1511503315349.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "진한 에스프레소 위의 부드러운 우유 거품이 조화를 이뤄 에스프레소를 부드럽게 느낄 수 있는 커피",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,900",
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
+    "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
-      "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "kcal": "(14kcal)",
+      "caffeine": "(116mg)",
+      "sodium": "(5mg)",
+      "sugars": "(1g)",
+      "sat_FAT": "(0.3g)"
     }
   },
   {
     "prodName": "HOT 에스프레소 콘파냐",
     "prodImage": "https://ediya.com/files/menu/IMG_1511503304139.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "진한 에스프레소 위에 달콤한 휘핑을 더한 음료로 에스프레소를 달콤하게 즐길 수 있는 커피",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,700",
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
+    "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(47kcal)",
+      "caffeine": "(116mg)",
+      "sodium": "(8mg)",
+      "sugars": "(2g)",
+      "sat_FAT": "(3.4g)"
     }
   },
   {
     "prodName": "(L) HOT 카페 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1671581625569.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "구운 견과류의 고소한 향미와 다크초콜렛의 Bitter sweet 깊고 깔끔한 애프터테이스트가 특징인 이디야의 대표음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
+    "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(16kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "(L) ICED 카페 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1671581786293.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "구운 견과류의 고소한 향미와 다크초콜렛의 Bitter sweet 깊고 깔끔한 애프터테이스트가 특징인 이디야의 대표음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodPrice": "3,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(16kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "(EX) HOT 카페 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321162101.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "구운 견과류의 고소한 향미와 다크초콜렛의 Bitter sweet 깊고 깔끔한 애프터테이스트가 특징인 이디야의 대표음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["coffee","hot","k_low","s_low","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(24kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "(EX) ICED 카페 아메리카노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321147600.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "구운 견과류의 고소한 향미와 다크초콜렛의 Bitter sweet 깊고 깔끔한 애프터테이스트가 특징인 이디야의 대표음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,600",
+    "prodTag": ["coffee","ice","k_low","s_low","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(24kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(0mg)",
+      "sugars": "(0g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "(L) HOT 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1671582054147.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "진한 에스프레소와 부드러운 우유가 만나 고소한 풍미를 더하는 메뉴 가장 대중적인 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,700",
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(203kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(145mg)",
+      "sugars": "(15g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "(L) ICED 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1671582134737.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "진한 에스프레소와 부드러운 우유가 만나 고소한 풍미를 더하는 메뉴 가장 대중적인 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,900",
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(142kcal)",
+      "caffeine": "232",
+      "sodium": "(98mg)",
+      "sugars": "(10g)",
+      "sat_FAT": "(4.6g)"
     }
   },
   {
     "prodName": "(EX) HOT 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1645073265123.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "진한 에스프레소와 부드러운 우유가 만나 고소한 풍미를 더하는 메뉴 가장 대중적인 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,000",
+    "prodTag": ["coffee","latte","hot","k_high","s_mid","p_mid"],
+    "prodPrice": "5,400",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
-      "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "kcal": "(288kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(205mg)",
+      "sugars": "(21g)",
+      "sat_FAT": "(10g)"
     }
   },
   {
     "prodName": "(EX) ICED 카페 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1645073339534.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "진한 에스프레소와 부드러운 우유가 만나 고소한 풍미를 더하는 메뉴 가장 대중적인 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodPrice": "5,400",
     "prodDetail": {
       "volume": "",
-      "kcal": "(222kcal)",
-      "caffeine": "",
-      "sodium": "(160mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(4.4g)"
+      "kcal": "(182kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(123mg)",
+      "sugars": "(12g)",
+      "sat_FAT": "(6g)"
     }
   },
   {
     "prodName": "(L) HOT 카푸치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1671582405654.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "에스프레소에 부드러운 우유 거품을 풍부하게 올린 음료, 시나몬파우더가 첨가되어 강렬한 향과 커피의 풍부함을 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,000",
+    "prodTag": ["coffee","latte","hot","k_mid","s_low","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(350kcal)",
-      "caffeine": "",
-      "sodium": "(254mg)",
-      "sugars": "(45g)",
-      "sat_FAT": "(7g)"
+      "kcal": "(129kcal)",
+      "caffeine": "(86mg)",
+      "sodium": "(232mg)",
+      "sugars": "(9g)",
+      "sat_FAT": "(4g)"
     }
   },
   {
     "prodName": "(L) ICED 카푸치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1671583172436.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "에스프레소에 부드러운 우유 거품을 풍부하게 올린 음료, 시나몬파우더가 첨가되어 강렬한 향과 커피의 풍부함을 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["coffee","latte","ice","k_mid","s_low","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(327kcal)",
-      "caffeine": "",
-      "sodium": "(130mg)",
-      "sugars": "(36g)",
-      "sat_FAT": "(3.7g)"
+      "kcal": "(145kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(98mg)",
+      "sugars": "(10g)",
+      "sat_FAT": "(4.6g)"
     }
   },
   {
     "prodName": "(L) HOT 카페 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1671586052246.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "모카시럽을 만나 한층 풍부해진 에스프레소에 우유로 부드러움을 더한 달콤한 휘핑크림이 곁들여진 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,000",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(624kcal)",
-      "caffeine": "",
-      "sodium": "(255mg)",
-      "sugars": "(65g)",
-      "sat_FAT": "(7g)"
+      "kcal": "(424kcal)",
+      "caffeine": "(245mg)",
+      "sodium": "(201mg)",
+      "sugars": "(38g)",
+      "sat_FAT": "(18g)"
     }
   },
   {
     "prodName": "(L) ICED 카페 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1671586141487.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "모카시럽을 만나 한층 풍부해진 에스프레소에 우유로 부드러움을 더한 달콤한 휘핑크림이 곁들여진 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(443kcal)",
-      "caffeine": "",
-      "sodium": "(209mg)",
-      "sugars": "(44g)",
-      "sat_FAT": "(19g)"
+      "kcal": "(353kcal)",
+      "caffeine": "(245mg)",
+      "sodium": "(146mg)",
+      "sugars": "(35g)",
+      "sat_FAT": "(16g)"
     }
   },
   {
     "prodName": "(EX) HOT 카페 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1645073368848.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "모카시럽을 만나 한층 풍부해진 에스프레소에 우유로 부드러움을 더한 달콤한 휘핑크림이 곁들여진 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,000",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(743kcal)",
-      "caffeine": "",
-      "sodium": "(383mg)",
-      "sugars": "(79g)",
-      "sat_FAT": "(28g)"
+      "kcal": "(530kcal)",
+      "caffeine": "(365mg)",
+      "sodium": "(263mg)",
+      "sugars": "(49g)",
+      "sat_FAT": "(21g)"
     }
   },
   {
     "prodName": "(EX) ICED 카페 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1645073377193.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "모카시럽을 만나 한층 풍부해진 에스프레소에 우유로 부드러움을 더한 달콤한 휘핑크림이 곁들여진 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(388kcal)",
-      "caffeine": "",
-      "sodium": "(167mg)",
-      "sugars": "(40g)",
-      "sat_FAT": "(17g)"
+      "kcal": "(450kcal)",
+      "caffeine": "(365mg)",
+      "sodium": "(178mg)",
+      "sugars": "(42g)",
+      "sat_FAT": "(20g)"
     }
   },
   {
     "prodName": "(L) HOT 카라멜 마끼아또",
     "prodImage": "https://ediya.com/files/menu/IMG_1671585699141.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "폼 밀크 속에 감춰진 카라멜의 달콤함과 에스프레소의 진한 맛이 돋보이는 이디야의 인기 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(627kcal)",
-      "caffeine": "",
-      "sodium": "(293mg)",
-      "sugars": "(70g)",
-      "sat_FAT": "(24g)"
+      "kcal": "(285kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(158mg)",
+      "sugars": "(36g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "(L) ICED 카라멜 마끼아또",
     "prodImage": "https://ediya.com/files/menu/IMG_1671585861402.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "폼 밀크 속에 감춰진 카라멜의 달콤함과 에스프레소의 진한 맛이 돋보이는 이디야의 인기 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(250kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(130mg)",
+      "sugars": "(34g)",
+      "sat_FAT": "(5g)"
     }
   },
   {
     "prodName": "(EX) HOT 카라멜 마끼아또",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321239141.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "폼 밀크 속에 감춰진 카라멜의 달콤함과 에스프레소의 진한 맛이 돋보이는 이디야의 인기 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(405kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(208mg)",
+      "sugars": "(55g)",
+      "sat_FAT": "(9g)"
     }
   },
   {
     "prodName": "(EX) ICED 카라멜 마끼아또",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321212721.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "폼 밀크 속에 감춰진 카라멜의 달콤함과 에스프레소의 진한 맛이 돋보이는 이디야의 인기 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "2,900",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(347kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(163mg)",
+      "sugars": "(50g)",
+      "sat_FAT": "(6g)"
     }
   },
   {
     "prodName": "(L) HOT 바닐라 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1671583442731.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "부드러운 라떼에 은은한 바닐라 향이 더해져 더욱 달콤하게 즐길 수 있는 음료 ",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(303kcal)",
+      "caffeine": "(274mg)",
+      "sodium": "(186mg)",
+      "sugars": "(29g)",
+      "sat_FAT": "(8g)"
     }
   },
   {
     "prodName": "(L) ICED 바닐라 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1671583414313.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "부드러운 라떼에 은은한 바닐라 향이 더해져 더욱 달콤하게 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["coffee","latte","ice","k_high","s_mid","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(245kcal)",
+      "caffeine": "(274mg)",
+      "sodium": "(141mg)",
+      "sugars": "(25g)",
+      "sat_FAT": "(6g)"
     }
   },
   {
     "prodName": "(EX) HOT 바닐라 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321057747.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "부드러운 라떼에 은은한 바닐라 향이 더해져 더욱 달콤하게 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(476kcal)",
+      "caffeine": "(423mg)",
+      "sodium": "(278mg)",
+      "sugars": "(49g)",
+      "sat_FAT": "(11g)"
     }
   },
   {
     "prodName": "(EX) ICED 바닐라 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321034823.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "부드러운 라떼에 은은한 바닐라 향이 더해져 더욱 달콤하게 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,200",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(386kcal)",
+      "caffeine": "(432mg)",
+      "sodium": "(208mg)",
+      "sugars": "(42g)",
+      "sat_FAT": "(8g)"
     }
   },
   {
     "prodName": "(L) HOT 화이트 초콜릿 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1671587353689.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "화이트 초콜렛과 에스프레소의 조화로운 만남에 달콤한 휘핑크림까지 함께 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
-      "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "kcal": "(420kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(159mg)",
+      "sugars": "(40g)",
+      "sat_FAT": "(18g)"
     }
   },
   {
     "prodName": "(L) ICED 화이트 초콜릿 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1671587593517.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "화이트 초콜렛과 에스프레소의 조화로운 만남에 달콤한 휘핑크림까지 함께 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(222kcal)",
-      "caffeine": "",
-      "sodium": "(160mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(4.4g)"
+      "kcal": "(326kcal)",
+      "caffeine": "(232mg)",
+      "sodium": "(114mg)",
+      "sugars": "(35g)",
+      "sat_FAT": "(16g)"
     }
   },
   {
     "prodName": "(EX) HOT 화이트 초콜릿 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321390212.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "화이트 초콜렛과 에스프레소의 조화로운 만남에 달콤한 휘핑크림까지 함께 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(350kcal)",
-      "caffeine": "",
-      "sodium": "(254mg)",
-      "sugars": "(45g)",
-      "sat_FAT": "(7g)"
+      "kcal": "(588kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(229mg)",
+      "sugars": "(61g)",
+      "sat_FAT": "(21g)"
     }
   },
   {
     "prodName": "(L) HOT 민트 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1671588213206.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "상쾌한 민트향이 더해진 진한 모카와 부드러운 휘핑크림이 잘 어울리는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(327kcal)",
-      "caffeine": "",
-      "sodium": "(130mg)",
-      "sugars": "(36g)",
-      "sat_FAT": "(3.7g)"
+      "kcal": "(484kcal)",
+      "caffeine": "(268mg)",
+      "sodium": "(238mg)",
+      "sugars": "(45g)",
+      "sat_FAT": "(20g)"
     }
   },
   {
     "prodName": "(EX) ICED 화이트 초콜릿 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321347859.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "화이트 초콜렛과 에스프레소의 조화로운 만남에 달콤한 휘핑크림까지 함께 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,400",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(624kcal)",
-      "caffeine": "",
-      "sodium": "(255mg)",
-      "sugars": "(65g)",
-      "sat_FAT": "(7g)"
+      "kcal": "(515kcal)",
+      "caffeine": "(348mg)",
+      "sodium": "(149mg)",
+      "sugars": "(54g)",
+      "sat_FAT": "(20g)"
     }
   },
   {
     "prodName": "(L) ICED 민트 모카",
     "prodImage": "https://ediya.com/files/menu/IMG_1671588274664.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "상쾌한 민트향이 더해진 진한 모카와 부드러운 휘핑크림이 잘 어울리는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,400",
+    "prodTag": ["coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(443kcal)",
-      "caffeine": "",
-      "sodium": "(209mg)",
-      "sugars": "(44g)",
-      "sat_FAT": "(19g)"
+      "kcal": "(420kcal)",
+      "caffeine": "(268mg)",
+      "sodium": "(188mg)",
+      "sugars": "(40g)",
+      "sat_FAT": "(18g)"
     }
   },
   {
     "prodName": "HOT 초콜릿",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321825736.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "진한 모카시럽과 부드러운 우유, 그리고 달콤한 휘핑크림의 삼박자가 조화를 이루는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(743kcal)",
-      "caffeine": "",
-      "sodium": "(383mg)",
-      "sugars": "(79g)",
-      "sat_FAT": "(28g)"
+      "kcal": "(376kcal)",
+      "caffeine": "(9mg)",
+      "sodium": "(186mg)",
+      "sugars": "(33g)",
+      "sat_FAT": "(18g)"
     }
   },
   {
     "prodName": "ICED 초콜릿",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321814289.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "진한 모카시럽과 부드러운 우유, 그리고 달콤한 휘핑크림의 삼박자가 조화를 이루는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(388kcal)",
-      "caffeine": "",
-      "sodium": "(167mg)",
-      "sugars": "(40g)",
-      "sat_FAT": "(17g)"
+      "kcal": "(318kcal)",
+      "caffeine": "(9mg)",
+      "sodium": "(141mg)",
+      "sugars": "(28g)",
+      "sat_FAT": "(16g)"
     }
   },
   {
     "prodName": "(EX) HOT 초콜릿",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321860843.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "진한 모카시럽과 부드러운 우유, 그리고 달콤한 휘핑크림의 삼박자가 조화를 이루는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(627kcal)",
-      "caffeine": "",
-      "sodium": "(293mg)",
-      "sugars": "(70g)",
-      "sat_FAT": "(24g)"
+      "kcal": "(540kcal)",
+      "caffeine": "(17mg)",
+      "sodium": "(285mg)",
+      "sugars": "(53g)",
+      "sat_FAT": "(22g)"
     }
   },
   {
     "prodName": "(EX) ICED 초콜릿",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321840843.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "진한 모카시럽과 부드러운 우유, 그리고 달콤한 휘핑크림의 삼박자가 조화를 이루는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(481kcal)",
+      "caffeine": "(18mg)",
+      "sodium": "(214mg)",
+      "sugars": "(47g)",
+      "sat_FAT": "(21g)"
     }
   },
   {
     "prodName": "HOT 녹차 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321755481.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "녹차에 우유가 더해져 부담없이 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(252kcal)",
+      "caffeine": "(55mg)",
+      "sodium": "(151mg)",
+      "sugars": "(30g)",
+      "sat_FAT": "(6g)"
     }
   },
   {
     "prodName": "ICED 녹차 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321741180.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "녹차에 우유가 더해져 부담없이 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(191kcal)",
+      "caffeine": "(55mg)",
+      "sodium": "(103mg)",
+      "sugars": "(25g)",
+      "sat_FAT": "(4g)"
     }
   },
   {
     "prodName": "(EX) HOT 녹차 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321791414.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "녹차에 우유가 더해져 부담없이 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(466kcal)",
+      "caffeine": "(110mg)",
+      "sodium": "(271mg)",
+      "sugars": "(57g)",
+      "sat_FAT": "(11g)"
     }
   },
   {
     "prodName": "(EX) ICED 녹차 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321773757.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "녹차에 우유가 더해져 부담없이 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,100",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(337kcal)",
+      "caffeine": "(110mg)",
+      "sodium": "(171mg)",
+      "sugars": "(47g)",
+      "sat_FAT": "(7g)"
     }
   },
   {
     "prodName": "HOT 민트 초콜릿",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321892161.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "상쾌한 민트향이 가득한 진한 초콜렛 위에 달콤한 휘핑크림으로 마무리 한 이디야의 인기메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(397kcal)",
+      "caffeine": "(23mg)",
+      "sodium": "(203g)",
+      "sugars": "(34g)",
+      "sat_FAT": "(19g)"
     }
   },
   {
     "prodName": "ICED 민트 초콜릿",
     "prodImage": "https://ediya.com/files/menu/IMG_1647321879153.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "상쾌한 민트향이 가득한 진한 초콜렛 위에 달콤한 휘핑크림으로 마무리 한 이디야의 인기메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
-      "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "kcal": "(342kcal)",
+      "caffeine": "(23mg)",
+      "sodium": "(160mg)",
+      "sugars": "(30g)",
+      "sat_FAT": "(17g)"
     }
   },
   {
     "prodName": "HOT 12곡 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322114515.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "몸에 이로운 곡물이 들어가 든든하고 포만감을 주는 메뉴, 한끼 식사 대용으로도 충분한 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "3,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(290kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(136mg)",
+      "sugars": "(26g)",
+      "sat_FAT": "(6g)"
     }
   },
   {
     "prodName": "ICED 12곡 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322107601.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "몸에 이로운 곡물이 들어가 든든하고 포만감을 주는 메뉴, 한끼 식사 대용으로도 충분한 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodPrice": "3,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(222kcal)",
+      "kcal": "(239kcal)",
       "caffeine": "",
-      "sodium": "(160mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(4.4g)"
+      "sodium": "(96mg)",
+      "sugars": "(22g)",
+      "sat_FAT": "(4.6g)"
     }
   },
   {
     "prodName": "HOT 고구마 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322145592.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "호박고구마를 활용하여 달콤하고 고소한 고구마의 풍미가 진하게 느껴지는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","latte","hot","k_high","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(350kcal)",
+      "kcal": "(344kcal)",
       "caffeine": "",
-      "sodium": "(254mg)",
-      "sugars": "(45g)",
-      "sat_FAT": "(7g)"
+      "sodium": "(110mg)",
+      "sugars": "(37g)",
+      "sat_FAT": "(5g)"
     }
   },
   {
     "prodName": "ICED 고구마 라떼",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322131838.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "호박고구마를 활용하여 달콤하고 고소한 고구마의 풍미가 진하게 느껴지는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","latte","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(327kcal)",
+      "kcal": "(344kcal)",
       "caffeine": "",
-      "sodium": "(130mg)",
-      "sugars": "(36g)",
-      "sat_FAT": "(3.7g)"
+      "sodium": "(110mg)",
+      "sugars": "(37g)",
+      "sat_FAT": "(5g)"
     }
   },
   {
     "prodName": "홍시주스",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324236558.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "부드럽고 달콤한 홍시 본연의 맛을 느낄 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_mid","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(624kcal)",
+      "kcal": "(247kcal)",
       "caffeine": "",
-      "sodium": "(255mg)",
-      "sugars": "(65g)",
-      "sat_FAT": "(7g)"
+      "sodium": "(28mg)",
+      "sugars": "(59g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "골드키위주스",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324243707.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "고급 골드키위를 사용하여 비타민 C가 풍부하고 상큼한 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","juice","ice","k_high","s_high","p_mid"],
     "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(443kcal)",
+      "kcal": "(265kcal)",
       "caffeine": "",
-      "sodium": "(209mg)",
-      "sugars": "(44g)",
-      "sat_FAT": "(19g)"
+      "sodium": "(44mg)",
+      "sugars": "(59g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "딸기주스",
     "prodImage": "https://ediya.com/files/menu/IMG_1647324249886.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "국내산 딸기 과육을 그대로 넣어 새콤하고 달콤한 딸기 본연의 맛을 느낄 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","juice","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(743kcal)",
+      "kcal": "(270kcal)",
       "caffeine": "",
-      "sodium": "(383mg)",
-      "sugars": "(79g)",
-      "sat_FAT": "(28g)"
+      "sodium": "(4mg)",
+      "sugars": "(62g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "아이스티 복숭아",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322896670.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "홍차의 깊은 맛과 풍부한 복숭아 향이 어우러진 달콤한 여름철 인기 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_low"],
+    "prodPrice": "2,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(388kcal)",
-      "caffeine": "",
-      "sodium": "(167mg)",
-      "sugars": "(40g)",
-      "sat_FAT": "(17g)"
+      "kcal": "(165kcal)",
+      "caffeine": "(9mg)",
+      "sodium": "(12mg)",
+      "sugars": "(39g)",
+      "sat_FAT": "(0.7g)"
     }
   },
   {
     "prodName": "(EX) 아이스티 복숭아",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322914713.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "홍차의 깊은 맛과 풍부한 복숭아 향이 어우러진 달콤한 여름철 인기 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,700",
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(627kcal)",
-      "caffeine": "",
-      "sodium": "(293mg)",
-      "sugars": "(70g)",
-      "sat_FAT": "(24g)"
+      "kcal": "(329kcal)",
+      "caffeine": "(19mg)",
+      "sodium": "(24mg)",
+      "sugars": "(78g)",
+      "sat_FAT": "(1.4g)"
     }
   },
   {
     "prodName": "아이스티 레몬",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322929626.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "입안 가득 상큼한 레몬향이 퍼지는 새콤달콤한 맛의 아이스티",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,900",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_low"],
+    "prodPrice": "2,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
-      "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "kcal": "(158kcal)",
+      "caffeine": "(12mg)",
+      "sodium": "(14mg)",
+      "sugars": "(38g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) 아이스티 레몬",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322949688.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "입안 가득 상큼한 레몬향이 퍼지는 새콤달콤한 맛의 아이스티",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","ade","ice","k_high","s_high","p_mid"],
     "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
-      "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "kcal": "(317kcal)",
+      "caffeine": "(25mg)",
+      "sodium": "(28mg)",
+      "sugars": "(77g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "HOT 밀크티",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322607583.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "잉글리시 브랙퍼스트와 바닐라향이 어우러져 따뜻한 우유에 은은하게 퍼지는 향이 돋보이는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","latte","hot","k_mid","s_mid","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
-      "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(232kcal)",
+      "caffeine": "(49mg)",
+      "sodium": "(136mg)",
+      "sugars": "(25g)",
+      "sat_FAT": "(6g)"
     }
   },
   {
     "prodName": "ICED 밀크티",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322590353.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "잉글리시 브랙퍼스트와 바닐라향이 어우러져 따뜻한 우유에 은은하게 퍼지는 향이 돋보이는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["non-coffee","latte","ice","k_mid","s_mid","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
-      "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
-      "sat_FAT": "(0g)"
+      "kcal": "(167kcal)",
+      "caffeine": "(49mg)",
+      "sodium": "(86mg)",
+      "sugars": "(20g)",
+      "sat_FAT": "(3.9g)"
     }
   },
   {
     "prodName": "HOT 유자차",
     "prodImage": "https://ediya.com/files/menu/IMG_1647323168645.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "국내산 고흥 유자를 사용하고 유자 과육이 풍부한 홈메이드 방식의 달콤한 과일차",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(187kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(2mg)",
+      "sugars": "(42g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "HOT 자몽차",
     "prodImage": "https://ediya.com/files/menu/IMG_1647323227736.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "풍부한 자몽 과육으로 신맛과 쓴맛을 내어 천연의 자몽의 맛을 내는 과일차",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","tea","hot","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(186kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(2mg)",
+      "sugars": "(42g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "망고 플랫치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322193229.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "열대과일인 망고의 달콤하고 진한 맛을 그대로 담아낸 여름철 인기 메뉴",
     "prodCafe": "ediya",
-    "prodTag": [],
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
     "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(273kcal)",
+      "kcal": "(258kcal)",
       "caffeine": "",
-      "sodium": "(200mg)",
-      "sugars": "(33g)",
-      "sat_FAT": "(6g)"
+      "sodium": "(8mg)",
+      "sugars": "(65g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "꿀복숭아 플랫치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322170791.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "복숭아의 리얼한 풍미와 꿀의 달콤함이 최적의 조화를 이룬 달콤하고 시원한 플랫치노",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["non-coffee","smoothie","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "3,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(485kcal)",
+      "kcal": "(225kcal)",
       "caffeine": "",
-      "sodium": "(359mg)",
-      "sugars": "(56g)",
-      "sat_FAT": "(12g)"
+      "sodium": "(9mg)",
+      "sugars": "(49g)",
+      "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "초콜릿 칩 플랫치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322237789.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "트리플 모카시럽에 초콜릿 칩이 더해져 씹는 재미가 있는 달콤한 플랫치노",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "5,100",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(222kcal)",
-      "caffeine": "",
-      "sodium": "(160mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(4.4g)"
+      "kcal": "(387kcal)",
+      "caffeine": "(27mg)",
+      "sodium": "(140mg)",
+      "sugars": "(42g)",
+      "sat_FAT": "(16g)"
     }
   },
   {
     "prodName": "민트 초콜릿 칩 플랫치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322244409.png",
-    "prodContent": "고소한 아몬드의 맛과 달콤한 코코아가 조화롭게 어우러진 달콤한 음료 ",
+    "prodContent": "진한 민트향이 더해진 초코렛에 초콜렛칩이 가득 들어있는 젊은 감성의 이디야 플랫치노",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(350kcal)",
-      "caffeine": "",
-      "sodium": "(254mg)",
-      "sugars": "(45g)",
-      "sat_FAT": "(7g)"
+      "kcal": "(493kcal)",
+      "caffeine": "(56mg)",
+      "sodium": "(168mg)",
+      "sugars": "(52g)",
+      "sat_FAT": "(22g)"
     }
   },
   {
     "prodName": "플레인 요거트 플랫치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322311675.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "요거트 고유의 새콤달콤한 맛을 그대로 살린 메뉴로 여성들에게 인기가 좋은 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","smoothie","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "4,500",
     "prodDetail": {
       "volume": "",
-      "kcal": "(327kcal)",
+      "kcal": "(229kcal)",
       "caffeine": "",
-      "sodium": "(130mg)",
-      "sugars": "(36g)",
-      "sat_FAT": "(3.7g)"
+      "sodium": "(78mg)",
+      "sugars": "(32g)",
+      "sat_FAT": "(3.2g)"
     }
   },
   {
     "prodName": "블루베리 요거트 플랫치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322319410.png",
-    "prodContent": "고소하고 달콤한 토피넛 베이스에 흑당과 쫄깃한 버블이 어우러진 논커피 음료",
+    "prodContent": "블루베리 본연의 맛과 상큼한 요거트의 조화를 이룬 새콤달콤한 요거트 플랫치노",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(624kcal)",
+      "kcal": "(297kcal)",
       "caffeine": "",
-      "sodium": "(255mg)",
-      "sugars": "(65g)",
-      "sat_FAT": "(7g)"
+      "sodium": "(78mg)",
+      "sugars": "(37g)",
+      "sat_FAT": "(3.2g)"
     }
   },
   {
     "prodName": "딸기 요거트 플랫치노",
     "prodImage": "https://ediya.com/files/menu/IMG_1647319753205.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "남녀노소 누구나 좋아하는 딸기와 상큼한 요거트가 조화롭게 어우러진 플랫치노",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,700",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(443kcal)",
+      "kcal": "(313kcal)",
       "caffeine": "",
-      "sodium": "(209mg)",
-      "sugars": "(44g)",
-      "sat_FAT": "(19g)"
+      "sodium": "(83mg)",
+      "sugars": "(53g)",
+      "sat_FAT": "(3.2g)"
     }
   },
   {
     "prodName": "오리진 쉐이크",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322356739.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "우유 그대로의 부드러운 맛을 느낄 수 있으며, 어린이와 청소년도 즐겨 먹을 수 있는 쉐이크",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,700",
     "prodDetail": {
       "volume": "",
-      "kcal": "(743kcal)",
+      "kcal": "(355kcal)",
       "caffeine": "",
-      "sodium": "(383mg)",
-      "sugars": "(79g)",
-      "sat_FAT": "(28g)"
+      "sodium": "(86mg)",
+      "sugars": "(63g)",
+      "sat_FAT": "(3.4g)"
     }
   },
   {
     "prodName": "초코쿠키 쉐이크",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322366389.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "초코쿠키의 달콤함과 바삭함을 느낄 수 있어, 어린이와 청소년에게 인기 있는 쉐이크",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,200",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "4,900",
     "prodDetail": {
       "volume": "",
-      "kcal": "(388kcal)",
+      "kcal": "(449kcal)",
       "caffeine": "",
-      "sodium": "(167mg)",
-      "sugars": "(40g)",
-      "sat_FAT": "(17g)"
+      "sodium": "(194mg)",
+      "sugars": "(70g)",
+      "sat_FAT": "(5g)"
     }
   },
   {
     "prodName": "딸기 쉐이크",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322376229.png",
-    "prodContent": "초콜릿과 토피넛에 부드러운 연유가 더해져 더욱 풍부한 맛을 느낄 수 있으며, 달콤한 휘핑크림과 초콜릿 칩을 즐길 수 있는 음료 ",
+    "prodContent": "부드러운 우유의 맛과 국내산 딸기의 달콤함이 조화로운 쉐이크",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","smoothie","ice","k_high","s_high","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(627kcal)",
+      "kcal": "(454kcal)",
       "caffeine": "",
-      "sodium": "(293mg)",
-      "sugars": "(70g)",
-      "sat_FAT": "(24g)"
+      "sodium": "(103mg)",
+      "sugars": "(85g)",
+      "sat_FAT": "(3.5g)"
     }
   },
   {
     "prodName": "레몬 에이드",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322413547.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차 ",
+    "prodContent": "레몬의 상큼함과 톡 쏘는 탄산의 시원함을 함께 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(142kcal)",
+      "kcal": "(123kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(1mg)",
+      "sugars": "(28g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "(EX) 레몬 에이드",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322402501.png",
-    "prodContent": "새콤한 히비스커스와 이디야만의 콤부베이스를 블렌딩하여 달콤한 복숭아와 리치의 풍미를 따뜻하게 즐길 수 있는 붉은빛의 콤부차",
+    "prodContent": "레몬의 상큼함과 톡 쏘는 탄산의 시원함을 함께 즐길 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "4,500",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(228kcal)",
+      "kcal": "(227kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
-      "sat_FAT": "(0g)"
+      "sodium": "(3mg)",
+      "sugars": "(53g)",
+      "sat_FAT": "(0.1g)"
     }
   },
   {
     "prodName": "자몽 에이드",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322422524.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "자몽의 쌉싸름한 맛과 상큼함을 동시에 느낄 수 있으며, 탄산의 청량함을 함께 맛볼 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "2,900",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(148kcal)",
+      "kcal": "(124kcal)",
       "caffeine": "",
-      "sodium": "(29mg)",
-      "sugars": "(31g)",
+      "sodium": "(10mg)",
+      "sugars": "(28g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) 자몽 에이드",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322437795.png",
-    "prodContent": "달콤한 파인애플과 리치의 향미가 조화롭게 어우러진 에이드에 레드커런트의 토핑이 더해져 더욱 상큼하고 청량하게 마실 수 있는 음료 ",
+    "prodContent": "자몽의 쌉싸름한 맛과 상큼함을 동시에 느낄 수 있으며, 탄산의 청량함을 함께 맛볼 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(248kcal)",
+      "kcal": "(198kcal)",
       "caffeine": "",
-      "sodium": "(44mg)",
-      "sugars": "(53g)",
+      "sodium": "(15mg)",
+      "sugars": "(46g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "청포도 에이드",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322445174.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "청포도의 상큼함과 탄산의 시원함을 느낄 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "2,900",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "4,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(130kcal)",
+      "kcal": "(121kcal)",
       "caffeine": "",
-      "sodium": "(15mg)",
-      "sugars": "(29g)",
+      "sodium": "(55mg)",
+      "sugars": "(28g)",
       "sat_FAT": "(0g)"
     }
   },
   {
     "prodName": "(EX) 청포도 에이드",
     "prodImage": "https://ediya.com/files/menu/IMG_1647322455866.png",
-    "prodContent": "석류티를 발효하여 부드럽게 톡쏘는 콤부차의 상큼함과 함께 복숭아와 열대과일의 복합적인 풍미를 느낄 수 있는 이디야만의 콤부 에이드 ",
+    "prodContent": "청포도의 상큼함과 탄산의 시원함을 느낄 수 있는 음료",
     "prodCafe": "ediya",
-    "prodTag": [],
-    "prodPrice": "3,900",
+    "prodTag": ["non-coffee","ade","ice","k_mid","s_high","p_mid"],
+    "prodPrice": "5,200",
     "prodDetail": {
       "volume": "",
-      "kcal": "(212kcal)",
+      "kcal": "(181kcal)",
       "caffeine": "",
-      "sodium": "(16mg)",
-      "sugars": "(48g)",
+      "sodium": "(8mg)",
+      "sugars": "(42g)",
       "sat_FAT": "(0g)"
     }
   }
