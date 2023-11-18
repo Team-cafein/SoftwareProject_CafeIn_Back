@@ -102,3 +102,114 @@ export const deleteReview = async (ctx) => {
     ctx.body = { error: '리뷰를 삭제하는 중에 오류가 발생했습니다.' };
   }
 };
+
+// // 새로운 API: 특정 음료에 대 한 리뷰 평균 별점 조회
+// export const getAllAverageRatings = async (ctx) => {
+//   try {
+//     // 모든 리뷰를 조회
+//     const allReviews = await Review.find();
+
+//     if (!allReviews || allReviews.length === 0) {
+//       ctx.status = 404;
+//       ctx.body = { error: '리뷰를 찾을 수 없습니다.' };
+//       return;
+//     }
+
+//     // 음료별 리뷰를 그룹화
+//     const reviewsByBeverage = {};
+//     allReviews.forEach((review) => {
+//       const { beverageId, rating } = review;
+
+//       // 음료별로 그룹화된 객체에 데이터 추가
+//       if (!reviewsByBeverage[beverageId]) {
+//         reviewsByBeverage[beverageId] = {
+//           totalRating: 0,
+//           reviewCount: 0,
+//         };
+//       }
+
+//       reviewsByBeverage[beverageId].totalRating += rating;
+//       reviewsByBeverage[beverageId].reviewCount += 1;
+//     });
+
+//     // 그룹화된 데이터를 가지고 음료별 평균 rating을 계산
+//     const averageRatings = Object.keys(reviewsByBeverage).map((beverageId) => {
+//       const { totalRating, reviewCount } = reviewsByBeverage[beverageId];
+//       const averageRating = totalRating / reviewCount;
+
+//       // 평균 rating이 소수점으로 나오면 내림처리
+//       const roundedAverageRating = Math.floor(averageRating);
+
+//       return { beverageId, averageRating: roundedAverageRating };
+//     });
+
+//     ctx.body = averageRatings;
+//   } catch (error) {
+//     ctx.status = 500;
+//     ctx.body = { error: '평균 rating을 조회하는 중에 오류가 발생했습니다.' };
+//   }
+// };
+
+// 새로운 API: 전체 음료에 대한 리뷰 평균 별점 조회
+export const getAllAverageRatings = async (ctx) => {
+  try {
+    // 모든 리뷰를 조회
+    const allReviews = await Review.find();
+
+    if (!allReviews || allReviews.length === 0) {
+      ctx.status = 404;
+      ctx.body = { error: '리뷰를 찾을 수 없습니다.' };
+      return;
+    }
+
+    // 전체 음료 범위 정의
+    const allBeverageRange = [];
+    for (let i = 1; i <= 5; i++) {
+      for (
+        let j = 1;
+        j <=
+        (i === 1 ? 139 : i === 2 ? 166 : i === 3 ? 51 : i === 4 ? 149 : 97);
+        j++
+      ) {
+        allBeverageRange.push(`${i}_${j}`);
+      }
+    }
+
+    // 음료별 리뷰를 그룹화
+    const reviewsByBeverage = {};
+    allReviews.forEach((review) => {
+      const { beverageId, rating } = review;
+
+      // 음료별로 그룹화된 객체에 데이터 추가
+      if (!reviewsByBeverage[beverageId]) {
+        reviewsByBeverage[beverageId] = {
+          totalRating: 0,
+          reviewCount: 0,
+        };
+      }
+
+      reviewsByBeverage[beverageId].totalRating += rating;
+      reviewsByBeverage[beverageId].reviewCount += 1;
+    });
+
+    // 전체 음료 범위에 대한 리뷰 평균을 계산
+    const averageRatings = allBeverageRange.map((beverageId) => {
+      const { totalRating, reviewCount } = reviewsByBeverage[beverageId] || {
+        totalRating: 0,
+        reviewCount: 0,
+      };
+
+      const averageRating = reviewCount > 0 ? totalRating / reviewCount : 0;
+
+      // 평균 rating이 소수점으로 나오면 내림처리
+      const roundedAverageRating = Math.floor(averageRating);
+
+      return { beverageId, averageRating: roundedAverageRating };
+    });
+
+    ctx.body = averageRatings;
+  } catch (error) {
+    ctx.status = 500;
+    ctx.body = { error: '평균 rating을 조회하는 중에 오류가 발생했습니다.' };
+  }
+};
