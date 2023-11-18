@@ -17,6 +17,7 @@ const endpoints = {
   '/db_get_paik_menu': cafeCtrl.getPaikMenu,
   '/db_store_mega_menu': cafeCtrl.getStoredMegaMenu,
   '/db_get_mega_menu': cafeCtrl.getMegaMenu,
+  '/': cafeCtrl.getAllCafes,
 };
 
 // 딕셔너리를 사용하여 엔드포인트를 동적으로 설정

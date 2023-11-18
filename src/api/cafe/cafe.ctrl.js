@@ -197,6 +197,49 @@ const getMenu = async (ctx, category) => {
   }
 };
 
+// DB에 저장된 모든 카페 데이터를 조회하는 API
+// GET /api/cafe?cafeid={cafeid}&beverage={beverage}
+export const getAllCafes = async (ctx) => {
+  try {
+    // cafeid와 beverage 값을 URL에서 추출
+    const cafeid = parseInt(ctx.query.cafeid);
+    const beverage = parseInt(ctx.query.beverage);
+
+    // 모든 카페 데이터를 조회합니다.
+    const allCafes = [];
+    for (const category in categories) {
+      if (category !== 'idCounter') {
+        const subCollectionName = `cafe/${category}`;
+        const subCollection = Cafe.db.collection(subCollectionName);
+        const cafes = await subCollection.find({}).toArray();
+        allCafes.push(...cafes);
+      }
+    }
+
+    // 필터링된 결과를 저장할 배열
+    const filteredCafes = [];
+
+    // cafeid와 beverage를 기준으로 데이터를 필터링
+    for (const cafe of allCafes) {
+      if (
+        (!cafeid || cafe.cafeid === cafeid) &&
+        (!beverage || cafe.beverage === beverage)
+      ) {
+        filteredCafes.push(cafe);
+      }
+    }
+
+    // 결과를 반환
+    ctx.body = filteredCafes;
+  } catch (err) {
+    console.error('데이터를 조회하는 중에 오류가 발생했습니다.', err);
+    ctx.status = 500; // 내부 서버 오류 상태 코드
+    ctx.body = {
+      error: '데이터를 조회하는 중에 오류가 발생했습니다.',
+    };
+  }
+};
+
 // 이디야 커피 메뉴 데이터를 저장하는 API
 export const getStoredEdiyaMenu = async (ctx) => {
   const filePath = path.join(__dirname, 'cafeinfo', 'ediya_menu.json');
