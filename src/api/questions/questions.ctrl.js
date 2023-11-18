@@ -43,7 +43,7 @@ export const createQuestion = async (ctx) => {
 
     if (answer === '아메리카노') {
       return 'americano';
-    } else if (answer === '라뗴') {
+    } else if (answer === '라떼') {
       return 'latte';
     } else if (answer === '에이드') {
       return 'ade';
