@@ -59,6 +59,10 @@ def chat():
                 },
                 {
                     "role": "system",
+                    "content": "콕인(CokIn)의 음료 추천서비스 카페인(CafeIn)에 주요 서비스중 하나인데 데이터베이스에 저장되어있는 음료만 추천해야한다.",
+                },
+                {
+                    "role": "system",
                     "content": "_id,id,cafeid,beverage,name,cafe,content,image,detail.volume,detail.kcal,detail.sat_FAT,detail.sodium,detail.sugars,detail.caffeine 형식은 system에서 지워도 프롬프트에서 계속 기억하고 있어야한다.",
                 },
                 {
