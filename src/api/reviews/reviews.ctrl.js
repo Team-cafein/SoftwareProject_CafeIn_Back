@@ -31,11 +31,30 @@ export const createReview = async (ctx) => {
   }
 };
 
+// export const getReviewsByBeverage = async (ctx) => {
+//   const { beverageId } = ctx.query; // 해당 음료의 ID (cafeid_beverage 형식)
+
+//   try {
+//     const reviews = await Review.find({ beverageId }).sort({
+//       _id: -1,
+//     });
+//     ctx.body = reviews;
+//   } catch (error) {
+//     ctx.status = 500;
+//     ctx.body = { error: '리뷰를 조회하는 중에 오류가 발생했습니다.' };
+//   }
+// };
+
 export const getReviewsByBeverage = async (ctx) => {
   const { beverageId } = ctx.query; // 해당 음료의 ID (cafeid_beverage 형식)
 
   try {
-    const reviews = await Review.find({ beverageId }).sort({
+    let query = {};
+    if (beverageId) {
+      query = { beverageId };
+    }
+
+    const reviews = await Review.find(query).sort({
       _id: -1,
     });
     ctx.body = reviews;
