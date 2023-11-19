@@ -1,11 +1,12 @@
 // src/api/reviews/reviews.ctrl.js
-import Review from '../../models/reviews';
-import { deleteReview } from '../reviews/reviews.'; // 리뷰 삭제 함수 가져오기
+// const Review = require('../reviews.js');
+const reviewsCtrl = require('./reviews.ctrl');
+const { deleteReview } = reviewsCtrl;
 
 // 다른 커피 상세사항 관련 코드들...
 
 // 커피 상세사항 리뷰 삭제 API
-export const deleteReviewAPI = async (ctx) => {
+const deleteReviewAPI = async (ctx) => {
   const { reviewId } = ctx.params; // 삭제할 리뷰의 ID
 
   try {
@@ -20,6 +21,8 @@ export const deleteReviewAPI = async (ctx) => {
     ctx.body = { error: '커피 상세사항 리뷰를 삭제하는 중에 오류가 발생했습니다.' };
   }
 };
+
+module.exports = { deleteReviewAPI };
 
 // -- 라우터와 연결
 

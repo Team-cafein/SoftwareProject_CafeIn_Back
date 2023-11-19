@@ -1,7 +1,13 @@
 import Review from '../../models/reviews';
-import { updateReview } from '../reviews/reviews.'; // 리뷰 업데이트 함수 가져오기
+//import { updateReview } from '../reviews/reviews.ctrl.js'; // 리뷰 업데이트 함수 가져오기
+// import { updateReview } from './reviews.ctrl'
+// 서버 파일에서의 import 구문
+// const { updateReview } = require('./reviews.ctrl');
+const Review = require('../reviews.js');
+const reviewsCtrl = require('./reviews.ctrl');
+const { updateReview } = reviewsCtrl;
 
-// src/api/reviews/coffeeReviews.ctrl.js
+
 
 export const updateReviewAPI = async (ctx) => {
     try {
