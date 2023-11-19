@@ -854,7 +854,8 @@ const askGpt = async (userMessage) => {
     }
 
     const response = await gptAPI.post('/v1/chat/completions', {
-      model: 'ft:gpt-3.5-turbo-0613:personal::8AN17A11',
+      // model: 'ft:gpt-3.5-turbo-0613:personal::8AN17A11',
+      model: 'gpt-3.5-turbo-1106',
       messages,
     });
 
