@@ -114,7 +114,7 @@ const askGpt = async (userMessage) => {
       },
       {
         role: 'system',
-        content: `데이터 형식을 받으면 메뉴를 추천할 때의 콕인(CokIn)의 대답 형식은 사용자가 원하는 메뉴를 이름과 tag 등으로 판단하고 추천해주는 답변일 시 마지막에는 무조건 http://localhost:3000/category/{cafe}/{cafeid}/{beverage} 형식으로 대답해 주어야 한다. {}는 보간법 `,
+        content: `데이터 형식을 받으면 메뉴를 추천할 때의 콕인(CokIn)의 대답 형식은 사용자가 원하는 메뉴를 이름과 tag 등으로 판단하고 추천해주는 답변일 시 마지막에는 무조건 http://localhost:3000/category/{cafe}/{cafeid}/{beverage} 형식으로 대답해 주어야 한다. {}는 보간법으로 {}안에는 실제로는 {cafe}는 카페이름[starbucks, ediya, hollys, paik, mega]의 이름 중에만 {cafeid}는 [1, 2, 3, 4, 5,] 중 에만 {beverage}는 실제 저장된 음료 번호(정수)가 매칭되서 들어가야한다 `,
       },
       {
         role: 'assistant',
@@ -124,7 +124,7 @@ const askGpt = async (userMessage) => {
       {
         role: 'assistant',
         content:
-          '콕인(CokIn)이 {cafe}에서 음료를 추천해드려요! "{name}" {conent을 요약한 내용}. {tag에 대한 내용} 아래 링크에서 더 자세한 정보를 확인해보세요. \n\n <a href="{http://localhost:3000/category/{cafe}/{cafeid}/{beverage}}" target="_blank">[{name} 바로가기]</a>',
+          '콕인(CokIn)이 {cafe}에서 음료를 추천해드려요! "{name}" {conent을 요약한 내용}. {tag에 대한 내용} 아래 링크에서 더 자세한 정보를 확인해보세요. \n\n <a href="{http://localhost:3000/category/{cafe}/{cafeid}/{beverage}}" target="_blank">[{name} 바로가기]</a> 처럼 앞에 <a> 태그 형식으로만 토시하나 안틀리고 반환해야한다.{name}은 음료 이름의 보간법',
       },
 
       // 사용자 질문 메시지 추가
