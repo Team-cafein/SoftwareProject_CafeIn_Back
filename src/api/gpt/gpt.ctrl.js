@@ -75,7 +75,7 @@ const askGpt = async (userMessage) => {
       {
         role: 'system',
         content:
-          '기본적으로는 무조건 하나의 음료 메뉴만 추천해야하고 추가적으로 사용자가 원할 때에만 하나 이상의 메뉴를 추천해야 한다.',
+          '기본적으로는 무조건 하나의 음료 메뉴만 추천해야한다. 특히 ~ 추천해줘 ~ 알려줘 라고 물어보면 하나만 추천해야한다. 추가적으로 사용자가 여러개를 추천해달라는 내용이 있을 때만 하나 이상의 메뉴를 추천해야 한다. 예를 들어 ~ 2개 이상 추천해줘 여러개를 추천해줘 등등 또한 콕인(CokIn)은 추천 음료 중에서 어떤 음료가 좋냐는 역으로 질문은 하면안되고 사용자에게 선택권을 주지 않고 무조건 기본적으로 하나의 음료를 추천해야한다.',
       },
       {
         role: 'system',
@@ -89,7 +89,17 @@ const askGpt = async (userMessage) => {
       {
         role: 'assistant',
         content:
-          '콕인(CokIn)이 {cafe}에서 음료를 추천해드려요! "{name}" {conent을 요약한 내용}. {tag에 대한 내용} 아래 링크에서 더 자세한 정보를 확인해보세요. \n\n <a href="{http://localhost:3000/category/{cafe}/{cafeid}/{beverage}}" target="_blank">[{name} 바로가기]</a> 처럼 앞에 <a> 태그 형식으로만 글자 하나 안틀리고 반환해야한다.{}은 보간법을 나타내 주는 것으로 실제로 콕인이 밑에 데이터 중 최적의 답을 골라서 대입해서 표현하면 된다.',
+          '추천답변은 무조건 이 형식을 따라야 한다. 콕인(CokIn)이 {cafe}에서 음료를 추천해드려요! "{name}" {conent을 요약한 내용}. {tag에 대한 내용} 아래 링크에서 더 자세한 정보를 확인해보세요. \n\n <a href="{http://localhost:3000/category/{cafe}/{cafeid}/{beverage}}" target="_blank">[{name} 바로가기]</a> 앞에 <a> 태그 형식으로만 글자 하나 안틀리고 반환해야한다. \n 음료 이미지 <p><img className="img" src={image} alt="Image" /></p> {image}는 url 즉, 이미지 url를 반환하고, {}은 보간법을 나타내 주는 것으로 실제로 콕인이 밑에 데이터 중 최적의 답을 골라서 대입해서 표현하면 된다. url과 image url 은 인식될 때 구분 될 수 있어야한다.',
+      },
+      {
+        role: 'assistant',
+        content:
+          '[{name} 바로가기]을 보여줬다면 \n을 한 이후 항상 가장 마지막에 "메뉴 이미지" {image} 형식으로 이미지 링크 url를 보여주어야한다. 만약 여려개의 음료를 추천했으면 그 중의 하나의 이미지만 표현해야한다.',
+      },
+      {
+        role: 'assistant',
+        content:
+          '"많은 음료 중에서 하나를 골라드릴까요?" 혹은 "저는 여러분이 좋아하실 만한 음료를 회원님께 추천해드릴게요."라는 말과 같이 역으로 질문을 요구하는 것이 아니라 하는 것이 아니라 무조건 하나의 메뉴를 추천하는 답변을 해야한다.',
       },
 
       // 사용자 질문 메시지 추가
@@ -97,7 +107,11 @@ const askGpt = async (userMessage) => {
     ];
 
     // 스타벅스에 대한 튜닝
-    if (userMessage.includes('스타벅스') || userMessage.includes('스타 벅스')) {
+    if (
+      userMessage.includes('스타벅스') ||
+      userMessage.includes('스타 벅스') ||
+      userMessage.includes('스타')
+    ) {
       if (
         userMessage.includes('콜드 브루') ||
         userMessage.includes('콜드브루')
@@ -111,6 +125,18 @@ const askGpt = async (userMessage) => {
 
       if (userMessage.includes('시즌')) {
         messages = messages.concat(createStarbucksMessage('시즌'));
+      }
+
+      if (userMessage.includes('라떼')) {
+        messages = messages.concat(createStarbucksMessage('라떼'));
+      }
+
+      if (userMessage.includes('에스프레소')) {
+        messages = messages.concat(createStarbucksMessage('에스프레소'));
+      }
+
+      if (userMessage.includes('마끼야또')) {
+        messages = messages.concat(createStarbucksMessage('마끼야또'));
       }
     }
 
@@ -130,133 +156,6 @@ const askGpt = async (userMessage) => {
   }
 };
 
-//   if (userMessage.includes('에스프레소')) {
-//     messages.push(
-//       {
-//         role: 'system',
-//         content:
-//           '21,1,21,에스프레소 콘 파나,starbucks,"신선한 에스프레소 샷에 풍부한 휘핑크림을 얹은 커피 음료로서, 뜨거운 커피의 맛과 차갑고 달콤한 생크림의 맛을 같이 즐길 수 있는 커피 음료","4,200",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[30]_20210415144252244.jpg,Solo(솔로) / 22ml (0.75 fl oz),30,1.5,0,1,75,coffee,hot,k_low,s_low,p_mid,',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '22,1,22,에스프레소 마키아또,starbucks,"신선한 에스프레소 샷에 우유 거품을 살짝 얹은 커피 음료로써, 강렬한 에스프레소의 맛과 우유의 부드러움을 같이 즐길 수 있는 커피 음료","4,000",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[25]_20210415144211211.jpg,Solo(솔로) / 22ml (0.75 fl oz),10,0,0,0,75,coffee,hot,k_low,s_low,p_mid,',
-//       },
-//     );
-//   }
-
-//   if (userMessage.includes('라떼')) {
-//     messages.push(
-//       {
-//         role: 'system',
-//         content:
-//           '17,1,17,마롱 헤이즐넛 라떼,starbucks,"고소한 마롱, 헤이즐넛과 블론드 에스프레소가 만나\n밤이 잘 익은 가을을 느낄 수 있는 음료","6,700",https://image.istarbucks.co.kr/upload/store/skuimg/2023/09/[9200000004771]_20230920102511927.jpg,Tall(톨) / 355ml (12 fl oz),280,5,130,35,85,coffee,latte,hot,k_high,s_high,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '18,1,18,아이스 마롱 헤이즐넛 라떼,starbucks,"고소한 마롱, 헤이즐넛과 블론드 에스프레소가 만나\n밤이 잘 익은 가을을 느낄 수 있는 음료","6,700",https://image.istarbucks.co.kr/upload/store/skuimg/2023/09/[9200000004774]_20230920102719611.jpg,Tall(톨) / 355ml (12 fl oz),190,2.4,65,28,85,coffee,latte,ice,k_mid,s_high,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '29,1,29,더 그린 쑥 크림 라떼,starbucks,"은은한 쑥과 곡물에 블론드 샷이 어우러져 고소하고 부드러운 라떼\n달콤한 쑥 폼이 올라가 부드럽게 즐기는 아인슈페너 음료  \n*더북한산,더양평DTR,더북한강R,경동1960,대구종로고택 매장에서만 판매하는 음료입니다.","7,000",https://image.istarbucks.co.kr/upload/store/skuimg/2023/02/[9200000004528]_20230206091947981.jpg,Grande(그란데) / 473ml (16 fl oz),365,11,570,33,170,coffee,latte,ice/hot,k_high,s_high,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '31,1,31,바닐라 빈 라떼,starbucks,리저브만을 위한 바닐라 빈 시럽이 부드럽게 어우러진 카페 라떼,"7,000",https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001939]_20210225094313315.jpg,Tall(톨) / 355ml (12 fl oz),245,6,150,27,210,coffee,latte,hot,k_mid,s_mid,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '34,1,34,스타벅스 1호점 바닐라 빈 라떼,starbucks,한국 스타벅스 1호점인 이대R점을 상징하는 리저브 바닐라 빈 라떼.\n시애틀 1호점을 기념하는 파이크 플레이스 로스트VIA와 번트 카라멜 파우더로\n만든 리저브 로고는 부드러운 우유 폼에 달콤쌉쌀한 풍미를 선사.,"7,500",https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004732]_20230705095514946.jpg,Tall(톨) / 355ml (12 fl oz),234,6,150,27,210,coffee,latte,hot,k_mid,s_high,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '35,1,35,스타벅스 1호점 카페 라떼,starbucks,한국 스타벅스 1호점인 이대R점을 상징하는 리저브 카페 라떼.\n시애틀 1호점을 기념하는 파이크 플레이스 로스트VIA와 번트 카라멜 파우더로\n만든 리저브 로고는 부드러운 우유 폼에 달콤쌉쌀한 풍미를 선사.,"7,000",https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004728]_20230705095319596.jpg,Tall(톨) / 355ml (12 fl oz),191,6,150,15,210,coffee,latte,hot,k_mid,s_mid,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '36,1,36,스타벅스 돌체 라떼,starbucks,스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼,"5,900",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[128692]_20210426091933665.jpg,Tall(톨) / 355ml (12 fl oz),255,2.6,190,39,150,coffee,latte,hot,k_high,s_high,p_mid',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '37,1,37,아이스 더 그린 쑥 크림 라떼,starbucks,"은은한 쑥과 곡물에 블론드 샷이 어우러져 고소하고 부드러운 라떼\n달콤한 쑥 폼이 올라가 부드럽게 즐기는 아인슈페너 음료 \n*더북한산,더양평DTR,더북한강R,경동1960,대구종로고택 매장에서만 판매하는 음료입니다.","7,000",https://image.istarbucks.co.kr/upload/store/skuimg/2023/02/[9200000004529]_20230206091908618.jpg,Grande(그란데) / 473ml (16 fl oz),325,10,490,28,170,coffee,latte,ice,k_high,s_high,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '39,1,39,아이스 바닐라 빈 라떼,starbucks,리저브만을 위한 바닐라 빈 시럽이 부드럽게 어우러진 카페 라떼,"7,000",https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000001941]_20210225094346653.jpg,Tall(톨) / 355ml (12 fl oz),245,6,150,27,210,coffee,latte,ice,k_mid,s_high,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '40,1,40,아이스 스타벅스 1호점 바닐라 빈 라떼,starbucks,한국 스타벅스 1호점인 이대R점을 상징하는 리저브 바닐라 빈 라떼.\n시애틀 1호점을 기념하는 파이크 플레이스 로스트VIA와 번트 카라멜 파우더로\n만든 리저브 로고는 부드러운 밀크 콜드폼에 달콤쌉쌀한 풍미를 선사.,"7,500",https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004734]_20230705095557184.jpg,Tall(톨) / 355ml (12 fl oz),159,2.9,90,21,210,coffee,latte,ice,k_mid,s_mid,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '41,1,41,아이스 스타벅스 1호점 카페 라떼,starbucks,한국 스타벅스 1호점인 이대R점을 상징하는 리저브 카페 라떼. 시애틀 1호점을 기념하는 파이크 플레이스 로스트VIA와 번트 카라멜 파우더로 만든 리저브 로고는 부드러운 밀크 콜드폼에 달콤쌉쌀한 풍미를 선사.,"7,000",https://image.istarbucks.co.kr/upload/store/skuimg/2023/07/[9200000004730]_20230705095423060.jpg,Tall(톨) / 355ml (12 fl oz),117,3.2,100,9,210,coffee,latte,ice,k_mid,s_low,p_high',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '42,1,42,아이스 스타벅스 돌체 라떼,starbucks,스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼,"5,900",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[128695]_20210426092031969.jpg,Tall(톨) / 355ml (12 fl oz),230,2.5,145,35,150,coffee,latte,ice,k_mid,s_high,p_mid',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '43,1,43,아이스 카페 라떼,starbucks,풍부하고 진한 농도의 에스프레소가 시원한 우유와 얼음을 만나 고소함과 시원함을 즐길 수 있는 대표적인 커피 라떼,"5,000",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110569]_20210415143035989.jpg,Tall(톨) / 355ml (12 fl oz),110,3.5,75,8,75,coffee,latte,ice,k_mid,s_low,p_mid',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '44,1,44,카페 라떼,starbucks,풍부하고 진한 에스프레소가 신선한 스팀 밀크를 만나 부드러워진 커피 위에 우유 거품을 살짝 얹은 대표적인 커피 라떼,"5,000",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[41]_20210415133833725.jpg,Tall(톨) / 355ml (12 fl oz),180,5,115,13,75,coffee,latte,hot,k_mid,s_mid,p_mid',
-//       },
-
-//       {
-//         role: 'system',
-//         content:
-//           '112,1,112,아이스 차이 티 라떼,starbucks,"스파이시한 향과 독특한 계피향, 달콤한 차이로 만든 부드러운 티 라떼","5,500",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[135612]_20210415142512793.jpg,Tall(톨) / 355ml (12 fl oz),190,3,70,31,70,non-coffee,latte,ice,k_mid,s_high,p_mid',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '113,1,113,얼 그레이 바닐라 티 라떼,starbucks,"2가지 티(블랙티, 얼 그레이 티)가 조화롭게 어우러지고\n얼 그레이 폼과 바닐라의 풍미가 은은하게 퍼져 \n깔끔하고 부드러운 티 라떼 음료","6,100",https://image.istarbucks.co.kr/upload/store/skuimg/2023/01/[9200000004285]_20230118084943128.jpg,Tall(톨) / 355ml (12 fl oz),355,11,130,36,55,non-coffee,latte,hot,k_high,s_high,p_mid',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '114,1,114,제주 유기농 말차로 만든 라떼,starbucks,차광재배한 어린 녹찻잎을 곱게 갈아 깊고 진한 말차 본연의 맛과 향을\n부드럽게 즐길 수 있는 제주 유기농 말차로 만든 라떼,"6,100",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[9200000002496]_20210419131039350.jpg,Tall(톨) / 355ml (12 fl oz),205,5,130,20,60,non-coffee,latte,hot,k_mid,s_mid,p_mid',
-//       },
-//     );
-//   }
-
-//   if (userMessage.includes('마끼야또')) {
-//     messages.push(
-//       {
-//         role: 'system',
-//         content:
-//           '25,1,25,아이스 카라멜 마키아또,starbucks,향긋한 바닐라 시럽과 시원한 우유와 얼음을 넣고 점을 찍듯이 에스프레소를 부은 후 벌집 모양으로 카라멜 드리즐을 올린 달콤한 커피 음료,"5,900",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[110582]_20210415142706078.jpg,Tall(톨) / 355ml (12 fl oz),190,4.6,110,22,75,coffee,latte,ice,k_mid,s_mid,p_mid',
-//       },
-//       {
-//         role: 'system',
-//         content:
-//           '26,1,26,카라멜 마키아또,starbucks,향긋한 바닐라 시럽과 따뜻한 스팀 밀크 위에 풍성한 우유 거품을 얹고 점을 찍듯이 에스프레소를 부은 후 벌집 모양으로 카라멜 드리즐을 올린 달콤한 커피 음료,"5,900",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[126197]_20210415154609863.jpg,Tall(톨) / 355ml (12 fl oz),200,5,130,22,75,coffee,latte,hot,k_mid,s_mid,p_mid',
-//       },
-//     );
-//   }
-
-// messages.push(
-//   {
-//     role: 'system',
-//     content:
-//       'id,cafeid,beverage,name,cafe,content,price,image,detail.volume,detail.kcal,detail.sat_FAT,detail.sodium,detail.sugars,detail.caffeine,tag[0],tag[1],tag[2],tag[3],tag[4],tag[5]',
-//   },
 //   {
 //     role: 'system',
 //     content:
@@ -284,23 +183,6 @@ const askGpt = async (userMessage) => {
 //     role: 'system',
 //     content:
 //       '28,1,28,카푸치노,starbucks,풍부하고 진한 에스프레소에 따뜻한 우유와 벨벳 같은 우유 거품이 1:1 비율로 어우러져 마무리된 커피 음료,"5,000",https://image.istarbucks.co.kr/upload/store/skuimg/2021/04/[38]_20210415154821846.jpg,Tall(톨) / 355ml (12 fl oz),110,3,70,8,75,coffee,latte,high,k_mid,s_low,p_mid',
-//   },
-
-//   {
-//     role: 'system',
-//     content:
-//       '30,1,30,라벤더 카페 브레베,starbucks,진한 리저브 에스프레소 샷과 은은한 라벤더향이 고급스럽게 어우러진 부드럽고 세련된 풍미의 라벤더 카페 브레베,"7,000",https://image.istarbucks.co.kr/upload/store/skuimg/2022/04/[9200000004119]_20220412083025862.png,Tall(톨) / 355ml (12 fl oz),400,22,140,30,105,coffee,latte,hot,k_high,s_high,p_high',
-//   },
-
-//   {
-//     role: 'system',
-//     content:
-//       '32,1,32,브라운 슈가 오트 쉐이큰 에스프레소,starbucks,"브라운 슈가의 달콤함과 블론드 샷의 부드러움이 쉐이킹을 통해 극대화 된 음료\n시나몬과 브라운 슈가, 오트의 조화가 좋은 음료","5,900",https://image.istarbucks.co.kr/upload/store/skuimg/2023/03/[9200000004354]_20230320154318507.jpg,Tall(톨) / 355ml (12 fl oz),135,0.2,55,20,170,coffee,latte,ice,k_mid,s_mid,p_mid',
-//   },
-//   {
-//     role: 'system',
-//     content:
-//       '33,1,33,사케라또 비안코 오버 아이스,starbucks,얼음과 같이 쉐이킹하여 차가워진 진한 리저브 에스프레소와 하우스 메이드 크림이 어우러진 달콤한 음료,"7,500",https://image.istarbucks.co.kr/upload/store/skuimg/2021/02/[9200000002095]_20210225095033382.jpg,Tall(톨) / 355ml (12 fl oz),270,18,45,14,315,coffee,latte,ice,k_high,s_mid,p_high',
 //   },
 
 //   {
