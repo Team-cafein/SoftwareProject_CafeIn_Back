@@ -1,35 +1,5 @@
 // src/api/questions/questions.ctrl.js
-// import Question from '../../models/questions';
-
-// 질문 생성
-// export const createQuestion = async (ctx) => {
-//   const { username, questions, answers } = ctx.request.body;
-
-//   // 데이터베이스에 질문과 답변 저장
-//   const newQuestion = new Question({
-//     username,
-//     question: questions, // 수정된 부분
-//     answer: answers, // 수정된 부분
-//   });
-
-//   try {
-//     await newQuestion.save();
-//     ctx.status = 201; // Created
-//     ctx.body = newQuestion;
-//   } catch (e) {
-//     ctx.throw(500, e);
-//   }
-// };
-
-// src/api/questions/questions.ctrl.js
 import Question from '../../models/questions';
-
-// POST register/question
-// {
-//     "username": "qwer",
-//     "question": ["나는 오늘 어떤 커피를 먹을까?", ...],
-//     "answer": ["고소한 커피!", ... ] // 자동치환됨
-// }
 
 const mapAnswerToBackendFormat = (answer) => {
   if (answer === '피곤한데... 커피!') {
@@ -81,10 +51,14 @@ const mapAnswerToBackendFormat = (answer) => {
   }
 };
 
+// POST register/question
+// {
+//     "username": "qwer",
+//     "question": ["나는 오늘 어떤 커피를 먹을까?", ...],
+//     "answer": ["고소한 커피!", ... ] // 자동치환됨
+// }
 export const createQuestion = async (ctx) => {
   const { username, questions, answers } = ctx.request.body;
-
-
 
   // 백엔드 형식으로 응답 매핑
   const formattedAnswers = answers.map((answer) =>
@@ -107,6 +81,12 @@ export const createQuestion = async (ctx) => {
   }
 };
 
+// PUT register/question
+// {
+//     "username": "qwer",
+//     "question": ["나는 오늘 어떤 커피를 먹을까?", ...],
+//     "answer": ["고소한 커피!", ... ] // 자동치환됨
+// }
 export const updateQuestion = async (ctx) => {
   const { username, questions, answers } = ctx.request.body;
 
