@@ -452,7 +452,7 @@ const extractCafeAndBeverageName = (userMessage) => {
 
 // 사용자 메시지에서 카페 이름 추출
 const extractCafeTag = (userMessage) => {
-  const tagKeywords = ['커피', '논커피', '아이스', '핫', '아메리카노', '라떼', '에이드', '주스', '티', '칼로리 낮', '칼로리 중', '칼로리 높', '당도 낮', '당도 중', '당도 높', '가격 낮', '가격 중', '가격 높'];
+  const tagKeywords = ['커피', '논커피', '아이스', '핫', '아메리카노', '라떼', '에이드', '주스', '티', '칼로리 낮', '칼로리 중', '칼로리 높', '당도 낮', '당도가 낮', '당도 중', '당도 높', '가격 낮', '가격 중', '가격 높'];
 
   for (const keyword of tagKeywords) {
     if (userMessage.includes(keyword)) {
@@ -482,7 +482,7 @@ const extractCafeTag = (userMessage) => {
         extractedCafeTag = 'k_mid';
       } else if (keyword == '칼로리 높') {
         extractedCafeTag = 'k_high';
-      } else if (keyword == '당도 낮') {
+      } else if (keyword == '당도 낮' || '당도가 낮') {
         extractedCafeTag = 's_low';
       } else if (keyword == '당도 중') {
         extractedCafeTag = 's_mid';
