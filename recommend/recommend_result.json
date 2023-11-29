@@ -1,0 +1,9 @@
+[
+    ["2_13", "0.60", ["coffee", "latte", "ice", "k_high", "s_high", "p_mid"]], 
+    ["2_8", "0.50", ["coffee", "latte", "hot", "k_high", "s_high", "p_mid"]], 
+    ["2_12", "0.40", ["non-coffee", "latte", "hot", "k_high", "s_high", "p_mid"]], 
+    ["2_1", "0.20", ["non-coffee", "tea", "hot", "k_mid", "s_high", "p_mid"]], 
+    ["2_100", "0.20", ["coffee", "hot", "k_low", "s_low", "p_mid", NaN]], 
+    ["2_2", "0.20", ["non-coffee", "tea", "hot", "k_mid", "s_high", "p_mid"]], 
+    ["2_50", "0.20", ["non-coffee", "tea", "ice", "k_low", "s_low", "p_mid"]]
+]
