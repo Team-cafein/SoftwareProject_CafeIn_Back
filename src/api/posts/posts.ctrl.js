@@ -104,7 +104,7 @@ export const list = async (ctx) => {
   try {
     const posts = await Post.find(query)
       .sort({ _id: -1 })
-      .limit(10)
+      // .limit(10)
       .skip((page - 1) * 10)
       .lean()
       .exec(); // 몽고 db Model로 선언했기 때문에 몽고 db method 사용가능,
