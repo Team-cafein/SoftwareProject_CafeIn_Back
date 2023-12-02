@@ -8,17 +8,19 @@ import gpt from './gpt';
 import wishlist from './wishlist';
 import like from './likes';
 import likecount from './likecount';
+import recommend from './recommend';
 
 const api = new Router();
 
 api.use('/posts', posts.routes());
 api.use('/auth', auth.routes());
-api.use('/cafe', cafe.routes()); // cafe 모듈의 라우터를 사용합니다.
+api.use('/cafe', cafe.routes());
 api.use('/reviews', reviews.routes());
-api.use('/gpt', gpt.routes()); // GPT 라우터 추가
+api.use('/gpt', gpt.routes());
 api.use('/wishlist', wishlist.routes());
 api.use('/like', like.routes());
 api.use('/likecount', likecount.routes());
+api.use('/recommend', recommend.routes());
 
 // const axios = require('axios');
 // // dotenv는 .env 파일을 읽어서 process.env에 설정해 줍니다.
