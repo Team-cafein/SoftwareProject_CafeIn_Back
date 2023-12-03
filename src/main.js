@@ -24,8 +24,13 @@ mongoose
 const app = new Koa();
 const router = new Router();
 
+// const corsOptions = {
+//   origin: 'http://localhost:3000', // 클라이언트 애플리케이션의 도메인
+//   credentials: true, // 필요한 경우 사용자 인증 정보 허용
+// };
+
 const corsOptions = {
-  origin: 'http://localhost:3000', // 클라이언트 애플리케이션의 도메인
+  origin: '*', // 클라이언트 애플리케이션의 도메인
   credentials: true, // 필요한 경우 사용자 인증 정보 허용
 };
 

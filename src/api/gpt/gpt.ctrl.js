@@ -1048,7 +1048,7 @@ const extractCafeTag = (userMessage) => {
     '논커피': 'non-coffee',
     '아이스': 'ice',
     '핫': 'hot',
-    '아메리카노': 'americano',
+    // '아메리카노': 'americano',
     '라떼': 'latte',
     '에이드': 'ade',
     // '주스': 'juice',
