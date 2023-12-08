@@ -17,7 +17,7 @@ const endpoints = {
   '/db_get_paik_menu': cafeCtrl.getPaikMenu,
   '/db_store_mega_menu': cafeCtrl.getStoredMegaMenu,
   '/db_get_mega_menu': cafeCtrl.getMegaMenu,
-  '/db_store_all_menu': cafeCtrl.getStoreAllMenu,
+  // '/db_store_all_menu': cafeCtrl.getStoreAllMenu,
   '/': cafeCtrl.getAllCafes,
 };
 

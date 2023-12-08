@@ -20,9 +20,9 @@ const categories = {
   mega: {
     cafeidCounter: 0, // 스타벅스 카테고리용 cafeid 카운터
   },
-  all: {
-    cafeidCounter: 0, // 'all' 카테고리용 cafeid 카운터
-  },
+  // all: {
+  //   cafeidCounter: 0, // 'all' 카테고리용 cafeid 카운터
+  // },
 };
 
 // 카테고리별 cafeidCounter 관리를 위한 함수
@@ -64,9 +64,10 @@ const storeMenu = async (ctx, filePath, category) => {
       cafeidCounter = 4;
     } else if (category === 'mega') {
       cafeidCounter = 5;
-    } else if (category === 'all') {
-      cafeidCounter = 6;
     }
+    // else if (category === 'all') {
+    //   cafeidCounter = 6;
+    // }
 
     // JSON 데이터 처리
     for (const item of jsonData) {
@@ -139,6 +140,16 @@ const storeMenu = async (ctx, filePath, category) => {
         categories[category].cafeidCounter++;
       }
     }
+
+    // 메인 컬렉션 이름을 생성
+    const mainCollectionName = 'cafe';
+
+    // 서브 컬렉션에 새로운 데이터를 추가합니다.
+    const mainCollection = Cafe.db.collection(mainCollectionName);
+
+
+    // 새로운 데이터를 추가합니다.
+    await mainCollection.insertMany(newCafes);
 
     // 서브 컬렉션 이름을 생성
     const subCollectionName = `cafe/${category}`;
@@ -304,7 +315,7 @@ export const getMegaMenu = async (ctx) => {
 
 
 // 모든 카페 커피 메뉴 데이터를 저장하는 API
-export const getStoreAllMenu = async (ctx) => {
-  const filePath = path.join(__dirname, 'cafeinfo', 'all_cafes.json');
-  await storeMenu(ctx, filePath, 'all');
-};
+// export const getStoreAllMenu = async (ctx) => {
+//   const filePath = path.join(__dirname, 'cafeinfo', 'all_cafes.json');
+//   await storeMenu(ctx, filePath, 'all');
+// };

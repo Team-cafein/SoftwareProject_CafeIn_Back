@@ -110,8 +110,9 @@ const askGpt = async (userMessage) => {
       cafeName = 'all';
     }
 
-    let beverageName = extractBeverageName(userMessage);
     let tag = extractCafeTag(userMessage);
+    let beverageName = extractBeverageName(userMessage);
+
 
 
     // 추출된 디버깅 코드
@@ -134,7 +135,7 @@ const askGpt = async (userMessage) => {
         data = getRandomDataMessages(data);
       }
 
-      console.log("들어온 데이터", data)
+      // console.log("들어온 데이터", data)
 
       // 데이터를 문자열 형태로 변환
       const templateStringArray = data.map(
@@ -179,27 +180,43 @@ const askGpt = async (userMessage) => {
 
 
     // 카페 이름, 음료 이름, 태그에 따라 데이터 조회 및 시스템 메시지 추가
-    if (cafeName && beverageName) {
+
+    if (cafeName && tag && beverageName) {
+      console.log("올바른 조건에 들어왔습니다.");
+      // 카페 이름과 태그가 있는 경우
+      const cafeDataTag = await getCafeDataByTag(cafeName, tag);
+      const cafeDataName = await getCafeDataByName(cafeName, beverageName);
+
+      // console.log("나온 태그 음료", tag)
+      // console.log("나온 카페 음료", cafeDataName)
+
+      // console.log('cafeDataName:', cafeDataName);
+      // console.log('cafeDataTag:', cafeDataTag);
+
+      // 교집합 데이터만 추출
+      const intersectionData = cafeDataTag.filter((itemTag) =>
+        cafeDataName.some((itemName) =>
+          itemName.id === itemTag.id &&
+          // 모든 요청된 태그와 음료의 태그 중에서 하나라도 다르지 않은 경우
+          tag.every(requestedTag => itemName.tag.includes(requestedTag))
+        ),
+      );
+
+      console.log('교집합 데이터:', intersectionData);
+
+
+      messages = messages.concat(formatData(intersectionData));
+
+    } else if (cafeName && beverageName) {
       // 카페 이름과 음료 이름이 주어지는 경우
       const cafeDataName = await getCafeDataByName(cafeName, beverageName);
       messages = messages.concat(formatData(cafeDataName));
       // console.log(messages);
-    } else if (tag) {
+    } else if (cafeName && tag) {
+      console.log("들어가는 태그", tag)
       // 태그만 주어지는 경우
       const cafeDataTag = await getCafeDataByTag(cafeName, tag);
       messages = messages.concat(formatData(cafeDataTag));
-      // console.log(messages);
-    } else if (cafeName && tag) {
-      // 카페 이름과 태그가 있는 경우
-      const cafeDataName = await getCafeDataByName(cafeName, beverageName);
-      const cafeDataTag = await getCafeDataByTag(cafeName, tag);
-
-      // 교집합 데이터만 추출
-      const intersectionData = cafeDataName.filter((itemName) =>
-        cafeDataTag.some((itemTag) => itemTag.id === itemName.id),
-      );
-
-      messages = messages.concat(formatData(intersectionData));
       // console.log(messages);
     }
 
@@ -240,7 +257,8 @@ const getRandomDataMessages = (dataMessages) => {
 const getCafeDataByName = async (cafeName, beverageName) => {
   try {
     // 서브 컬렉션에서 커피 데이터를 조회합니다.
-    const subCollection = Cafe.db.collection(`cafe/${cafeName}`);
+    // const subCollection = Cafe.db.collection(`cafe/${cafeName}`);
+    const subCollection = cafeName === 'all' ? Cafe.db.collection('cafe') : Cafe.db.collection(`cafe/${cafeName}`);
     // console.log(subCollection)
     console.log("들어온 카페 이름 데이터", cafeName)
 
@@ -249,7 +267,7 @@ const getCafeDataByName = async (cafeName, beverageName) => {
       .find({ name: { $regex: new RegExp(beverageName, 'i') } })
       // .find({ name: beverageName })
       .toArray();
-    console.log(cafeData)
+    // console.log(cafeData)
 
     return cafeData;
   } catch (error) {
@@ -284,12 +302,16 @@ const getCafeDataByName = async (cafeName, beverageName) => {
 const getCafeDataByTag = async (cafeName, tag) => {
   try {
     // 서브 컬렉션에서 커피 데이터를 조회합니다.
-    // console.log("들어온 카페 이름 데이터", cafeName)
+    console.log("들어온 카페 이름 데이터2", cafeName)
+    console.log("들어온 태그 이름 데이터", tag)
 
-    const subCollection = Cafe.db.collection(`cafe/${cafeName}`);
+    // const subCollection = Cafe.db.collection(`cafe/${cafeName}`);
+    const subCollection = cafeName === 'all' ? Cafe.db.collection('cafe') : Cafe.db.collection(`cafe/${cafeName}`);
 
     // tag 배열 안에 tag가 포함되어 있는 데이터를 찾습니다.
     const cafeData = await subCollection.find({ tag: { $all: tag } }).toArray();
+
+    // console.log("검색된 태그 만족 데이터", cafeData)
 
     return cafeData;
   } catch (error) {
@@ -343,7 +365,7 @@ const extractBeverageName = (userMessage) => {
   ];
 
   // 음료 키워드를 추가
-  beverageKeywords.push('음료');
+  beverageKeywords.push('음료' || '거' || '것');
 
   // 램덤으로 키워드를 뽑음
   const shuffledKeywords = [...beverageKeywords].sort(() => Math.random() - 0.5);
@@ -365,7 +387,7 @@ const extractBeverageName = (userMessage) => {
         extractedBeverageName = '티';
       } else if (keyword == '요거트') {
         extractedBeverageName = '요거트';
-      } else if (keyword == '음료') { // 랜덤으로 뽑기 때문에 가장 마지막에 예외처리를 해야됨
+      } else if (keyword == '음료' || '거' || '것') { // 랜덤으로 뽑기 때문에 가장 마지막에 예외처리를 해야됨
         extractedBeverageName = shuffledKeywords[Math.floor(Math.random() * shuffledKeywords.length)];
       }
 
@@ -395,16 +417,26 @@ const extractCafeTag = (userMessage) => {
     '칼로리가 중': 'k_mid',
     '칼로리 높': 'k_high',
     '칼로리가 높': 'k_high',
+    '안단': 's_low',
+    '덜단': 's_low',
+    '덜 단': 's_low',
+    '안 달달': 's_low',
     '당도 낮': 's_low',
     '당도가 낮': 's_low',
     '당도 중': 's_mid',
     '당도가 중': 's_mid',
+    '당도 적': 's_mid',
+    '당도가 적': 's_mid',
     '당도 높': 's_high',
     '당도가 높': 's_high',
+    '단': 's_high',
+    '달달': 's_high',
     '가격 낮': 'p_low',
     '가격이 낮': 'p_low',
     '가격 싼': 'p_low',
     '가격이 싼': 'p_low',
+    '싼': 'p_low',
+    '싸다': 'p_low',
     '가격 중': 'p_mid',
     '가격이 중': 'p_mid',
     '가격 적': 'p_mid',
@@ -413,15 +445,24 @@ const extractCafeTag = (userMessage) => {
     '가격이 높': 'p_high',
     '가격 비싼': 'p_high',
     '가격이 비싼': 'p_high',
+    '비싼': 'p_high',
+    '비싸다': 'p_high',
   };
 
   const extractedCafeTags = [];
 
-  for (const keyword in tagKeywords) {
-    if (userMessage.includes(keyword)) {
-      extractedCafeTags.push(tagKeywords[keyword]);
+  // for (const keyword in tagKeywords) {
+  //   if (userMessage.includes(keyword)) {
+  //     extractedCafeTags.push(tagKeywords[keyword]);
+  //   }
+  // }
+
+  // 사용자 메시지에 등장한 키워드를 추출하여 중복 방지
+  Object.entries(tagKeywords).forEach(([keyword, tag]) => {
+    if (userMessage.includes(keyword) && !extractedCafeTags.includes(tag)) {
+      extractedCafeTags.push(tag);
     }
-  }
+  });
 
   return extractedCafeTags;
 };
