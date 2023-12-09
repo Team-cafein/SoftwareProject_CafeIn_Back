@@ -5,6 +5,8 @@ import checkLoggedIn from '../../lib/checkLoggedIn';
 
 const recommend = new Router();
 
-recommend.get('/', recommendCtrl.getRecommendation);
+recommend.get('/', recommendCtrl.getRecommendationAll);
+recommend.post('/recommendation', recommendCtrl.postRecommendation);
+recommend.get('/recommendation', recommendCtrl.getRecommendation);
 
 export default recommend;
