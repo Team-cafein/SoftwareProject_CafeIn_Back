@@ -178,8 +178,12 @@ const askGpt = async (userMessage) => {
           content: `어시스턴트로 지정한 데이터가 있다면 앵커 태그가 들어있는 <a href="http://localhost:3000/category/${data[0].cafe}/${data[0].cafeid}/${data[0].beverage}" target="_blank">[${data[0].name} 바로가기]</a> 형식을 보여주어야하며, 또한 항상 가장 마지막에는 이미지 태그가 들어가있는 메뉴 이미지 <p><img style="width: 170px; height: 200px;" src="${data[0].image}" /></p> 형식으로 이미지를 보여줘야한다`,
         },
         {
-          role: 'system',
+          role: 'assistant',
           content: `<p><img style="width: 170px; height: 200px;" src="${data[0].image}" /></p> 형식의 데이터를 가지고 있다면 무조건 이 형식을 반환해야한다.`,
+        },
+        {
+          role: 'system',
+          content: '어시스턴트 형식이 있는데 대답을 안주면 안된다. 예를 들어 ~ 찾아본다 또는 기다려달라는 말을 하면 안된다. 위에 프롬프트 엔지니렁링 되는 데이터를 기반으로 대답해주면 된다.',
         },
       ];
 
