@@ -111,6 +111,12 @@ const askGpt = async (userMessage) => {
     }
 
     let tag = extractCafeTag(userMessage);
+
+    // if (tag.length === 0) {
+    //   tag = ['defaultTag'];  // 빈 배열인 경우에 기본 값을 설정
+    // }
+
+
     let beverageName = extractBeverageName(userMessage);
 
 
@@ -171,6 +177,10 @@ const askGpt = async (userMessage) => {
           role: 'system',
           content: `어시스턴트로 지정한 데이터가 있다면 앵커 태그가 들어있는 <a href="http://localhost:3000/category/${data[0].cafe}/${data[0].cafeid}/${data[0].beverage}" target="_blank">[${data[0].name} 바로가기]</a> 형식을 보여주어야하며, 또한 항상 가장 마지막에는 이미지 태그가 들어가있는 메뉴 이미지 <p><img style="width: 170px; height: 200px;" src="${data[0].image}" /></p> 형식으로 이미지를 보여줘야한다`,
         },
+        {
+          role: 'system',
+          content: `<p><img style="width: 170px; height: 200px;" src="${data[0].image}" /></p> 형식의 데이터를 가지고 있다면 무조건 이 형식을 반환해야한다.`,
+        },
       ];
 
       const messages = [...dataMessages, ...additionalSystemMessages];
@@ -181,17 +191,19 @@ const askGpt = async (userMessage) => {
 
     // 카페 이름, 음료 이름, 태그에 따라 데이터 조회 및 시스템 메시지 추가
 
-    if (cafeName && tag && beverageName) {
-      console.log("올바른 조건에 들어왔습니다.");
+    if (cafeName && tag.length > 0 && beverageName) {
+      console.log("모든 조건이 있을 때");
+      console.log('들어온 태그:', tag);
       // 카페 이름과 태그가 있는 경우
       const cafeDataTag = await getCafeDataByTag(cafeName, tag);
       const cafeDataName = await getCafeDataByName(cafeName, beverageName);
 
+
       // console.log("나온 태그 음료", tag)
       // console.log("나온 카페 음료", cafeDataName)
 
-      // console.log('cafeDataName:', cafeDataName);
-      // console.log('cafeDataTag:', cafeDataTag);
+      console.log('모든 조건cafeDataName:', cafeDataName);
+      console.log('모든 조건cafeDataTag:', cafeDataTag);
 
       // 교집합 데이터만 추출
       const intersectionData = cafeDataTag.filter((itemTag) =>
@@ -211,9 +223,10 @@ const askGpt = async (userMessage) => {
       // 카페 이름과 음료 이름이 주어지는 경우
       const cafeDataName = await getCafeDataByName(cafeName, beverageName);
       messages = messages.concat(formatData(cafeDataName));
-      // console.log(messages);
+      console.log("카페이름과 음료 이름");
     } else if (cafeName && tag) {
-      console.log("들어가는 태그", tag)
+      // console.log("들어가는 태그", tag)
+      console.log("카페이름과 태그");
       // 태그만 주어지는 경우
       const cafeDataTag = await getCafeDataByTag(cafeName, tag);
       messages = messages.concat(formatData(cafeDataTag));
@@ -431,6 +444,12 @@ const extractCafeTag = (userMessage) => {
     '당도가 높': 's_high',
     '단': 's_high',
     '달달': 's_high',
+    '가격 높': 'p_high',
+    '가격이 높': 'p_high',
+    '가격 비싼': 'p_high',
+    '가격이 비싼': 'p_high',
+    '비싼': 'p_high',
+    '비싸다': 'p_high',
     '가격 낮': 'p_low',
     '가격이 낮': 'p_low',
     '가격 싼': 'p_low',
@@ -441,12 +460,6 @@ const extractCafeTag = (userMessage) => {
     '가격이 중': 'p_mid',
     '가격 적': 'p_mid',
     '가격이 적': 'p_mid',
-    '가격 높': 'p_high',
-    '가격이 높': 'p_high',
-    '가격 비싼': 'p_high',
-    '가격이 비싼': 'p_high',
-    '비싼': 'p_high',
-    '비싸다': 'p_high',
   };
 
   const extractedCafeTags = [];
@@ -466,3 +479,5 @@ const extractCafeTag = (userMessage) => {
 
   return extractedCafeTags;
 };
+
+
