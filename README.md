@@ -2,7 +2,7 @@
  
 
 ## 목차
-  - [개요](#-개요)
+  - [프로젝트 소개](#-프로젝트-소개)
   - [설치 및 구동](#-설치-및-구동)
   - [프로젝트 설명](#-프로젝트-설명)
   - [화면 정의서](#-화면-정의서)
@@ -116,10 +116,8 @@
     ``` 
     <hr/>
 
-    ### 2. 프로젝트 설명
-    위 Directory Tree를 참고하면, 크게 **assets, api, lib, models**으로 구분짓고, node.js(Koa) 초기 설정 파일인 main.js와 index.js와 .env prettierrc 등을 별도로 관리하였다.
-
-    **assets** - 홈페이지에 들어가는 모든 이미지 파일들이 저장되어 있다.
+    ### 2. 프로젝트 폴더 구조 설명
+    위 Directory Tree를 참고하면, 크게 **api, lib, models**으로 구분짓고, node.js(Koa) 초기 설정 파일인 main.js와 index.js와 .env prettierrc 등을 별도로 관리하였다.
 
     **api** - 주로 기능별로 컨트롤러(비즈니스 로직 포함)와 라우트 파일들이 저장되어 있다.
 
@@ -151,26 +149,57 @@
 ## 🎆 화면 정의서
 ### PC & Mobile Page
 
-**MainPage1**|**MainPage2**|**MainPage3**|**MainPage4**
-:-----:|:-----:|:-----:|:-----:
-<img src="/frontend/src/assets/readmeAssets/Mainpage/mainEven.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/mainAfter.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/Main1.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/Main2.png" width="100%">
-메인 화면(오전)|메인 화면(오후)|2번째 메인 화면|3번째 메인 화면
+<table>
+  <tr>
+    <td>Login Page</td>
+    <td>질문 Page</td>
+    <td>메인 Page</td>
+    <td>지도 Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/234e3420-9c03-4e11-b0f9-1e1defd6db1d"  width="100%"/></td>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/cbd42771-09c1-4597-898b-b77fb465b918"  width="100%"/></td>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/d399aafc-f272-4a3d-b4c8-88bccc7ca486"  width="100%"/></td>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/81554ded-50bf-40d5-9d82-5dc641a19af1"  width="100%"/></td>
 
-**Menu**|**CreatorPage1**|**CreatorPage2**|**CreatorPage3**
-:-----:|:-----:|:-----:|:-----:
-<img src="/frontend/src/assets/readmeAssets/Mainpage/Menu.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/CreatorPage/Creator1.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/CreatorPage/Creator2.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/CreatorPage/Creator3.png" width="100%">
-메뉴|만든이들(총학생회)|만들이들(개발자)|만든이들(디자인)
+  </tr>
+   <tr>
+    <td>카테고리 페이지</td>
+    <td>음료상세 페이지1</td>
+    <td>음료상세 페이지2</td>
+    <td>커뮤니티 페이지</td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/25a7e2d6-20c0-4f37-9616-77672c1816a8"  width="100%"/></td>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/5da358a9-01db-4f1a-bb51-04d864b9f3c8"  width="100%"/></td>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/50092459-8330-4b63-b1b8-417171709730"  width="100%"/></td>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/77811aa2-026c-463f-a185-028a708ab329"  width="100%"/></td>
+  </tr>
 
-**TimeTable(Mon)**|**TimeTable(Tue)**|**Performance(Before)**|**Performance(After)**
-:-----:|:-----:|:-----:|:-----:
-<img src="/frontend/src/assets/readmeAssets/TimelinePage/TableMon.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/TimelinePage/TableTue.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/TimelinePage/Performance1.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/TimelinePage/Performance2.png" width="100%">
-월요일 타임테이블|화요일 타임테이블|공연 정보 슬라이드쇼(전면)|공연 정보 슬라이드쇼(후면)
+   <tr>
+    <td>챗봇 페이지</td>
+    <td>마이 페이지</td>
+    
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/29878bc3-4451-4a47-bcb8-9abd895935b1"  width="100%"/></td>
+    <td><img src="https://github.com/Team-cafein/.github/assets/100831607/4414defb-3d11-470d-af86-b28bd6fbd835"  width="100%"/></td>
+   
+  </tr>
+ 
 
-**EventPage1**|**EventPage2**|**EventPage3**|**AdminPage**
-:-----:|:-----:|:-----:|:-----:
-<img src="/frontend/src/assets/readmeAssets/EventPage/Seat.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/EventPage/Box.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/EventPage/Dresscode.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/AdminPage/Main.png" width="100%">
-이벤트(좌석 추첨)|이벤트(보물 찾기)|이벤트(드레스코드)|관리자 페이지(정보 수정)
+</table>
 
+<br><br>
+
+* **Phone** (권장)
+* **web**
+
+##  구조도
+
+<div align="center">
+  <img src="https://github.com/Team-cafein/.github/assets/100831607/bf640412-9ccf-49bf-b8a4-f8c51a9d1ae2"/>
+</div>
 
 <br>
 
@@ -190,5 +219,5 @@
 ## 👑 만들이들
 |이름|사진|담당역할|직책|
 |:---:|:---:|:---:|:---:|
-|[김승찬](https://github.com/kscold)|<img src="/frontend/src/assets/CreatorPage/ksc.webp" width="200" height="200"/>|모든 api 개발|FE, BE 팀장|
-|[박혜정](https://github.com/hyeongjun6364)|<img src="/frontend/src/assets/CreatorPage/lhjun.webp" width="200" height="200"/>|모든 카페 데이터 전처리|BE 팀원|
+|[김승찬](https://github.com/kscold)|<img src="https://avatars.githubusercontent.com/u/66587554?v=4" width="200" height="200"/>|모든 api 개발|FE, BE 팀장|
+|[박혜정](https://github.com/311516h)|<img src="https://avatars.githubusercontent.com/u/82697724?v=4" width="200" height="200"/>|모든 카페 데이터 전처리|BE 팀원|
